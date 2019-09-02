@@ -1,0 +1,1647 @@
+[
+    {
+        "id": 20034,
+        "name": "Australian Capital Territory",
+        "region": "",
+        "country": "Australia",
+        "countryCode": "au"
+    },
+    {
+        "id": 20035,
+        "name": "New South Wales",
+        "region": "",
+        "country": "Australia",
+        "countryCode": "au"
+    },
+    {
+        "id": 20036,
+        "name": "Northern Territory",
+        "region": "",
+        "country": "Australia",
+        "countryCode": "au"
+    },
+    {
+        "id": 20037,
+        "name": "Queensland",
+        "region": "",
+        "country": "Australia",
+        "countryCode": "au"
+    },
+    {
+        "id": 20038,
+        "name": "South Australia",
+        "region": "",
+        "country": "Australia",
+        "countryCode": "au"
+    },
+    {
+        "id": 20039,
+        "name": "Tasmania",
+        "region": "",
+        "country": "Australia",
+        "countryCode": "au"
+    },
+    {
+        "id": 20040,
+        "name": "Victoria",
+        "region": "",
+        "country": "Australia",
+        "countryCode": "au"
+    },
+    {
+        "id": 20041,
+        "name": "Western Australia",
+        "region": "",
+        "country": "Australia",
+        "countryCode": "au"
+    },
+    {
+        "id": 20042,
+        "name": "Burgenland",
+        "region": "",
+        "country": "Austria",
+        "countryCode": "at"
+    },
+    {
+        "id": 20043,
+        "name": "Carinthia",
+        "region": "",
+        "country": "Austria",
+        "countryCode": "at"
+    },
+    {
+        "id": 20044,
+        "name": "Lower Austria",
+        "region": "",
+        "country": "Austria",
+        "countryCode": "at"
+    },
+    {
+        "id": 20045,
+        "name": "Upper Austria",
+        "region": "",
+        "country": "Austria",
+        "countryCode": "at"
+    },
+    {
+        "id": 20046,
+        "name": "Salzburg",
+        "region": "",
+        "country": "Austria",
+        "countryCode": "at"
+    },
+    {
+        "id": 20047,
+        "name": "Styria",
+        "region": "",
+        "country": "Austria",
+        "countryCode": "at"
+    },
+    {
+        "id": 20048,
+        "name": "Tyrol",
+        "region": "",
+        "country": "Austria",
+        "countryCode": "at"
+    },
+    {
+        "id": 20049,
+        "name": "Vorarlberg",
+        "region": "",
+        "country": "Austria",
+        "countryCode": "at"
+    },
+    {
+        "id": 20050,
+        "name": "Vienna",
+        "region": "",
+        "country": "Austria",
+        "countryCode": "at"
+    },
+    {
+        "id": 20086,
+        "name": "State of Alagoas",
+        "region": "",
+        "country": "Brazil",
+        "countryCode": "br"
+    },
+    {
+        "id": 20087,
+        "name": "State of Amazonas",
+        "region": "",
+        "country": "Brazil",
+        "countryCode": "br"
+    },
+    {
+        "id": 20088,
+        "name": "State of Bahia",
+        "region": "",
+        "country": "Brazil",
+        "countryCode": "br"
+    },
+    {
+        "id": 20089,
+        "name": "State of Ceara",
+        "region": "",
+        "country": "Brazil",
+        "countryCode": "br"
+    },
+    {
+        "id": 20090,
+        "name": "Federal District",
+        "region": "",
+        "country": "Brazil",
+        "countryCode": "br"
+    },
+    {
+        "id": 20091,
+        "name": "State of Espirito Santo",
+        "region": "",
+        "country": "Brazil",
+        "countryCode": "br"
+    },
+    {
+        "id": 20092,
+        "name": "State of Goias",
+        "region": "",
+        "country": "Brazil",
+        "countryCode": "br"
+    },
+    {
+        "id": 20093,
+        "name": "State of Maranhao",
+        "region": "",
+        "country": "Brazil",
+        "countryCode": "br"
+    },
+    {
+        "id": 20094,
+        "name": "State of Minas Gerais",
+        "region": "",
+        "country": "Brazil",
+        "countryCode": "br"
+    },
+    {
+        "id": 20095,
+        "name": "State of Mato Grosso do Sul",
+        "region": "",
+        "country": "Brazil",
+        "countryCode": "br"
+    },
+    {
+        "id": 20096,
+        "name": "State of Mato Grosso",
+        "region": "",
+        "country": "Brazil",
+        "countryCode": "br"
+    },
+    {
+        "id": 20097,
+        "name": "State of Para",
+        "region": "",
+        "country": "Brazil",
+        "countryCode": "br"
+    },
+    {
+        "id": 20098,
+        "name": "State of Paraiba",
+        "region": "",
+        "country": "Brazil",
+        "countryCode": "br"
+    },
+    {
+        "id": 20099,
+        "name": "State of Pernambuco",
+        "region": "",
+        "country": "Brazil",
+        "countryCode": "br"
+    },
+    {
+        "id": 20100,
+        "name": "State of Piaui",
+        "region": "",
+        "country": "Brazil",
+        "countryCode": "br"
+    },
+    {
+        "id": 20101,
+        "name": "State of Parana",
+        "region": "",
+        "country": "Brazil",
+        "countryCode": "br"
+    },
+    {
+        "id": 20102,
+        "name": "State of Rio de Janeiro",
+        "region": "",
+        "country": "Brazil",
+        "countryCode": "br"
+    },
+    {
+        "id": 20103,
+        "name": "State of Rio Grande do Norte",
+        "region": "",
+        "country": "Brazil",
+        "countryCode": "br"
+    },
+    {
+        "id": 20104,
+        "name": "State of Rio Grande do Sul",
+        "region": "",
+        "country": "Brazil",
+        "countryCode": "br"
+    },
+    {
+        "id": 20105,
+        "name": "State of Santa Catarina",
+        "region": "",
+        "country": "Brazil",
+        "countryCode": "br"
+    },
+    {
+        "id": 20106,
+        "name": "State of Sao Paulo",
+        "region": "",
+        "country": "Brazil",
+        "countryCode": "br"
+    },
+    {
+        "id": 20226,
+        "name": "Berlin",
+        "region": "",
+        "country": "Germany",
+        "countryCode": "de"
+    },
+    {
+        "id": 20227,
+        "name": "Brandenburg",
+        "region": "",
+        "country": "Germany",
+        "countryCode": "de"
+    },
+    {
+        "id": 20228,
+        "name": "Baden-Wurttemberg",
+        "region": "",
+        "country": "Germany",
+        "countryCode": "de"
+    },
+    {
+        "id": 20229,
+        "name": "Bavaria",
+        "region": "",
+        "country": "Germany",
+        "countryCode": "de"
+    },
+    {
+        "id": 20230,
+        "name": "Bremen",
+        "region": "",
+        "country": "Germany",
+        "countryCode": "de"
+    },
+    {
+        "id": 20231,
+        "name": "Hesse",
+        "region": "",
+        "country": "Germany",
+        "countryCode": "de"
+    },
+    {
+        "id": 20232,
+        "name": "Hamburg",
+        "region": "",
+        "country": "Germany",
+        "countryCode": "de"
+    },
+    {
+        "id": 20233,
+        "name": "Mecklenburg-Vorpommern",
+        "region": "",
+        "country": "Germany",
+        "countryCode": "de"
+    },
+    {
+        "id": 20234,
+        "name": "Lower Saxony",
+        "region": "",
+        "country": "Germany",
+        "countryCode": "de"
+    },
+    {
+        "id": 20235,
+        "name": "North Rhine-Westphalia",
+        "region": "",
+        "country": "Germany",
+        "countryCode": "de"
+    },
+    {
+        "id": 20236,
+        "name": "Rhineland-Palatinate",
+        "region": "",
+        "country": "Germany",
+        "countryCode": "de"
+    },
+    {
+        "id": 20237,
+        "name": "Schleswig-Holstein",
+        "region": "",
+        "country": "Germany",
+        "countryCode": "de"
+    },
+    {
+        "id": 20238,
+        "name": "Saarland",
+        "region": "",
+        "country": "Germany",
+        "countryCode": "de"
+    },
+    {
+        "id": 20239,
+        "name": "Saxony",
+        "region": "",
+        "country": "Germany",
+        "countryCode": "de"
+    },
+    {
+        "id": 20240,
+        "name": "Saxony-Anhalt",
+        "region": "",
+        "country": "Germany",
+        "countryCode": "de"
+    },
+    {
+        "id": 20241,
+        "name": "Thuringia",
+        "region": "",
+        "country": "Germany",
+        "countryCode": "de"
+    },
+    {
+        "id": 20453,
+        "name": "Andhra Pradesh",
+        "region": "",
+        "country": "India",
+        "countryCode": "in"
+    },
+    {
+        "id": 20454,
+        "name": "Assam",
+        "region": "",
+        "country": "India",
+        "countryCode": "in"
+    },
+    {
+        "id": 20455,
+        "name": "Bihar",
+        "region": "",
+        "country": "India",
+        "countryCode": "in"
+    },
+    {
+        "id": 20457,
+        "name": "Gujarat",
+        "region": "",
+        "country": "India",
+        "countryCode": "in"
+    },
+    {
+        "id": 20458,
+        "name": "Haryana",
+        "region": "",
+        "country": "India",
+        "countryCode": "in"
+    },
+    {
+        "id": 20459,
+        "name": "Jammu and Kashmir",
+        "region": "",
+        "country": "India",
+        "countryCode": "in"
+    },
+    {
+        "id": 20460,
+        "name": "Karnataka",
+        "region": "",
+        "country": "India",
+        "countryCode": "in"
+    },
+    {
+        "id": 20461,
+        "name": "Kerala",
+        "region": "",
+        "country": "India",
+        "countryCode": "in"
+    },
+    {
+        "id": 20462,
+        "name": "Maharashtra",
+        "region": "",
+        "country": "India",
+        "countryCode": "in"
+    },
+    {
+        "id": 20463,
+        "name": "Meghalaya",
+        "region": "",
+        "country": "India",
+        "countryCode": "in"
+    },
+    {
+        "id": 20464,
+        "name": "Madhya Pradesh",
+        "region": "",
+        "country": "India",
+        "countryCode": "in"
+    },
+    {
+        "id": 20465,
+        "name": "Odisha",
+        "region": "",
+        "country": "India",
+        "countryCode": "in"
+    },
+    {
+        "id": 20466,
+        "name": "Punjab",
+        "region": "",
+        "country": "India",
+        "countryCode": "in"
+    },
+    {
+        "id": 20468,
+        "name": "Rajasthan",
+        "region": "",
+        "country": "India",
+        "countryCode": "in"
+    },
+    {
+        "id": 20469,
+        "name": "Tamil Nadu",
+        "region": "",
+        "country": "India",
+        "countryCode": "in"
+    },
+    {
+        "id": 20470,
+        "name": "Tripura",
+        "region": "",
+        "country": "India",
+        "countryCode": "in"
+    },
+    {
+        "id": 20471,
+        "name": "Uttar Pradesh",
+        "region": "",
+        "country": "India",
+        "countryCode": "in"
+    },
+    {
+        "id": 20472,
+        "name": "West Bengal",
+        "region": "",
+        "country": "India",
+        "countryCode": "in"
+    },
+    {
+        "id": 20694,
+        "name": "Aguascalientes",
+        "region": "",
+        "country": "Mexico",
+        "countryCode": "mx"
+    },
+    {
+        "id": 20696,
+        "name": "Baja California",
+        "region": "",
+        "country": "Mexico",
+        "countryCode": "mx"
+    },
+    {
+        "id": 20697,
+        "name": "Baja California Sur",
+        "region": "",
+        "country": "Mexico",
+        "countryCode": "mx"
+    },
+    {
+        "id": 20698,
+        "name": "Campeche",
+        "region": "",
+        "country": "Mexico",
+        "countryCode": "mx"
+    },
+    {
+        "id": 20699,
+        "name": "Chihuahua",
+        "region": "",
+        "country": "Mexico",
+        "countryCode": "mx"
+    },
+    {
+        "id": 20700,
+        "name": "Chiapas",
+        "region": "",
+        "country": "Mexico",
+        "countryCode": "mx"
+    },
+    {
+        "id": 20701,
+        "name": "Coahuila",
+        "region": "",
+        "country": "Mexico",
+        "countryCode": "mx"
+    },
+    {
+        "id": 20702,
+        "name": "Colima",
+        "region": "",
+        "country": "Mexico",
+        "countryCode": "mx"
+    },
+    {
+        "id": 20703,
+        "name": "Mexico City",
+        "region": "",
+        "country": "Mexico",
+        "countryCode": "mx"
+    },
+    {
+        "id": 20704,
+        "name": "Durango",
+        "region": "",
+        "country": "Mexico",
+        "countryCode": "mx"
+    },
+    {
+        "id": 20705,
+        "name": "Guerrero",
+        "region": "",
+        "country": "Mexico",
+        "countryCode": "mx"
+    },
+    {
+        "id": 20706,
+        "name": "Guanajuato",
+        "region": "",
+        "country": "Mexico",
+        "countryCode": "mx"
+    },
+    {
+        "id": 20707,
+        "name": "Hidalgo",
+        "region": "",
+        "country": "Mexico",
+        "countryCode": "mx"
+    },
+    {
+        "id": 20708,
+        "name": "Jalisco",
+        "region": "",
+        "country": "Mexico",
+        "countryCode": "mx"
+    },
+    {
+        "id": 20709,
+        "name": "State of Mexico",
+        "region": "",
+        "country": "Mexico",
+        "countryCode": "mx"
+    },
+    {
+        "id": 20710,
+        "name": "Michoacan",
+        "region": "",
+        "country": "Mexico",
+        "countryCode": "mx"
+    },
+    {
+        "id": 20711,
+        "name": "Morelos",
+        "region": "",
+        "country": "Mexico",
+        "countryCode": "mx"
+    },
+    {
+        "id": 20712,
+        "name": "Nayarit",
+        "region": "",
+        "country": "Mexico",
+        "countryCode": "mx"
+    },
+    {
+        "id": 20713,
+        "name": "Nuevo Leon",
+        "region": "",
+        "country": "Mexico",
+        "countryCode": "mx"
+    },
+    {
+        "id": 20714,
+        "name": "Oaxaca",
+        "region": "",
+        "country": "Mexico",
+        "countryCode": "mx"
+    },
+    {
+        "id": 20715,
+        "name": "Puebla",
+        "region": "",
+        "country": "Mexico",
+        "countryCode": "mx"
+    },
+    {
+        "id": 20716,
+        "name": "Queretaro",
+        "region": "",
+        "country": "Mexico",
+        "countryCode": "mx"
+    },
+    {
+        "id": 20717,
+        "name": "Quintana Roo",
+        "region": "",
+        "country": "Mexico",
+        "countryCode": "mx"
+    },
+    {
+        "id": 20718,
+        "name": "Sinaloa",
+        "region": "",
+        "country": "Mexico",
+        "countryCode": "mx"
+    },
+    {
+        "id": 20719,
+        "name": "San Luis Potosi",
+        "region": "",
+        "country": "Mexico",
+        "countryCode": "mx"
+    },
+    {
+        "id": 20720,
+        "name": "Sonora",
+        "region": "",
+        "country": "Mexico",
+        "countryCode": "mx"
+    },
+    {
+        "id": 20721,
+        "name": "Tabasco",
+        "region": "",
+        "country": "Mexico",
+        "countryCode": "mx"
+    },
+    {
+        "id": 20722,
+        "name": "Tamaulipas",
+        "region": "",
+        "country": "Mexico",
+        "countryCode": "mx"
+    },
+    {
+        "id": 20723,
+        "name": "Tlaxcala",
+        "region": "",
+        "country": "Mexico",
+        "countryCode": "mx"
+    },
+    {
+        "id": 20724,
+        "name": "Veracruz",
+        "region": "",
+        "country": "Mexico",
+        "countryCode": "mx"
+    },
+    {
+        "id": 20725,
+        "name": "Yucatan",
+        "region": "",
+        "country": "Mexico",
+        "countryCode": "mx"
+    },
+    {
+        "id": 20726,
+        "name": "Zacatecas",
+        "region": "",
+        "country": "Mexico",
+        "countryCode": "mx"
+    },
+    {
+        "id": 20737,
+        "name": "Perak",
+        "region": "",
+        "country": "Malaysia",
+        "countryCode": "my"
+    },
+    {
+        "id": 20738,
+        "name": "Selangor",
+        "region": "",
+        "country": "Malaysia",
+        "countryCode": "my"
+    },
+    {
+        "id": 20739,
+        "name": "Pahang",
+        "region": "",
+        "country": "Malaysia",
+        "countryCode": "my"
+    },
+    {
+        "id": 20740,
+        "name": "Kelantan",
+        "region": "",
+        "country": "Malaysia",
+        "countryCode": "my"
+    },
+    {
+        "id": 20741,
+        "name": "Johor",
+        "region": "",
+        "country": "Malaysia",
+        "countryCode": "my"
+    },
+    {
+        "id": 20742,
+        "name": "Kedah",
+        "region": "",
+        "country": "Malaysia",
+        "countryCode": "my"
+    },
+    {
+        "id": 20743,
+        "name": "Labuan Federal Territory",
+        "region": "",
+        "country": "Malaysia",
+        "countryCode": "my"
+    },
+    {
+        "id": 20744,
+        "name": "Malacca",
+        "region": "",
+        "country": "Malaysia",
+        "countryCode": "my"
+    },
+    {
+        "id": 20745,
+        "name": "Negeri Sembilan",
+        "region": "",
+        "country": "Malaysia",
+        "countryCode": "my"
+    },
+    {
+        "id": 20746,
+        "name": "Penang",
+        "region": "",
+        "country": "Malaysia",
+        "countryCode": "my"
+    },
+    {
+        "id": 20747,
+        "name": "Perlis",
+        "region": "",
+        "country": "Malaysia",
+        "countryCode": "my"
+    },
+    {
+        "id": 20748,
+        "name": "Sabah",
+        "region": "",
+        "country": "Malaysia",
+        "countryCode": "my"
+    },
+    {
+        "id": 20749,
+        "name": "Sarawak",
+        "region": "",
+        "country": "Malaysia",
+        "countryCode": "my"
+    },
+    {
+        "id": 20750,
+        "name": "Terengganu",
+        "region": "",
+        "country": "Malaysia",
+        "countryCode": "my"
+    },
+    {
+        "id": 20751,
+        "name": "Federal Territory of Kuala Lumpur",
+        "region": "",
+        "country": "Malaysia",
+        "countryCode": "my"
+    },
+    {
+        "id": 21132,
+        "name": "Alaska",
+        "region": "",
+        "country": "United States",
+        "countryCode": "us"
+    },
+    {
+        "id": 21133,
+        "name": "Alabama",
+        "region": "",
+        "country": "United States",
+        "countryCode": "us"
+    },
+    {
+        "id": 21135,
+        "name": "Arkansas",
+        "region": "",
+        "country": "United States",
+        "countryCode": "us"
+    },
+    {
+        "id": 21136,
+        "name": "Arizona",
+        "region": "",
+        "country": "United States",
+        "countryCode": "us"
+    },
+    {
+        "id": 21137,
+        "name": "California",
+        "region": "",
+        "country": "United States",
+        "countryCode": "us"
+    },
+    {
+        "id": 21138,
+        "name": "Colorado",
+        "region": "",
+        "country": "United States",
+        "countryCode": "us"
+    },
+    {
+        "id": 21139,
+        "name": "Connecticut",
+        "region": "",
+        "country": "United States",
+        "countryCode": "us"
+    },
+    {
+        "id": 21140,
+        "name": "District of Columbia",
+        "region": "",
+        "country": "United States",
+        "countryCode": "us"
+    },
+    {
+        "id": 21141,
+        "name": "Delaware",
+        "region": "",
+        "country": "United States",
+        "countryCode": "us"
+    },
+    {
+        "id": 21142,
+        "name": "Florida",
+        "region": "",
+        "country": "United States",
+        "countryCode": "us"
+    },
+    {
+        "id": 21143,
+        "name": "Georgia",
+        "region": "",
+        "country": "United States",
+        "countryCode": "us"
+    },
+    {
+        "id": 21144,
+        "name": "Hawaii",
+        "region": "",
+        "country": "United States",
+        "countryCode": "us"
+    },
+    {
+        "id": 21145,
+        "name": "Iowa",
+        "region": "",
+        "country": "United States",
+        "countryCode": "us"
+    },
+    {
+        "id": 21146,
+        "name": "Idaho",
+        "region": "",
+        "country": "United States",
+        "countryCode": "us"
+    },
+    {
+        "id": 21147,
+        "name": "Illinois",
+        "region": "",
+        "country": "United States",
+        "countryCode": "us"
+    },
+    {
+        "id": 21148,
+        "name": "Indiana",
+        "region": "",
+        "country": "United States",
+        "countryCode": "us"
+    },
+    {
+        "id": 21149,
+        "name": "Kansas",
+        "region": "",
+        "country": "United States",
+        "countryCode": "us"
+    },
+    {
+        "id": 21150,
+        "name": "Kentucky",
+        "region": "",
+        "country": "United States",
+        "countryCode": "us"
+    },
+    {
+        "id": 21151,
+        "name": "Louisiana",
+        "region": "",
+        "country": "United States",
+        "countryCode": "us"
+    },
+    {
+        "id": 21152,
+        "name": "Massachusetts",
+        "region": "",
+        "country": "United States",
+        "countryCode": "us"
+    },
+    {
+        "id": 21153,
+        "name": "Maryland",
+        "region": "",
+        "country": "United States",
+        "countryCode": "us"
+    },
+    {
+        "id": 21154,
+        "name": "Maine",
+        "region": "",
+        "country": "United States",
+        "countryCode": "us"
+    },
+    {
+        "id": 21155,
+        "name": "Michigan",
+        "region": "",
+        "country": "United States",
+        "countryCode": "us"
+    },
+    {
+        "id": 21156,
+        "name": "Minnesota",
+        "region": "",
+        "country": "United States",
+        "countryCode": "us"
+    },
+    {
+        "id": 21157,
+        "name": "Missouri",
+        "region": "",
+        "country": "United States",
+        "countryCode": "us"
+    },
+    {
+        "id": 21158,
+        "name": "Mississippi",
+        "region": "",
+        "country": "United States",
+        "countryCode": "us"
+    },
+    {
+        "id": 21159,
+        "name": "Montana",
+        "region": "",
+        "country": "United States",
+        "countryCode": "us"
+    },
+    {
+        "id": 21160,
+        "name": "North Carolina",
+        "region": "",
+        "country": "United States",
+        "countryCode": "us"
+    },
+    {
+        "id": 21161,
+        "name": "North Dakota",
+        "region": "",
+        "country": "United States",
+        "countryCode": "us"
+    },
+    {
+        "id": 21162,
+        "name": "Nebraska",
+        "region": "",
+        "country": "United States",
+        "countryCode": "us"
+    },
+    {
+        "id": 21163,
+        "name": "New Hampshire",
+        "region": "",
+        "country": "United States",
+        "countryCode": "us"
+    },
+    {
+        "id": 21164,
+        "name": "New Jersey",
+        "region": "",
+        "country": "United States",
+        "countryCode": "us"
+    },
+    {
+        "id": 21165,
+        "name": "New Mexico",
+        "region": "",
+        "country": "United States",
+        "countryCode": "us"
+    },
+    {
+        "id": 21166,
+        "name": "Nevada",
+        "region": "",
+        "country": "United States",
+        "countryCode": "us"
+    },
+    {
+        "id": 21167,
+        "name": "New York",
+        "region": "",
+        "country": "United States",
+        "countryCode": "us"
+    },
+    {
+        "id": 21168,
+        "name": "Ohio",
+        "region": "",
+        "country": "United States",
+        "countryCode": "us"
+    },
+    {
+        "id": 21169,
+        "name": "Oklahoma",
+        "region": "",
+        "country": "United States",
+        "countryCode": "us"
+    },
+    {
+        "id": 21170,
+        "name": "Oregon",
+        "region": "",
+        "country": "United States",
+        "countryCode": "us"
+    },
+    {
+        "id": 21171,
+        "name": "Pennsylvania",
+        "region": "",
+        "country": "United States",
+        "countryCode": "us"
+    },
+    {
+        "id": 21172,
+        "name": "Rhode Island",
+        "region": "",
+        "country": "United States",
+        "countryCode": "us"
+    },
+    {
+        "id": 21173,
+        "name": "South Carolina",
+        "region": "",
+        "country": "United States",
+        "countryCode": "us"
+    },
+    {
+        "id": 21174,
+        "name": "South Dakota",
+        "region": "",
+        "country": "United States",
+        "countryCode": "us"
+    },
+    {
+        "id": 21175,
+        "name": "Tennessee",
+        "region": "",
+        "country": "United States",
+        "countryCode": "us"
+    },
+    {
+        "id": 21176,
+        "name": "Texas",
+        "region": "",
+        "country": "United States",
+        "countryCode": "us"
+    },
+    {
+        "id": 21177,
+        "name": "Utah",
+        "region": "",
+        "country": "United States",
+        "countryCode": "us"
+    },
+    {
+        "id": 21178,
+        "name": "Virginia",
+        "region": "",
+        "country": "United States",
+        "countryCode": "us"
+    },
+    {
+        "id": 21179,
+        "name": "Vermont",
+        "region": "",
+        "country": "United States",
+        "countryCode": "us"
+    },
+    {
+        "id": 21180,
+        "name": "Washington",
+        "region": "",
+        "country": "United States",
+        "countryCode": "us"
+    },
+    {
+        "id": 21182,
+        "name": "Wisconsin",
+        "region": "",
+        "country": "United States",
+        "countryCode": "us"
+    },
+    {
+        "id": 21183,
+        "name": "West Virginia",
+        "region": "",
+        "country": "United States",
+        "countryCode": "us"
+    },
+    {
+        "id": 21184,
+        "name": "Wyoming",
+        "region": "",
+        "country": "United States",
+        "countryCode": "us"
+    },
+    {
+        "id": 21226,
+        "name": "State of Amapa",
+        "region": "",
+        "country": "Brazil",
+        "countryCode": "br"
+    },
+    {
+        "id": 21227,
+        "name": "State of Rondonia",
+        "region": "",
+        "country": "Brazil",
+        "countryCode": "br"
+    },
+    {
+        "id": 21228,
+        "name": "State of Roraima",
+        "region": "",
+        "country": "Brazil",
+        "countryCode": "br"
+    },
+    {
+        "id": 21229,
+        "name": "State of Sergipe",
+        "region": "",
+        "country": "Brazil",
+        "countryCode": "br"
+    },
+    {
+        "id": 21230,
+        "name": "State of Tocantins",
+        "region": "",
+        "country": "Brazil",
+        "countryCode": "br"
+    },
+    {
+        "id": 21232,
+        "name": "State of Acre",
+        "region": "",
+        "country": "Brazil",
+        "countryCode": "br"
+    },
+    {
+        "id": 21268,
+        "name": "Goa",
+        "region": "",
+        "country": "India",
+        "countryCode": "in"
+    },
+    {
+        "id": 21289,
+        "name": "Arunachal Pradesh",
+        "region": "",
+        "country": "India",
+        "countryCode": "in"
+    },
+    {
+        "id": 21334,
+        "name": "Chhattisgarh",
+        "region": "",
+        "country": "India",
+        "countryCode": "in"
+    },
+    {
+        "id": 21335,
+        "name": "Himachal Pradesh",
+        "region": "",
+        "country": "India",
+        "countryCode": "in"
+    },
+    {
+        "id": 21336,
+        "name": "Jharkhand",
+        "region": "",
+        "country": "India",
+        "countryCode": "in"
+    },
+    {
+        "id": 21337,
+        "name": "Manipur",
+        "region": "",
+        "country": "India",
+        "countryCode": "in"
+    },
+    {
+        "id": 21338,
+        "name": "Mizoram",
+        "region": "",
+        "country": "India",
+        "countryCode": "in"
+    },
+    {
+        "id": 21339,
+        "name": "Nagaland",
+        "region": "",
+        "country": "India",
+        "countryCode": "in"
+    },
+    {
+        "id": 21340,
+        "name": "Sikkim",
+        "region": "",
+        "country": "India",
+        "countryCode": "in"
+    },
+    {
+        "id": 21341,
+        "name": "Uttarakhand",
+        "region": "",
+        "country": "India",
+        "countryCode": "in"
+    },
+    {
+        "id": 21539,
+        "name": "Putrajaya",
+        "region": "",
+        "country": "Malaysia",
+        "countryCode": "my"
+    },
+    {
+        "id": 21540,
+        "name": "Abia",
+        "region": "",
+        "country": "Nigeria",
+        "countryCode": "ng"
+    },
+    {
+        "id": 21541,
+        "name": "Federal Capital Territory",
+        "region": "",
+        "country": "Nigeria",
+        "countryCode": "ng"
+    },
+    {
+        "id": 21542,
+        "name": "Adamawa",
+        "region": "",
+        "country": "Nigeria",
+        "countryCode": "ng"
+    },
+    {
+        "id": 21543,
+        "name": "Akwa Ibom",
+        "region": "",
+        "country": "Nigeria",
+        "countryCode": "ng"
+    },
+    {
+        "id": 21544,
+        "name": "Anambra",
+        "region": "",
+        "country": "Nigeria",
+        "countryCode": "ng"
+    },
+    {
+        "id": 21545,
+        "name": "Bauchi",
+        "region": "",
+        "country": "Nigeria",
+        "countryCode": "ng"
+    },
+    {
+        "id": 21546,
+        "name": "Bayelsa",
+        "region": "",
+        "country": "Nigeria",
+        "countryCode": "ng"
+    },
+    {
+        "id": 21547,
+        "name": "Benue",
+        "region": "",
+        "country": "Nigeria",
+        "countryCode": "ng"
+    },
+    {
+        "id": 21548,
+        "name": "Borno",
+        "region": "",
+        "country": "Nigeria",
+        "countryCode": "ng"
+    },
+    {
+        "id": 21549,
+        "name": "Cross River",
+        "region": "",
+        "country": "Nigeria",
+        "countryCode": "ng"
+    },
+    {
+        "id": 21550,
+        "name": "Delta",
+        "region": "",
+        "country": "Nigeria",
+        "countryCode": "ng"
+    },
+    {
+        "id": 21551,
+        "name": "Ebonyi",
+        "region": "",
+        "country": "Nigeria",
+        "countryCode": "ng"
+    },
+    {
+        "id": 21552,
+        "name": "Edo",
+        "region": "",
+        "country": "Nigeria",
+        "countryCode": "ng"
+    },
+    {
+        "id": 21553,
+        "name": "Ekiti",
+        "region": "",
+        "country": "Nigeria",
+        "countryCode": "ng"
+    },
+    {
+        "id": 21554,
+        "name": "Enugu",
+        "region": "",
+        "country": "Nigeria",
+        "countryCode": "ng"
+    },
+    {
+        "id": 21555,
+        "name": "Gombe",
+        "region": "",
+        "country": "Nigeria",
+        "countryCode": "ng"
+    },
+    {
+        "id": 21556,
+        "name": "Imo",
+        "region": "",
+        "country": "Nigeria",
+        "countryCode": "ng"
+    },
+    {
+        "id": 21557,
+        "name": "Jigawa",
+        "region": "",
+        "country": "Nigeria",
+        "countryCode": "ng"
+    },
+    {
+        "id": 21558,
+        "name": "Kaduna",
+        "region": "",
+        "country": "Nigeria",
+        "countryCode": "ng"
+    },
+    {
+        "id": 21559,
+        "name": "Kano",
+        "region": "",
+        "country": "Nigeria",
+        "countryCode": "ng"
+    },
+    {
+        "id": 21560,
+        "name": "Katsina",
+        "region": "",
+        "country": "Nigeria",
+        "countryCode": "ng"
+    },
+    {
+        "id": 21561,
+        "name": "Kebbi",
+        "region": "",
+        "country": "Nigeria",
+        "countryCode": "ng"
+    },
+    {
+        "id": 21562,
+        "name": "Kogi",
+        "region": "",
+        "country": "Nigeria",
+        "countryCode": "ng"
+    },
+    {
+        "id": 21563,
+        "name": "Kwara",
+        "region": "",
+        "country": "Nigeria",
+        "countryCode": "ng"
+    },
+    {
+        "id": 21564,
+        "name": "Lagos",
+        "region": "",
+        "country": "Nigeria",
+        "countryCode": "ng"
+    },
+    {
+        "id": 21565,
+        "name": "Nasarawa",
+        "region": "",
+        "country": "Nigeria",
+        "countryCode": "ng"
+    },
+    {
+        "id": 21566,
+        "name": "Niger",
+        "region": "",
+        "country": "Nigeria",
+        "countryCode": "ng"
+    },
+    {
+        "id": 21567,
+        "name": "Ogun State",
+        "region": "",
+        "country": "Nigeria",
+        "countryCode": "ng"
+    },
+    {
+        "id": 21568,
+        "name": "Ondo",
+        "region": "",
+        "country": "Nigeria",
+        "countryCode": "ng"
+    },
+    {
+        "id": 21569,
+        "name": "Osun",
+        "region": "",
+        "country": "Nigeria",
+        "countryCode": "ng"
+    },
+    {
+        "id": 21570,
+        "name": "Oyo",
+        "region": "",
+        "country": "Nigeria",
+        "countryCode": "ng"
+    },
+    {
+        "id": 21571,
+        "name": "Plateau",
+        "region": "",
+        "country": "Nigeria",
+        "countryCode": "ng"
+    },
+    {
+        "id": 21572,
+        "name": "Rivers",
+        "region": "",
+        "country": "Nigeria",
+        "countryCode": "ng"
+    },
+    {
+        "id": 21573,
+        "name": "Sokoto",
+        "region": "",
+        "country": "Nigeria",
+        "countryCode": "ng"
+    },
+    {
+        "id": 21574,
+        "name": "Taraba",
+        "region": "",
+        "country": "Nigeria",
+        "countryCode": "ng"
+    },
+    {
+        "id": 21575,
+        "name": "Yobe",
+        "region": "",
+        "country": "Nigeria",
+        "countryCode": "ng"
+    },
+    {
+        "id": 21576,
+        "name": "Zamfara",
+        "region": "",
+        "country": "Nigeria",
+        "countryCode": "ng"
+    },
+    {
+        "id": 9061642,
+        "name": "Telangana",
+        "region": "",
+        "country": "India",
+        "countryCode": "in"
+    },
+    {
+        "id": 9065354,
+        "name": "Mon State",
+        "region": "",
+        "country": "Myanmar (Burma)",
+        "countryCode": "mm"
+    },
+    {
+        "id": 9065355,
+        "name": "Kayin State",
+        "region": "",
+        "country": "Myanmar (Burma)",
+        "countryCode": "mm"
+    },
+    {
+        "id": 9065356,
+        "name": "Shan",
+        "region": "",
+        "country": "Myanmar (Burma)",
+        "countryCode": "mm"
+    },
+    {
+        "id": 9069664,
+        "name": "Federal Dependencies of Venezuela",
+        "region": "",
+        "country": "Venezuela",
+        "countryCode": "ve"
+    },
+    {
+        "id": 9069665,
+        "name": "Cojedes",
+        "region": "",
+        "country": "Venezuela",
+        "countryCode": "ve"
+    },
+    {
+        "id": 9069666,
+        "name": "Delta Amacuro",
+        "region": "",
+        "country": "Venezuela",
+        "countryCode": "ve"
+    },
+    {
+        "id": 9069667,
+        "name": "Amazonas",
+        "region": "",
+        "country": "Venezuela",
+        "countryCode": "ve"
+    },
+    {
+        "id": 9070181,
+        "name": "Kayah State",
+        "region": "",
+        "country": "Myanmar (Burma)",
+        "countryCode": "mm"
+    },
+    {
+        "id": 9075777,
+        "name": "Chin State",
+        "region": "",
+        "country": "Myanmar (Burma)",
+        "countryCode": "mm"
+    },
+    {
+        "id": 9075988,
+        "name": "Vargas",
+        "region": "",
+        "country": "Venezuela",
+        "countryCode": "ve"
+    }
+]

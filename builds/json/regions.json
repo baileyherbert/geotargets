@@ -1,0 +1,6337 @@
+[
+    {
+        "id": 1007543,
+        "name": "Rhodes",
+        "region": "Decentralized Administration of the Aegean",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 20079,
+        "name": "Republika Srpska",
+        "region": "",
+        "country": "Bosnia and Herzegovina",
+        "countryCode": "ba"
+    },
+    {
+        "id": 20152,
+        "name": "Antofagasta Region",
+        "region": "",
+        "country": "Chile",
+        "countryCode": "cl"
+    },
+    {
+        "id": 20153,
+        "name": "Araucania",
+        "region": "",
+        "country": "Chile",
+        "countryCode": "cl"
+    },
+    {
+        "id": 20154,
+        "name": "Bio Bio Region",
+        "region": "",
+        "country": "Chile",
+        "countryCode": "cl"
+    },
+    {
+        "id": 20155,
+        "name": "Coquimbo Region",
+        "region": "",
+        "country": "Chile",
+        "countryCode": "cl"
+    },
+    {
+        "id": 20156,
+        "name": "O'Higgins Region",
+        "region": "",
+        "country": "Chile",
+        "countryCode": "cl"
+    },
+    {
+        "id": 20157,
+        "name": "Los Lagos Region",
+        "region": "",
+        "country": "Chile",
+        "countryCode": "cl"
+    },
+    {
+        "id": 20158,
+        "name": "Magallanes y la Antartica Chilena Region",
+        "region": "",
+        "country": "Chile",
+        "countryCode": "cl"
+    },
+    {
+        "id": 20159,
+        "name": "Maule Region",
+        "region": "",
+        "country": "Chile",
+        "countryCode": "cl"
+    },
+    {
+        "id": 20160,
+        "name": "Santiago Metropolitan Region",
+        "region": "",
+        "country": "Chile",
+        "countryCode": "cl"
+    },
+    {
+        "id": 20161,
+        "name": "Tarapaca Region",
+        "region": "",
+        "country": "Chile",
+        "countryCode": "cl"
+    },
+    {
+        "id": 20162,
+        "name": "Valparaiso Region",
+        "region": "",
+        "country": "Chile",
+        "countryCode": "cl"
+    },
+    {
+        "id": 20163,
+        "name": "Beijing",
+        "region": "",
+        "country": "China",
+        "countryCode": "cn"
+    },
+    {
+        "id": 20164,
+        "name": "Tianjin",
+        "region": "",
+        "country": "China",
+        "countryCode": "cn"
+    },
+    {
+        "id": 20165,
+        "name": "Hebei",
+        "region": "",
+        "country": "China",
+        "countryCode": "cn"
+    },
+    {
+        "id": 20166,
+        "name": "Shanxi",
+        "region": "",
+        "country": "China",
+        "countryCode": "cn"
+    },
+    {
+        "id": 20167,
+        "name": "Inner Mongolia",
+        "region": "",
+        "country": "China",
+        "countryCode": "cn"
+    },
+    {
+        "id": 20168,
+        "name": "Liaoning",
+        "region": "",
+        "country": "China",
+        "countryCode": "cn"
+    },
+    {
+        "id": 20169,
+        "name": "Jilin",
+        "region": "",
+        "country": "China",
+        "countryCode": "cn"
+    },
+    {
+        "id": 20170,
+        "name": "Heilongjiang",
+        "region": "",
+        "country": "China",
+        "countryCode": "cn"
+    },
+    {
+        "id": 20171,
+        "name": "Shanghai",
+        "region": "",
+        "country": "China",
+        "countryCode": "cn"
+    },
+    {
+        "id": 20172,
+        "name": "Jiangsu",
+        "region": "",
+        "country": "China",
+        "countryCode": "cn"
+    },
+    {
+        "id": 20173,
+        "name": "Zhejiang",
+        "region": "",
+        "country": "China",
+        "countryCode": "cn"
+    },
+    {
+        "id": 20174,
+        "name": "Anhui",
+        "region": "",
+        "country": "China",
+        "countryCode": "cn"
+    },
+    {
+        "id": 20175,
+        "name": "Fujian",
+        "region": "",
+        "country": "China",
+        "countryCode": "cn"
+    },
+    {
+        "id": 20176,
+        "name": "Jiangxi",
+        "region": "",
+        "country": "China",
+        "countryCode": "cn"
+    },
+    {
+        "id": 20177,
+        "name": "Shandong",
+        "region": "",
+        "country": "China",
+        "countryCode": "cn"
+    },
+    {
+        "id": 20178,
+        "name": "Henan",
+        "region": "",
+        "country": "China",
+        "countryCode": "cn"
+    },
+    {
+        "id": 20179,
+        "name": "Hubei",
+        "region": "",
+        "country": "China",
+        "countryCode": "cn"
+    },
+    {
+        "id": 20180,
+        "name": "Hunan",
+        "region": "",
+        "country": "China",
+        "countryCode": "cn"
+    },
+    {
+        "id": 20181,
+        "name": "Guangdong",
+        "region": "",
+        "country": "China",
+        "countryCode": "cn"
+    },
+    {
+        "id": 20182,
+        "name": "Guangxi",
+        "region": "",
+        "country": "China",
+        "countryCode": "cn"
+    },
+    {
+        "id": 20183,
+        "name": "Hainan",
+        "region": "",
+        "country": "China",
+        "countryCode": "cn"
+    },
+    {
+        "id": 20184,
+        "name": "Chongqing",
+        "region": "",
+        "country": "China",
+        "countryCode": "cn"
+    },
+    {
+        "id": 20185,
+        "name": "Sichuan",
+        "region": "",
+        "country": "China",
+        "countryCode": "cn"
+    },
+    {
+        "id": 20186,
+        "name": "Guizhou",
+        "region": "",
+        "country": "China",
+        "countryCode": "cn"
+    },
+    {
+        "id": 20187,
+        "name": "Yunnan",
+        "region": "",
+        "country": "China",
+        "countryCode": "cn"
+    },
+    {
+        "id": 20188,
+        "name": "Tibet",
+        "region": "",
+        "country": "China",
+        "countryCode": "cn"
+    },
+    {
+        "id": 20189,
+        "name": "Shaanxi",
+        "region": "",
+        "country": "China",
+        "countryCode": "cn"
+    },
+    {
+        "id": 20190,
+        "name": "Gansu",
+        "region": "",
+        "country": "China",
+        "countryCode": "cn"
+    },
+    {
+        "id": 20191,
+        "name": "Qinghai",
+        "region": "",
+        "country": "China",
+        "countryCode": "cn"
+    },
+    {
+        "id": 20192,
+        "name": "Ningxia",
+        "region": "",
+        "country": "China",
+        "countryCode": "cn"
+    },
+    {
+        "id": 20193,
+        "name": "Xinjiang",
+        "region": "",
+        "country": "China",
+        "countryCode": "cn"
+    },
+    {
+        "id": 20198,
+        "name": "Antioquia",
+        "region": "",
+        "country": "Colombia",
+        "countryCode": "co"
+    },
+    {
+        "id": 20199,
+        "name": "Atlantico",
+        "region": "",
+        "country": "Colombia",
+        "countryCode": "co"
+    },
+    {
+        "id": 20200,
+        "name": "Bolivar",
+        "region": "",
+        "country": "Colombia",
+        "countryCode": "co"
+    },
+    {
+        "id": 20201,
+        "name": "Caldas",
+        "region": "",
+        "country": "Colombia",
+        "countryCode": "co"
+    },
+    {
+        "id": 20202,
+        "name": "Cundinamarca",
+        "region": "",
+        "country": "Colombia",
+        "countryCode": "co"
+    },
+    {
+        "id": 20203,
+        "name": "Bogota",
+        "region": "",
+        "country": "Colombia",
+        "countryCode": "co"
+    },
+    {
+        "id": 20204,
+        "name": "Huila",
+        "region": "",
+        "country": "Colombia",
+        "countryCode": "co"
+    },
+    {
+        "id": 20205,
+        "name": "Meta",
+        "region": "",
+        "country": "Colombia",
+        "countryCode": "co"
+    },
+    {
+        "id": 20206,
+        "name": "Narino",
+        "region": "",
+        "country": "Colombia",
+        "countryCode": "co"
+    },
+    {
+        "id": 20207,
+        "name": "Putumayo",
+        "region": "",
+        "country": "Colombia",
+        "countryCode": "co"
+    },
+    {
+        "id": 20208,
+        "name": "Risaralda",
+        "region": "",
+        "country": "Colombia",
+        "countryCode": "co"
+    },
+    {
+        "id": 20209,
+        "name": "Santander",
+        "region": "",
+        "country": "Colombia",
+        "countryCode": "co"
+    },
+    {
+        "id": 20210,
+        "name": "Tolima",
+        "region": "",
+        "country": "Colombia",
+        "countryCode": "co"
+    },
+    {
+        "id": 20211,
+        "name": "Valle del Cauca",
+        "region": "",
+        "country": "Colombia",
+        "countryCode": "co"
+    },
+    {
+        "id": 20218,
+        "name": "South Bohemian Region",
+        "region": "",
+        "country": "Czechia",
+        "countryCode": "cz"
+    },
+    {
+        "id": 20219,
+        "name": "South Moravian Region",
+        "region": "",
+        "country": "Czechia",
+        "countryCode": "cz"
+    },
+    {
+        "id": 20243,
+        "name": "Capital Region of Denmark",
+        "region": "",
+        "country": "Denmark",
+        "countryCode": "dk"
+    },
+    {
+        "id": 20245,
+        "name": "Region Zealand",
+        "region": "",
+        "country": "Denmark",
+        "countryCode": "dk"
+    },
+    {
+        "id": 20252,
+        "name": "Region of Southern Denmark",
+        "region": "",
+        "country": "Denmark",
+        "countryCode": "dk"
+    },
+    {
+        "id": 20254,
+        "name": "Central Denmark Region",
+        "region": "",
+        "country": "Denmark",
+        "countryCode": "dk"
+    },
+    {
+        "id": 20256,
+        "name": "North Denmark Region",
+        "region": "",
+        "country": "Denmark",
+        "countryCode": "dk"
+    },
+    {
+        "id": 20311,
+        "name": "Alsace",
+        "region": "",
+        "country": "France",
+        "countryCode": "fr"
+    },
+    {
+        "id": 20313,
+        "name": "Aquitaine",
+        "region": "",
+        "country": "France",
+        "countryCode": "fr"
+    },
+    {
+        "id": 20314,
+        "name": "Auvergne",
+        "region": "",
+        "country": "France",
+        "countryCode": "fr"
+    },
+    {
+        "id": 20315,
+        "name": "Burgundy",
+        "region": "",
+        "country": "France",
+        "countryCode": "fr"
+    },
+    {
+        "id": 20316,
+        "name": "Brittany",
+        "region": "",
+        "country": "France",
+        "countryCode": "fr"
+    },
+    {
+        "id": 20317,
+        "name": "Centre-Val de Loire",
+        "region": "",
+        "country": "France",
+        "countryCode": "fr"
+    },
+    {
+        "id": 20318,
+        "name": "Champagne-Ardenne",
+        "region": "",
+        "country": "France",
+        "countryCode": "fr"
+    },
+    {
+        "id": 20319,
+        "name": "Corsica",
+        "region": "",
+        "country": "France",
+        "countryCode": "fr"
+    },
+    {
+        "id": 20320,
+        "name": "Franche-Comte",
+        "region": "",
+        "country": "France",
+        "countryCode": "fr"
+    },
+    {
+        "id": 20321,
+        "name": "Ile-de-France",
+        "region": "",
+        "country": "France",
+        "countryCode": "fr"
+    },
+    {
+        "id": 20322,
+        "name": "Languedoc-Roussillon",
+        "region": "",
+        "country": "France",
+        "countryCode": "fr"
+    },
+    {
+        "id": 20323,
+        "name": "Limousin",
+        "region": "",
+        "country": "France",
+        "countryCode": "fr"
+    },
+    {
+        "id": 20324,
+        "name": "Lorraine",
+        "region": "",
+        "country": "France",
+        "countryCode": "fr"
+    },
+    {
+        "id": 20325,
+        "name": "Midi-Pyrenees",
+        "region": "",
+        "country": "France",
+        "countryCode": "fr"
+    },
+    {
+        "id": 20326,
+        "name": "Nord-Pas-de-Calais",
+        "region": "",
+        "country": "France",
+        "countryCode": "fr"
+    },
+    {
+        "id": 20327,
+        "name": "Lower Normandy",
+        "region": "",
+        "country": "France",
+        "countryCode": "fr"
+    },
+    {
+        "id": 20328,
+        "name": "Upper Normandy",
+        "region": "",
+        "country": "France",
+        "countryCode": "fr"
+    },
+    {
+        "id": 20329,
+        "name": "Pays de la Loire",
+        "region": "",
+        "country": "France",
+        "countryCode": "fr"
+    },
+    {
+        "id": 20330,
+        "name": "Picardy",
+        "region": "",
+        "country": "France",
+        "countryCode": "fr"
+    },
+    {
+        "id": 20331,
+        "name": "Poitou-Charentes",
+        "region": "",
+        "country": "France",
+        "countryCode": "fr"
+    },
+    {
+        "id": 20332,
+        "name": "Provence-Alpes-Cote d'Azur",
+        "region": "",
+        "country": "France",
+        "countryCode": "fr"
+    },
+    {
+        "id": 20333,
+        "name": "Rhone-Alpes",
+        "region": "",
+        "country": "France",
+        "countryCode": "fr"
+    },
+    {
+        "id": 20352,
+        "name": "Euboea",
+        "region": "Decentralized Administration of Thessaly and Central Greece",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 20353,
+        "name": "Phthiotis",
+        "region": "Decentralized Administration of Thessaly and Central Greece",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 20357,
+        "name": "Achaea",
+        "region": "Decentralized Administration of Peloponnese, Western Greece and the Ionian",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 20360,
+        "name": "Laconia",
+        "region": "Decentralized Administration of Peloponnese, Western Greece and the Ionian",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 20361,
+        "name": "Messenia",
+        "region": "Decentralized Administration of Peloponnese, Western Greece and the Ionian",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 20363,
+        "name": "Corfu",
+        "region": "Decentralized Administration of Peloponnese, Western Greece and the Ionian",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 20365,
+        "name": "Lefkada",
+        "region": "Decentralized Administration of Peloponnese, Western Greece and the Ionian",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 20366,
+        "name": "Arta",
+        "region": "Decentralized Administration of Epirus and Western Macedonia",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 20368,
+        "name": "Ioannina",
+        "region": "Decentralized Administration of Epirus and Western Macedonia",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 20369,
+        "name": "Preveza",
+        "region": "Decentralized Administration of Epirus and Western Macedonia",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 20370,
+        "name": "Karditsa",
+        "region": "Decentralized Administration of Thessaly and Central Greece",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 20373,
+        "name": "Trikala",
+        "region": "Decentralized Administration of Thessaly and Central Greece",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 20375,
+        "name": "Drama",
+        "region": "Decentralized Administration of Macedonia and Thrace",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 20376,
+        "name": "Imathia",
+        "region": "Decentralized Administration of Macedonia and Thrace",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 20377,
+        "name": "Thessaloniki",
+        "region": "Decentralized Administration of Macedonia and Thrace",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 20378,
+        "name": "Kavala Prefecture",
+        "region": "Decentralized Administration of Macedonia and Thrace",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 20380,
+        "name": "Kilkis",
+        "region": "Decentralized Administration of Macedonia and Thrace",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 20381,
+        "name": "Kozani",
+        "region": "Decentralized Administration of Epirus and Western Macedonia",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 20384,
+        "name": "Florina",
+        "region": "Decentralized Administration of Epirus and Western Macedonia",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 20388,
+        "name": "Rhodope",
+        "region": "Decentralized Administration of Macedonia and Thrace",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 20391,
+        "name": "Lesbos",
+        "region": "Decentralized Administration of the Aegean",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 20392,
+        "name": "Samos",
+        "region": "Decentralized Administration of the Aegean",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 20397,
+        "name": "Chania",
+        "region": "Crete Region",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 20514,
+        "name": "South District",
+        "region": "",
+        "country": "Israel",
+        "countryCode": "il"
+    },
+    {
+        "id": 20515,
+        "name": "Haifa District",
+        "region": "",
+        "country": "Israel",
+        "countryCode": "il"
+    },
+    {
+        "id": 20516,
+        "name": "Jerusalem District",
+        "region": "",
+        "country": "Israel",
+        "countryCode": "il"
+    },
+    {
+        "id": 20517,
+        "name": "Center District",
+        "region": "",
+        "country": "Israel",
+        "countryCode": "il"
+    },
+    {
+        "id": 20518,
+        "name": "Tel Aviv District",
+        "region": "",
+        "country": "Israel",
+        "countryCode": "il"
+    },
+    {
+        "id": 20519,
+        "name": "North District",
+        "region": "",
+        "country": "Israel",
+        "countryCode": "il"
+    },
+    {
+        "id": 2060,
+        "name": "Bermuda",
+        "country": "Bermuda",
+        "countryCode": "bm"
+    },
+    {
+        "id": 2074,
+        "name": "Bouvet Island",
+        "country": "Bouvet Island",
+        "countryCode": "bv"
+    },
+    {
+        "id": 20791,
+        "name": "Auckland",
+        "region": "",
+        "country": "New Zealand",
+        "countryCode": "nz"
+    },
+    {
+        "id": 20792,
+        "name": "Bay Of Plenty",
+        "region": "",
+        "country": "New Zealand",
+        "countryCode": "nz"
+    },
+    {
+        "id": 20796,
+        "name": "Ancash",
+        "region": "",
+        "country": "Peru",
+        "countryCode": "pe"
+    },
+    {
+        "id": 20797,
+        "name": "Arequipa",
+        "region": "",
+        "country": "Peru",
+        "countryCode": "pe"
+    },
+    {
+        "id": 20798,
+        "name": "Ayacucho",
+        "region": "",
+        "country": "Peru",
+        "countryCode": "pe"
+    },
+    {
+        "id": 20799,
+        "name": "Cajamarca",
+        "region": "",
+        "country": "Peru",
+        "countryCode": "pe"
+    },
+    {
+        "id": 20800,
+        "name": "Callao Region",
+        "region": "",
+        "country": "Peru",
+        "countryCode": "pe"
+    },
+    {
+        "id": 20801,
+        "name": "Cusco",
+        "region": "",
+        "country": "Peru",
+        "countryCode": "pe"
+    },
+    {
+        "id": 20802,
+        "name": "Huanuco",
+        "region": "",
+        "country": "Peru",
+        "countryCode": "pe"
+    },
+    {
+        "id": 20803,
+        "name": "Huancavelica",
+        "region": "",
+        "country": "Peru",
+        "countryCode": "pe"
+    },
+    {
+        "id": 20804,
+        "name": "Ica",
+        "region": "",
+        "country": "Peru",
+        "countryCode": "pe"
+    },
+    {
+        "id": 20805,
+        "name": "Junin",
+        "region": "",
+        "country": "Peru",
+        "countryCode": "pe"
+    },
+    {
+        "id": 20806,
+        "name": "La Libertad",
+        "region": "",
+        "country": "Peru",
+        "countryCode": "pe"
+    },
+    {
+        "id": 20807,
+        "name": "Lambayeque",
+        "region": "",
+        "country": "Peru",
+        "countryCode": "pe"
+    },
+    {
+        "id": 20808,
+        "name": "Lima Region",
+        "region": "",
+        "country": "Peru",
+        "countryCode": "pe"
+    },
+    {
+        "id": 20809,
+        "name": "Loreto",
+        "region": "",
+        "country": "Peru",
+        "countryCode": "pe"
+    },
+    {
+        "id": 20810,
+        "name": "Moquegua",
+        "region": "",
+        "country": "Peru",
+        "countryCode": "pe"
+    },
+    {
+        "id": 20811,
+        "name": "Pasco",
+        "region": "",
+        "country": "Peru",
+        "countryCode": "pe"
+    },
+    {
+        "id": 20812,
+        "name": "Piura",
+        "region": "",
+        "country": "Peru",
+        "countryCode": "pe"
+    },
+    {
+        "id": 20813,
+        "name": "Puno",
+        "region": "",
+        "country": "Peru",
+        "countryCode": "pe"
+    },
+    {
+        "id": 20814,
+        "name": "San Martin",
+        "region": "",
+        "country": "Peru",
+        "countryCode": "pe"
+    },
+    {
+        "id": 20815,
+        "name": "Tacna",
+        "region": "",
+        "country": "Peru",
+        "countryCode": "pe"
+    },
+    {
+        "id": 20816,
+        "name": "Ucayali",
+        "region": "",
+        "country": "Peru",
+        "countryCode": "pe"
+    },
+    {
+        "id": 20835,
+        "name": "Metro Manila",
+        "region": "",
+        "country": "Philippines",
+        "countryCode": "ph"
+    },
+    {
+        "id": 20847,
+        "name": "Lower Silesian Voivodeship",
+        "region": "",
+        "country": "Poland",
+        "countryCode": "pl"
+    },
+    {
+        "id": 20848,
+        "name": "Kuyavian-Pomeranian Voivodeship",
+        "region": "",
+        "country": "Poland",
+        "countryCode": "pl"
+    },
+    {
+        "id": 20849,
+        "name": "Lubusz Voivodeship",
+        "region": "",
+        "country": "Poland",
+        "countryCode": "pl"
+    },
+    {
+        "id": 20850,
+        "name": "Lodz Voivodeship",
+        "region": "",
+        "country": "Poland",
+        "countryCode": "pl"
+    },
+    {
+        "id": 20851,
+        "name": "Lublin Voivodeship",
+        "region": "",
+        "country": "Poland",
+        "countryCode": "pl"
+    },
+    {
+        "id": 20852,
+        "name": "Lesser Poland Voivodeship",
+        "region": "",
+        "country": "Poland",
+        "countryCode": "pl"
+    },
+    {
+        "id": 20853,
+        "name": "Masovian Voivodeship",
+        "region": "",
+        "country": "Poland",
+        "countryCode": "pl"
+    },
+    {
+        "id": 20854,
+        "name": "Opole Voivodeship",
+        "region": "",
+        "country": "Poland",
+        "countryCode": "pl"
+    },
+    {
+        "id": 20855,
+        "name": "Podlaskie Voivodeship",
+        "region": "",
+        "country": "Poland",
+        "countryCode": "pl"
+    },
+    {
+        "id": 20856,
+        "name": "Podkarpackie Voivodeship",
+        "region": "",
+        "country": "Poland",
+        "countryCode": "pl"
+    },
+    {
+        "id": 20857,
+        "name": "Pomeranian Voivodeship",
+        "region": "",
+        "country": "Poland",
+        "countryCode": "pl"
+    },
+    {
+        "id": 20858,
+        "name": "Swietokrzyskie",
+        "region": "",
+        "country": "Poland",
+        "countryCode": "pl"
+    },
+    {
+        "id": 20859,
+        "name": "Silesian Voivodeship",
+        "region": "",
+        "country": "Poland",
+        "countryCode": "pl"
+    },
+    {
+        "id": 2086,
+        "name": "British Indian Ocean Territory",
+        "country": "British Indian Ocean Territory",
+        "countryCode": "io"
+    },
+    {
+        "id": 20860,
+        "name": "Warmian-Masurian Voivodeship",
+        "region": "",
+        "country": "Poland",
+        "countryCode": "pl"
+    },
+    {
+        "id": 20861,
+        "name": "Greater Poland Voivodeship",
+        "region": "",
+        "country": "Poland",
+        "countryCode": "pl"
+    },
+    {
+        "id": 20862,
+        "name": "West Pomeranian Voivodeship",
+        "region": "",
+        "country": "Poland",
+        "countryCode": "pl"
+    },
+    {
+        "id": 20865,
+        "name": "Aveiro District",
+        "region": "",
+        "country": "Portugal",
+        "countryCode": "pt"
+    },
+    {
+        "id": 20866,
+        "name": "Braga",
+        "region": "",
+        "country": "Portugal",
+        "countryCode": "pt"
+    },
+    {
+        "id": 20867,
+        "name": "Braganca District",
+        "region": "",
+        "country": "Portugal",
+        "countryCode": "pt"
+    },
+    {
+        "id": 20868,
+        "name": "Castelo Branco District",
+        "region": "",
+        "country": "Portugal",
+        "countryCode": "pt"
+    },
+    {
+        "id": 20869,
+        "name": "Coimbra District",
+        "region": "",
+        "country": "Portugal",
+        "countryCode": "pt"
+    },
+    {
+        "id": 20870,
+        "name": "Evora District",
+        "region": "",
+        "country": "Portugal",
+        "countryCode": "pt"
+    },
+    {
+        "id": 20871,
+        "name": "Faro District",
+        "region": "",
+        "country": "Portugal",
+        "countryCode": "pt"
+    },
+    {
+        "id": 20872,
+        "name": "Guarda District",
+        "region": "",
+        "country": "Portugal",
+        "countryCode": "pt"
+    },
+    {
+        "id": 20873,
+        "name": "Leiria District",
+        "region": "",
+        "country": "Portugal",
+        "countryCode": "pt"
+    },
+    {
+        "id": 20874,
+        "name": "Lisbon",
+        "region": "",
+        "country": "Portugal",
+        "countryCode": "pt"
+    },
+    {
+        "id": 20875,
+        "name": "Portalegre District",
+        "region": "",
+        "country": "Portugal",
+        "countryCode": "pt"
+    },
+    {
+        "id": 20876,
+        "name": "Porto District",
+        "region": "",
+        "country": "Portugal",
+        "countryCode": "pt"
+    },
+    {
+        "id": 20877,
+        "name": "Santarem District",
+        "region": "",
+        "country": "Portugal",
+        "countryCode": "pt"
+    },
+    {
+        "id": 20878,
+        "name": "Setubal",
+        "region": "",
+        "country": "Portugal",
+        "countryCode": "pt"
+    },
+    {
+        "id": 20879,
+        "name": "Viana do Castelo District",
+        "region": "",
+        "country": "Portugal",
+        "countryCode": "pt"
+    },
+    {
+        "id": 20880,
+        "name": "Viseu District",
+        "region": "",
+        "country": "Portugal",
+        "countryCode": "pt"
+    },
+    {
+        "id": 20881,
+        "name": "Azores",
+        "region": "",
+        "country": "Portugal",
+        "countryCode": "pt"
+    },
+    {
+        "id": 20882,
+        "name": "Madeira",
+        "region": "",
+        "country": "Portugal",
+        "countryCode": "pt"
+    },
+    {
+        "id": 20914,
+        "name": "Altai Republic",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20915,
+        "name": "Amur Oblast",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20916,
+        "name": "Arkhangelsk Oblast",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20917,
+        "name": "Astrakhan Oblast",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20918,
+        "name": "Republic of Bashkortostan",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20919,
+        "name": "Belgorod Oblast",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 2092,
+        "name": "British Virgin Islands",
+        "country": "British Virgin Islands",
+        "countryCode": "vg"
+    },
+    {
+        "id": 20920,
+        "name": "Bryansk Oblast",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20921,
+        "name": "Buryatia",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20922,
+        "name": "Chelyabinsk Oblast",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20924,
+        "name": "Chukotka Autonomous Okrug",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20925,
+        "name": "Republic of Dagestan",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20926,
+        "name": "Irkutsk Oblast",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20927,
+        "name": "Ivanovo Oblast",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20928,
+        "name": "Kamchatka Krai",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20929,
+        "name": "Kabardino-Balkaria",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20930,
+        "name": "Karachay-Cherkessia",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20931,
+        "name": "Krasnodar Krai",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20932,
+        "name": "Kemerovo Oblast",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20933,
+        "name": "Kaliningrad Oblast",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20934,
+        "name": "Kurgan Oblast",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20935,
+        "name": "Khabarovsk Krai",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20936,
+        "name": "Khanty-Mansi Autonomous Okrug",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20937,
+        "name": "Kirov Oblast",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20938,
+        "name": "Republic of Khakassia",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20939,
+        "name": "Kaluga Oblast",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20940,
+        "name": "Komi Republic",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20941,
+        "name": "Kostroma Oblast",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20942,
+        "name": "Republic of Karelia",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20943,
+        "name": "Kursk Oblast",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20944,
+        "name": "Krasnoyarsk Krai",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20945,
+        "name": "Leningrad Oblast",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20946,
+        "name": "Lipetsk Oblast",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20947,
+        "name": "Magadan Oblast",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20948,
+        "name": "Mordovia",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20949,
+        "name": "Moscow Oblast",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20950,
+        "name": "Moscow",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20951,
+        "name": "Murmansk Oblast",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20952,
+        "name": "Novgorod Oblast",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20953,
+        "name": "Nizhny Novgorod Oblast",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20954,
+        "name": "Novosibirsk Oblast",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20955,
+        "name": "Omsk Oblast",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20956,
+        "name": "Orenburg Oblast",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20957,
+        "name": "Perm Krai",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20958,
+        "name": "Penza Oblast",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20959,
+        "name": "Primorsky Krai",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20960,
+        "name": "Pskov Oblast",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20961,
+        "name": "Rostov Oblast",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20962,
+        "name": "Ryazan Oblast",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20963,
+        "name": "Sakha Republic",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20964,
+        "name": "Sakhalin Oblast",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20965,
+        "name": "Samara Oblast",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20966,
+        "name": "Saratov Oblast",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20967,
+        "name": "Smolensk Oblast",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20968,
+        "name": "Saint Petersburg",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20969,
+        "name": "Stavropol Krai",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20970,
+        "name": "Sverdlovsk Oblast",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20971,
+        "name": "Tatarstan",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20972,
+        "name": "Tambov Oblast",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20973,
+        "name": "Taymyr Autonomous Okrug",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20974,
+        "name": "Tomsk Oblast",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20975,
+        "name": "Tula Oblast",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20976,
+        "name": "Tver Oblast",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20977,
+        "name": "Tyumen Oblast",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20978,
+        "name": "Udmurt Republic",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20979,
+        "name": "Ulyanovsk Oblast",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20980,
+        "name": "Volgograd Oblast",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20981,
+        "name": "Vladimir Oblast",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20982,
+        "name": "Vologda Oblast",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20983,
+        "name": "Voronezh Oblast",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20984,
+        "name": "Yamalo-Nenets Autonomous Okrug",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 20985,
+        "name": "Yaroslavl Oblast",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 21109,
+        "name": "Vinnytsia Oblast",
+        "region": "",
+        "country": "Ukraine",
+        "countryCode": "ua"
+    },
+    {
+        "id": 21110,
+        "name": "Volyn Oblast",
+        "region": "",
+        "country": "Ukraine",
+        "countryCode": "ua"
+    },
+    {
+        "id": 21111,
+        "name": "Luhansk Oblast",
+        "region": "",
+        "country": "Ukraine",
+        "countryCode": "ua"
+    },
+    {
+        "id": 21112,
+        "name": "Dnipropetrovsk Oblast",
+        "region": "",
+        "country": "Ukraine",
+        "countryCode": "ua"
+    },
+    {
+        "id": 21113,
+        "name": "Donetsk Oblast",
+        "region": "",
+        "country": "Ukraine",
+        "countryCode": "ua"
+    },
+    {
+        "id": 21114,
+        "name": "Zhytomyr Oblast",
+        "region": "",
+        "country": "Ukraine",
+        "countryCode": "ua"
+    },
+    {
+        "id": 21115,
+        "name": "Zakarpattia Oblast",
+        "region": "",
+        "country": "Ukraine",
+        "countryCode": "ua"
+    },
+    {
+        "id": 21116,
+        "name": "Zaporizhia Oblast",
+        "region": "",
+        "country": "Ukraine",
+        "countryCode": "ua"
+    },
+    {
+        "id": 21117,
+        "name": "Ivano-Frankivsk Oblast",
+        "region": "",
+        "country": "Ukraine",
+        "countryCode": "ua"
+    },
+    {
+        "id": 21118,
+        "name": "Kyiv city",
+        "region": "",
+        "country": "Ukraine",
+        "countryCode": "ua"
+    },
+    {
+        "id": 21119,
+        "name": "Kirovohrad Oblast",
+        "region": "",
+        "country": "Ukraine",
+        "countryCode": "ua"
+    },
+    {
+        "id": 21121,
+        "name": "Lviv Oblast",
+        "region": "",
+        "country": "Ukraine",
+        "countryCode": "ua"
+    },
+    {
+        "id": 21122,
+        "name": "Odessa Oblast",
+        "region": "",
+        "country": "Ukraine",
+        "countryCode": "ua"
+    },
+    {
+        "id": 21123,
+        "name": "Poltava Oblast",
+        "region": "",
+        "country": "Ukraine",
+        "countryCode": "ua"
+    },
+    {
+        "id": 21124,
+        "name": "Sumy Oblast",
+        "region": "",
+        "country": "Ukraine",
+        "countryCode": "ua"
+    },
+    {
+        "id": 21125,
+        "name": "Kharkiv Oblast",
+        "region": "",
+        "country": "Ukraine",
+        "countryCode": "ua"
+    },
+    {
+        "id": 21126,
+        "name": "Kherson Oblast",
+        "region": "",
+        "country": "Ukraine",
+        "countryCode": "ua"
+    },
+    {
+        "id": 21127,
+        "name": "Khmelnytskyi Oblast",
+        "region": "",
+        "country": "Ukraine",
+        "countryCode": "ua"
+    },
+    {
+        "id": 21128,
+        "name": "Cherkasy Oblast",
+        "region": "",
+        "country": "Ukraine",
+        "countryCode": "ua"
+    },
+    {
+        "id": 21129,
+        "name": "Chernihiv Oblast",
+        "region": "",
+        "country": "Ukraine",
+        "countryCode": "ua"
+    },
+    {
+        "id": 21130,
+        "name": "Chernivtsi Oblast",
+        "region": "",
+        "country": "Ukraine",
+        "countryCode": "ua"
+    },
+    {
+        "id": 21234,
+        "name": "Mari El Republic",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 21243,
+        "name": "Kalmykia",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 21250,
+        "name": "Adygea",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 21251,
+        "name": "Ingushetia",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 21252,
+        "name": "North Ossetia–Alania",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 21255,
+        "name": "Beja District",
+        "region": "",
+        "country": "Portugal",
+        "countryCode": "pt"
+    },
+    {
+        "id": 21256,
+        "name": "Oryol Oblast",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 21277,
+        "name": "Jewish Autonomous Oblast",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 21290,
+        "name": "Magdalena",
+        "region": "",
+        "country": "Colombia",
+        "countryCode": "co"
+    },
+    {
+        "id": 21292,
+        "name": "Ternopil Oblast",
+        "region": "",
+        "country": "Ukraine",
+        "countryCode": "ua"
+    },
+    {
+        "id": 21302,
+        "name": "Canterbury",
+        "region": "",
+        "country": "New Zealand",
+        "countryCode": "nz"
+    },
+    {
+        "id": 21303,
+        "name": "Gisborne",
+        "region": "",
+        "country": "New Zealand",
+        "countryCode": "nz"
+    },
+    {
+        "id": 21304,
+        "name": "Hawke's Bay",
+        "region": "",
+        "country": "New Zealand",
+        "countryCode": "nz"
+    },
+    {
+        "id": 21305,
+        "name": "Manawatu-Wanganui",
+        "region": "",
+        "country": "New Zealand",
+        "countryCode": "nz"
+    },
+    {
+        "id": 21306,
+        "name": "Marlborough",
+        "region": "",
+        "country": "New Zealand",
+        "countryCode": "nz"
+    },
+    {
+        "id": 21307,
+        "name": "Nelson",
+        "region": "",
+        "country": "New Zealand",
+        "countryCode": "nz"
+    },
+    {
+        "id": 21308,
+        "name": "Northland",
+        "region": "",
+        "country": "New Zealand",
+        "countryCode": "nz"
+    },
+    {
+        "id": 21309,
+        "name": "Otago",
+        "region": "",
+        "country": "New Zealand",
+        "countryCode": "nz"
+    },
+    {
+        "id": 21310,
+        "name": "Southland",
+        "region": "",
+        "country": "New Zealand",
+        "countryCode": "nz"
+    },
+    {
+        "id": 21311,
+        "name": "Taranaki",
+        "region": "",
+        "country": "New Zealand",
+        "countryCode": "nz"
+    },
+    {
+        "id": 21312,
+        "name": "Tasman",
+        "region": "",
+        "country": "New Zealand",
+        "countryCode": "nz"
+    },
+    {
+        "id": 21313,
+        "name": "Waikato",
+        "region": "",
+        "country": "New Zealand",
+        "countryCode": "nz"
+    },
+    {
+        "id": 21314,
+        "name": "Wellington",
+        "region": "",
+        "country": "New Zealand",
+        "countryCode": "nz"
+    },
+    {
+        "id": 21315,
+        "name": "West Coast",
+        "region": "",
+        "country": "New Zealand",
+        "countryCode": "nz"
+    },
+    {
+        "id": 21318,
+        "name": "Seoul",
+        "region": "",
+        "country": "South Korea",
+        "countryCode": "kr"
+    },
+    {
+        "id": 21319,
+        "name": "Busan",
+        "region": "",
+        "country": "South Korea",
+        "countryCode": "kr"
+    },
+    {
+        "id": 21320,
+        "name": "Daegu",
+        "region": "",
+        "country": "South Korea",
+        "countryCode": "kr"
+    },
+    {
+        "id": 21321,
+        "name": "Incheon",
+        "region": "",
+        "country": "South Korea",
+        "countryCode": "kr"
+    },
+    {
+        "id": 21322,
+        "name": "Gwangju",
+        "region": "",
+        "country": "South Korea",
+        "countryCode": "kr"
+    },
+    {
+        "id": 21323,
+        "name": "Daejeon",
+        "region": "",
+        "country": "South Korea",
+        "countryCode": "kr"
+    },
+    {
+        "id": 21324,
+        "name": "Ulsan",
+        "region": "",
+        "country": "South Korea",
+        "countryCode": "kr"
+    },
+    {
+        "id": 21325,
+        "name": "Gyeonggi-do",
+        "region": "",
+        "country": "South Korea",
+        "countryCode": "kr"
+    },
+    {
+        "id": 21326,
+        "name": "Gangwon-do",
+        "region": "",
+        "country": "South Korea",
+        "countryCode": "kr"
+    },
+    {
+        "id": 21327,
+        "name": "Chungcheongbuk-do",
+        "region": "",
+        "country": "South Korea",
+        "countryCode": "kr"
+    },
+    {
+        "id": 21328,
+        "name": "Chungcheongnam-do",
+        "region": "",
+        "country": "South Korea",
+        "countryCode": "kr"
+    },
+    {
+        "id": 21329,
+        "name": "Jeollabuk-do",
+        "region": "",
+        "country": "South Korea",
+        "countryCode": "kr"
+    },
+    {
+        "id": 21330,
+        "name": "Jeollanam-do",
+        "region": "",
+        "country": "South Korea",
+        "countryCode": "kr"
+    },
+    {
+        "id": 21331,
+        "name": "Gyeongsangbuk-do",
+        "region": "",
+        "country": "South Korea",
+        "countryCode": "kr"
+    },
+    {
+        "id": 21332,
+        "name": "Gyeongsangnam-do",
+        "region": "",
+        "country": "South Korea",
+        "countryCode": "kr"
+    },
+    {
+        "id": 21333,
+        "name": "Jeju-do",
+        "region": "",
+        "country": "South Korea",
+        "countryCode": "kr"
+    },
+    {
+        "id": 21346,
+        "name": "Tuva",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 21347,
+        "name": "Chechnya",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 21348,
+        "name": "Chuvashia Republic",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 21350,
+        "name": "Koryakskiy avtonomniy okrug",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 21351,
+        "name": "Nenets Autonomous Okrug",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 21353,
+        "name": "Evenkiysky District",
+        "region": "Krasnoyarsk Krai",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 2136,
+        "name": "Cayman Islands",
+        "country": "Cayman Islands",
+        "countryCode": "ky"
+    },
+    {
+        "id": 21385,
+        "name": "Altai Krai",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 21494,
+        "name": "Central Bohemian Region",
+        "region": "",
+        "country": "Czechia",
+        "countryCode": "cz"
+    },
+    {
+        "id": 21495,
+        "name": "Hradec Kralove Region",
+        "region": "",
+        "country": "Czechia",
+        "countryCode": "cz"
+    },
+    {
+        "id": 21496,
+        "name": "Karlovy Vary Region",
+        "region": "",
+        "country": "Czechia",
+        "countryCode": "cz"
+    },
+    {
+        "id": 21497,
+        "name": "Liberec Region",
+        "region": "",
+        "country": "Czechia",
+        "countryCode": "cz"
+    },
+    {
+        "id": 21498,
+        "name": "Moravian-Silesian Region",
+        "region": "",
+        "country": "Czechia",
+        "countryCode": "cz"
+    },
+    {
+        "id": 21499,
+        "name": "Olomouc Region",
+        "region": "",
+        "country": "Czechia",
+        "countryCode": "cz"
+    },
+    {
+        "id": 21500,
+        "name": "Pardubice Region",
+        "region": "",
+        "country": "Czechia",
+        "countryCode": "cz"
+    },
+    {
+        "id": 21501,
+        "name": "Plzen Region",
+        "region": "",
+        "country": "Czechia",
+        "countryCode": "cz"
+    },
+    {
+        "id": 21502,
+        "name": "Prague",
+        "region": "",
+        "country": "Czechia",
+        "countryCode": "cz"
+    },
+    {
+        "id": 21503,
+        "name": "Usti nad Labem Region",
+        "region": "",
+        "country": "Czechia",
+        "countryCode": "cz"
+    },
+    {
+        "id": 21504,
+        "name": "Vysocina Region",
+        "region": "",
+        "country": "Czechia",
+        "countryCode": "cz"
+    },
+    {
+        "id": 21505,
+        "name": "Zlin Region",
+        "region": "",
+        "country": "Czechia",
+        "countryCode": "cz"
+    },
+    {
+        "id": 21506,
+        "name": "Amazonas Department",
+        "region": "",
+        "country": "Colombia",
+        "countryCode": "co"
+    },
+    {
+        "id": 21507,
+        "name": "Arauca",
+        "region": "",
+        "country": "Colombia",
+        "countryCode": "co"
+    },
+    {
+        "id": 21508,
+        "name": "Boyaca",
+        "region": "",
+        "country": "Colombia",
+        "countryCode": "co"
+    },
+    {
+        "id": 21509,
+        "name": "Caqueta",
+        "region": "",
+        "country": "Colombia",
+        "countryCode": "co"
+    },
+    {
+        "id": 21510,
+        "name": "Casanare",
+        "region": "",
+        "country": "Colombia",
+        "countryCode": "co"
+    },
+    {
+        "id": 21511,
+        "name": "Cauca",
+        "region": "",
+        "country": "Colombia",
+        "countryCode": "co"
+    },
+    {
+        "id": 21512,
+        "name": "Cesar",
+        "region": "",
+        "country": "Colombia",
+        "countryCode": "co"
+    },
+    {
+        "id": 21513,
+        "name": "Choco",
+        "region": "",
+        "country": "Colombia",
+        "countryCode": "co"
+    },
+    {
+        "id": 21514,
+        "name": "Cordoba",
+        "region": "",
+        "country": "Colombia",
+        "countryCode": "co"
+    },
+    {
+        "id": 21515,
+        "name": "Guainia",
+        "region": "",
+        "country": "Colombia",
+        "countryCode": "co"
+    },
+    {
+        "id": 21516,
+        "name": "Guaviare",
+        "region": "",
+        "country": "Colombia",
+        "countryCode": "co"
+    },
+    {
+        "id": 21517,
+        "name": "La Guajira",
+        "region": "",
+        "country": "Colombia",
+        "countryCode": "co"
+    },
+    {
+        "id": 21518,
+        "name": "North Santander",
+        "region": "",
+        "country": "Colombia",
+        "countryCode": "co"
+    },
+    {
+        "id": 21519,
+        "name": "Quindio",
+        "region": "",
+        "country": "Colombia",
+        "countryCode": "co"
+    },
+    {
+        "id": 21520,
+        "name": "San Andres and Providencia",
+        "region": "",
+        "country": "Colombia",
+        "countryCode": "co"
+    },
+    {
+        "id": 21521,
+        "name": "Sucre",
+        "region": "",
+        "country": "Colombia",
+        "countryCode": "co"
+    },
+    {
+        "id": 21522,
+        "name": "Vaupes",
+        "region": "",
+        "country": "Colombia",
+        "countryCode": "co"
+    },
+    {
+        "id": 21523,
+        "name": "Vichada",
+        "region": "",
+        "country": "Colombia",
+        "countryCode": "co"
+    },
+    {
+        "id": 21524,
+        "name": "Chaouia-Ouardigha",
+        "region": "",
+        "country": "Morocco",
+        "countryCode": "ma"
+    },
+    {
+        "id": 21525,
+        "name": "Doukkala-Abda",
+        "region": "",
+        "country": "Morocco",
+        "countryCode": "ma"
+    },
+    {
+        "id": 21526,
+        "name": "Fes-Boulemane",
+        "region": "",
+        "country": "Morocco",
+        "countryCode": "ma"
+    },
+    {
+        "id": 21527,
+        "name": "Gharb-Chrarda-Beni Hssen",
+        "region": "",
+        "country": "Morocco",
+        "countryCode": "ma"
+    },
+    {
+        "id": 21528,
+        "name": "Grand Casablanca",
+        "region": "",
+        "country": "Morocco",
+        "countryCode": "ma"
+    },
+    {
+        "id": 21529,
+        "name": "Guelmim-Es Semara",
+        "region": "",
+        "country": "Morocco",
+        "countryCode": "ma"
+    },
+    {
+        "id": 21530,
+        "name": "Laayoune-Boujdour-Sakia El Hamra",
+        "region": "",
+        "country": "Morocco",
+        "countryCode": "ma"
+    },
+    {
+        "id": 21531,
+        "name": "Marrakesh-Tensift-El Haouz",
+        "region": "",
+        "country": "Morocco",
+        "countryCode": "ma"
+    },
+    {
+        "id": 21532,
+        "name": "Meknes-Tafilalet",
+        "region": "",
+        "country": "Morocco",
+        "countryCode": "ma"
+    },
+    {
+        "id": 21533,
+        "name": "Oriental",
+        "region": "",
+        "country": "Morocco",
+        "countryCode": "ma"
+    },
+    {
+        "id": 21534,
+        "name": "Rabat-Sale-Zemmour-Zaer",
+        "region": "",
+        "country": "Morocco",
+        "countryCode": "ma"
+    },
+    {
+        "id": 21535,
+        "name": "Souss-Massa-Draa",
+        "region": "",
+        "country": "Morocco",
+        "countryCode": "ma"
+    },
+    {
+        "id": 21536,
+        "name": "Tadla-Azilal",
+        "region": "",
+        "country": "Morocco",
+        "countryCode": "ma"
+    },
+    {
+        "id": 21537,
+        "name": "Tangier-Tetouan",
+        "region": "",
+        "country": "Morocco",
+        "countryCode": "ma"
+    },
+    {
+        "id": 21538,
+        "name": "Taza-Al Hoceima-Taounate",
+        "region": "",
+        "country": "Morocco",
+        "countryCode": "ma"
+    },
+    {
+        "id": 2158,
+        "name": "Taiwan",
+        "country": "Taiwan",
+        "countryCode": "tw"
+    },
+    {
+        "id": 21580,
+        "name": "Kyiv Oblast",
+        "region": "",
+        "country": "Ukraine",
+        "countryCode": "ua"
+    },
+    {
+        "id": 21581,
+        "name": "Mykolaiv Oblast",
+        "region": "",
+        "country": "Ukraine",
+        "countryCode": "ua"
+    },
+    {
+        "id": 21582,
+        "name": "Rivne Oblast",
+        "region": "",
+        "country": "Ukraine",
+        "countryCode": "ua"
+    },
+    {
+        "id": 2175,
+        "name": "Mayotte",
+        "country": "Mayotte",
+        "countryCode": "yt"
+    },
+    {
+        "id": 2234,
+        "name": "Faroe Islands",
+        "country": "Faroe Islands",
+        "countryCode": "fo"
+    },
+    {
+        "id": 2238,
+        "name": "Falkland Islands (Islas Malvinas)",
+        "country": "Falkland Islands (Islas Malvinas)",
+        "countryCode": "fk"
+    },
+    {
+        "id": 2254,
+        "name": "French Guiana",
+        "country": "French Guiana",
+        "countryCode": "gf"
+    },
+    {
+        "id": 2275,
+        "name": "Palestine",
+        "country": "Palestine",
+        "countryCode": "ps"
+    },
+    {
+        "id": 2292,
+        "name": "Gibraltar",
+        "country": "Gibraltar",
+        "countryCode": "gi"
+    },
+    {
+        "id": 2304,
+        "name": "Greenland",
+        "country": "Greenland",
+        "countryCode": "gl"
+    },
+    {
+        "id": 2312,
+        "name": "Guadeloupe",
+        "country": "Guadeloupe",
+        "countryCode": "gp"
+    },
+    {
+        "id": 2344,
+        "name": "Hong Kong",
+        "country": "Hong Kong",
+        "countryCode": "hk"
+    },
+    {
+        "id": 2446,
+        "name": "Macao",
+        "country": "Macao",
+        "countryCode": "mo"
+    },
+    {
+        "id": 2474,
+        "name": "Martinique",
+        "country": "Martinique",
+        "countryCode": "mq"
+    },
+    {
+        "id": 2500,
+        "name": "Montserrat",
+        "country": "Montserrat",
+        "countryCode": "ms"
+    },
+    {
+        "id": 2530,
+        "name": "Netherlands Antilles",
+        "country": "Netherlands Antilles",
+        "countryCode": "bq"
+    },
+    {
+        "id": 2533,
+        "name": "Aruba",
+        "country": "Aruba",
+        "countryCode": "aw"
+    },
+    {
+        "id": 2630,
+        "name": "Puerto Rico",
+        "country": "Puerto Rico",
+        "countryCode": "pr"
+    },
+    {
+        "id": 2638,
+        "name": "Reunion",
+        "country": "Reunion",
+        "countryCode": "re"
+    },
+    {
+        "id": 2660,
+        "name": "Anguilla",
+        "country": "Anguilla",
+        "countryCode": "ai"
+    },
+    {
+        "id": 2732,
+        "name": "Western Sahara",
+        "country": "Western Sahara",
+        "countryCode": "eh"
+    },
+    {
+        "id": 2744,
+        "name": "Svalbard and Jan Mayen",
+        "country": "Svalbard and Jan Mayen",
+        "countryCode": "sj"
+    },
+    {
+        "id": 2796,
+        "name": "Turks and Caicos Islands",
+        "country": "Turks and Caicos Islands",
+        "countryCode": "tc"
+    },
+    {
+        "id": 2850,
+        "name": "U.S. Virgin Islands",
+        "country": "U.S. Virgin Islands",
+        "countryCode": "vi"
+    },
+    {
+        "id": 2900,
+        "name": "Kosovo",
+        "country": "Kosovo",
+        "countryCode": "xk"
+    },
+    {
+        "id": 9047102,
+        "name": "Aysen Region",
+        "region": "",
+        "country": "Chile",
+        "countryCode": "cl"
+    },
+    {
+        "id": 9047103,
+        "name": "Arica y Parinacota Region",
+        "region": "",
+        "country": "Chile",
+        "countryCode": "cl"
+    },
+    {
+        "id": 9047104,
+        "name": "Atacama Region",
+        "region": "",
+        "country": "Chile",
+        "countryCode": "cl"
+    },
+    {
+        "id": 9047105,
+        "name": "Los Rios Region",
+        "region": "",
+        "country": "Chile",
+        "countryCode": "cl"
+    },
+    {
+        "id": 9047106,
+        "name": "Chatham Islands",
+        "region": "",
+        "country": "New Zealand",
+        "countryCode": "nz"
+    },
+    {
+        "id": 9047107,
+        "name": "Vila Real District",
+        "region": "",
+        "country": "Portugal",
+        "countryCode": "pt"
+    },
+    {
+        "id": 9047109,
+        "name": "Zabaykalsky Krai",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 9053423,
+        "name": "Abruzzo",
+        "region": "",
+        "country": "Italy",
+        "countryCode": "it"
+    },
+    {
+        "id": 9053424,
+        "name": "Aosta",
+        "region": "",
+        "country": "Italy",
+        "countryCode": "it"
+    },
+    {
+        "id": 9053425,
+        "name": "Apulia",
+        "region": "",
+        "country": "Italy",
+        "countryCode": "it"
+    },
+    {
+        "id": 9053426,
+        "name": "Basilicata",
+        "region": "",
+        "country": "Italy",
+        "countryCode": "it"
+    },
+    {
+        "id": 9053427,
+        "name": "Calabria",
+        "region": "",
+        "country": "Italy",
+        "countryCode": "it"
+    },
+    {
+        "id": 9053428,
+        "name": "Campania",
+        "region": "",
+        "country": "Italy",
+        "countryCode": "it"
+    },
+    {
+        "id": 9053429,
+        "name": "Emilia-Romagna",
+        "region": "",
+        "country": "Italy",
+        "countryCode": "it"
+    },
+    {
+        "id": 9053430,
+        "name": "Friuli-Venezia Giulia",
+        "region": "",
+        "country": "Italy",
+        "countryCode": "it"
+    },
+    {
+        "id": 9053431,
+        "name": "Lazio",
+        "region": "",
+        "country": "Italy",
+        "countryCode": "it"
+    },
+    {
+        "id": 9053432,
+        "name": "Liguria",
+        "region": "",
+        "country": "Italy",
+        "countryCode": "it"
+    },
+    {
+        "id": 9053433,
+        "name": "Lombardy",
+        "region": "",
+        "country": "Italy",
+        "countryCode": "it"
+    },
+    {
+        "id": 9053434,
+        "name": "Marche",
+        "region": "",
+        "country": "Italy",
+        "countryCode": "it"
+    },
+    {
+        "id": 9053435,
+        "name": "Molise",
+        "region": "",
+        "country": "Italy",
+        "countryCode": "it"
+    },
+    {
+        "id": 9053436,
+        "name": "Piedmont",
+        "region": "",
+        "country": "Italy",
+        "countryCode": "it"
+    },
+    {
+        "id": 9053437,
+        "name": "Sardinia",
+        "region": "",
+        "country": "Italy",
+        "countryCode": "it"
+    },
+    {
+        "id": 9053438,
+        "name": "Sicily",
+        "region": "",
+        "country": "Italy",
+        "countryCode": "it"
+    },
+    {
+        "id": 9053439,
+        "name": "Trentino-South Tyrol",
+        "region": "",
+        "country": "Italy",
+        "countryCode": "it"
+    },
+    {
+        "id": 9053440,
+        "name": "Tuscany",
+        "region": "",
+        "country": "Italy",
+        "countryCode": "it"
+    },
+    {
+        "id": 9053441,
+        "name": "Umbria",
+        "region": "",
+        "country": "Italy",
+        "countryCode": "it"
+    },
+    {
+        "id": 9053442,
+        "name": "Veneto",
+        "region": "",
+        "country": "Italy",
+        "countryCode": "it"
+    },
+    {
+        "id": 9061336,
+        "name": "Apurimac",
+        "region": "",
+        "country": "Peru",
+        "countryCode": "pe"
+    },
+    {
+        "id": 9061337,
+        "name": "Madre de Dios",
+        "region": "",
+        "country": "Peru",
+        "countryCode": "pe"
+    },
+    {
+        "id": 9061338,
+        "name": "Amazonas",
+        "region": "",
+        "country": "Peru",
+        "countryCode": "pe"
+    },
+    {
+        "id": 9061339,
+        "name": "Tumbes",
+        "region": "",
+        "country": "Peru",
+        "countryCode": "pe"
+    },
+    {
+        "id": 9061340,
+        "name": "Calabarzon",
+        "region": "",
+        "country": "Philippines",
+        "countryCode": "ph"
+    },
+    {
+        "id": 9061341,
+        "name": "Central Luzon",
+        "region": "",
+        "country": "Philippines",
+        "countryCode": "ph"
+    },
+    {
+        "id": 9061342,
+        "name": "Western Visayas",
+        "region": "",
+        "country": "Philippines",
+        "countryCode": "ph"
+    },
+    {
+        "id": 9061343,
+        "name": "Davao Region",
+        "region": "",
+        "country": "Philippines",
+        "countryCode": "ph"
+    },
+    {
+        "id": 9061344,
+        "name": "Central Visayas",
+        "region": "",
+        "country": "Philippines",
+        "countryCode": "ph"
+    },
+    {
+        "id": 9061345,
+        "name": "Ilocos Region",
+        "region": "",
+        "country": "Philippines",
+        "countryCode": "ph"
+    },
+    {
+        "id": 9061346,
+        "name": "Northern Mindanao",
+        "region": "",
+        "country": "Philippines",
+        "countryCode": "ph"
+    },
+    {
+        "id": 9061347,
+        "name": "Region XII",
+        "region": "",
+        "country": "Philippines",
+        "countryCode": "ph"
+    },
+    {
+        "id": 9061348,
+        "name": "Cagayan Valley",
+        "region": "",
+        "country": "Philippines",
+        "countryCode": "ph"
+    },
+    {
+        "id": 9061349,
+        "name": "Bicol",
+        "region": "",
+        "country": "Philippines",
+        "countryCode": "ph"
+    },
+    {
+        "id": 9061350,
+        "name": "MIMAROPA",
+        "region": "",
+        "country": "Philippines",
+        "countryCode": "ph"
+    },
+    {
+        "id": 9061351,
+        "name": "Eastern Visayas",
+        "region": "",
+        "country": "Philippines",
+        "countryCode": "ph"
+    },
+    {
+        "id": 9061352,
+        "name": "Caraga",
+        "region": "",
+        "country": "Philippines",
+        "countryCode": "ph"
+    },
+    {
+        "id": 9061353,
+        "name": "Cordillera Administrative Region",
+        "region": "",
+        "country": "Philippines",
+        "countryCode": "ph"
+    },
+    {
+        "id": 9061354,
+        "name": "Zamboanga Peninsula",
+        "region": "",
+        "country": "Philippines",
+        "countryCode": "ph"
+    },
+    {
+        "id": 9061355,
+        "name": "Autonomous Region in Muslim Mindanao",
+        "region": "",
+        "country": "Philippines",
+        "countryCode": "ph"
+    },
+    {
+        "id": 9061356,
+        "name": "Sindh",
+        "region": "",
+        "country": "Pakistan",
+        "countryCode": "pk"
+    },
+    {
+        "id": 9061357,
+        "name": "Punjab",
+        "region": "",
+        "country": "Pakistan",
+        "countryCode": "pk"
+    },
+    {
+        "id": 9061358,
+        "name": "Khyber Pakhtunkhwa",
+        "region": "",
+        "country": "Pakistan",
+        "countryCode": "pk"
+    },
+    {
+        "id": 9061359,
+        "name": "Balochistan",
+        "region": "",
+        "country": "Pakistan",
+        "countryCode": "pk"
+    },
+    {
+        "id": 9061360,
+        "name": "Islamabad Capital Territory",
+        "region": "",
+        "country": "Pakistan",
+        "countryCode": "pk"
+    },
+    {
+        "id": 9061361,
+        "name": "Azad Jammu and Kashmir",
+        "region": "",
+        "country": "Pakistan",
+        "countryCode": "pk"
+    },
+    {
+        "id": 9061362,
+        "name": "Federally Administered Tribal Area",
+        "region": "",
+        "country": "Pakistan",
+        "countryCode": "pk"
+    },
+    {
+        "id": 9061363,
+        "name": "Gilgit-Baltistan",
+        "region": "",
+        "country": "Pakistan",
+        "countryCode": "pk"
+    },
+    {
+        "id": 9061580,
+        "name": "Western Greece",
+        "region": "Decentralized Administration of Peloponnese, Western Greece and the Ionian",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 9061581,
+        "name": "Crete",
+        "region": "Crete Region",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 9061582,
+        "name": "Attica",
+        "region": "Decentralized Administration of Attica",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 9061583,
+        "name": "Thessalia",
+        "region": "Decentralized Administration of Thessaly and Central Greece",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 9061584,
+        "name": "Central Macedonia",
+        "region": "Decentralized Administration of Macedonia and Thrace",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 9062580,
+        "name": "Trencin Region",
+        "region": "",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9062581,
+        "name": "Banska Bystrica Region",
+        "region": "",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9062582,
+        "name": "Zilina Region",
+        "region": "",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9062583,
+        "name": "Presov Region",
+        "region": "",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9062584,
+        "name": "Kosice Region",
+        "region": "",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9062585,
+        "name": "Nitra Region",
+        "region": "",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9062586,
+        "name": "Bratislava Region",
+        "region": "",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9062587,
+        "name": "Trnava Region",
+        "region": "",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9065345,
+        "name": "Kachin",
+        "region": "",
+        "country": "Myanmar (Burma)",
+        "countryCode": "mm"
+    },
+    {
+        "id": 9065346,
+        "name": "Myawaddy",
+        "region": "Kayin State",
+        "country": "Myanmar (Burma)",
+        "countryCode": "mm"
+    },
+    {
+        "id": 9065347,
+        "name": "Magway Region",
+        "region": "",
+        "country": "Myanmar (Burma)",
+        "countryCode": "mm"
+    },
+    {
+        "id": 9065348,
+        "name": "Tanintharyi Region",
+        "region": "",
+        "country": "Myanmar (Burma)",
+        "countryCode": "mm"
+    },
+    {
+        "id": 9065349,
+        "name": "Naypyidaw Union Territory",
+        "region": "",
+        "country": "Myanmar (Burma)",
+        "countryCode": "mm"
+    },
+    {
+        "id": 9065350,
+        "name": "Bago Region",
+        "region": "",
+        "country": "Myanmar (Burma)",
+        "countryCode": "mm"
+    },
+    {
+        "id": 9065351,
+        "name": "Sagaing Region",
+        "region": "",
+        "country": "Myanmar (Burma)",
+        "countryCode": "mm"
+    },
+    {
+        "id": 9065352,
+        "name": "Mandalay Region",
+        "region": "",
+        "country": "Myanmar (Burma)",
+        "countryCode": "mm"
+    },
+    {
+        "id": 9065353,
+        "name": "Yangon Region",
+        "region": "",
+        "country": "Myanmar (Burma)",
+        "countryCode": "mm"
+    },
+    {
+        "id": 9067376,
+        "name": "Kalunasan",
+        "region": "Central Visayas",
+        "country": "Philippines",
+        "countryCode": "ph"
+    },
+    {
+        "id": 9067377,
+        "name": "Indangan",
+        "region": "Davao Region",
+        "country": "Philippines",
+        "countryCode": "ph"
+    },
+    {
+        "id": 9067701,
+        "name": "Grevena",
+        "region": "Ipiros Ditiki Makedonia",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 9067702,
+        "name": "Phocis",
+        "region": "Decentralized Administration of Thessaly and Central Greece",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 9067703,
+        "name": "Chios",
+        "region": "Decentralized Administration of the Aegean",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 9067704,
+        "name": "Kastoria",
+        "region": "Decentralized Administration of Epirus and Western Macedonia",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 9067705,
+        "name": "Lasithi",
+        "region": "Crete Region",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 9067706,
+        "name": "Halkidiki",
+        "region": "Decentralized Administration of Macedonia and Thrace",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 9067707,
+        "name": "Arcadia",
+        "region": "Decentralized Administration of Peloponnese, Western Greece and the Ionian",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 9067708,
+        "name": "Cephalonia",
+        "region": "Decentralized Administration of Peloponnese, Western Greece and the Ionian",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 9067709,
+        "name": "Thesprotia",
+        "region": "Decentralized Administration of Epirus and Western Macedonia",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 9067710,
+        "name": "Aspropyrgos",
+        "region": "Decentralized Administration of Attica",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 9067711,
+        "name": "Elis",
+        "region": "Decentralized Administration of Peloponnese, Western Greece and the Ionian",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 9067712,
+        "name": "Evros",
+        "region": "Decentralized Administration of Macedonia and Thrace",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 9067713,
+        "name": "Serres",
+        "region": "Decentralized Administration of Macedonia and Thrace",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 9067714,
+        "name": "Pella",
+        "region": "Decentralized Administration of Macedonia and Thrace",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 9067715,
+        "name": "Corinthia",
+        "region": "Decentralized Administration of Peloponnese, Western Greece and the Ionian",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 9067716,
+        "name": "Zakynthos",
+        "region": "Zakynthos,Decentralized Administration of Peloponnese, Western Greece and the Ionian",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 9067717,
+        "name": "Argolis",
+        "region": "Decentralized Administration of Peloponnese, Western Greece and the Ionian",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 9067718,
+        "name": "Agrinio",
+        "region": "Decentralized Administration of Peloponnese, Western Greece and the Ionian",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 9067719,
+        "name": "Aetolia-Acarnania",
+        "region": "Decentralized Administration of Peloponnese, Western Greece and the Ionian",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 9067720,
+        "name": "Xanthi",
+        "region": "Decentralized Administration of Macedonia and Thrace",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 9067721,
+        "name": "Magnesia Prefecture",
+        "region": "Decentralized Administration of Thessaly and Central Greece",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 9067722,
+        "name": "Larissa",
+        "region": "Decentralized Administration of Thessaly and Central Greece",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 9067723,
+        "name": "Heraklion",
+        "region": "Crete Region",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 9067724,
+        "name": "Rethymno",
+        "region": "Crete Region",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 9067725,
+        "name": "Athens",
+        "region": "Decentralized Administration of Attica",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 9068565,
+        "name": "Normandy",
+        "region": "",
+        "country": "France",
+        "countryCode": "fr"
+    },
+    {
+        "id": 9068895,
+        "name": "Bourgogne-Franche-Comte",
+        "region": "",
+        "country": "France",
+        "countryCode": "fr"
+    },
+    {
+        "id": 9068896,
+        "name": "Grand Est",
+        "region": "",
+        "country": "France",
+        "countryCode": "fr"
+    },
+    {
+        "id": 9068897,
+        "name": "Occitanie",
+        "region": "",
+        "country": "France",
+        "countryCode": "fr"
+    },
+    {
+        "id": 9068898,
+        "name": "Hauts-de-France",
+        "region": "",
+        "country": "France",
+        "countryCode": "fr"
+    },
+    {
+        "id": 9069522,
+        "name": "Nouvelle-Aquitaine",
+        "region": "",
+        "country": "France",
+        "countryCode": "fr"
+    },
+    {
+        "id": 9069523,
+        "name": "Flanders",
+        "region": "",
+        "country": "Belgium",
+        "countryCode": "be"
+    },
+    {
+        "id": 9069524,
+        "name": "Wallonia",
+        "region": "",
+        "country": "Belgium",
+        "countryCode": "be"
+    },
+    {
+        "id": 9069525,
+        "name": "Auvergne-Rhone-Alpes",
+        "region": "",
+        "country": "France",
+        "countryCode": "fr"
+    },
+    {
+        "id": 9069535,
+        "name": "New Territories",
+        "region": "",
+        "country": "Hong Kong",
+        "countryCode": "hk"
+    },
+    {
+        "id": 9069536,
+        "name": "Kowloon",
+        "region": "",
+        "country": "Hong Kong",
+        "countryCode": "hk"
+    },
+    {
+        "id": 9069538,
+        "name": "Decentralized Administration of Attica",
+        "region": "",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 9069539,
+        "name": "Crete Region",
+        "region": "",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 9069571,
+        "name": "Pavlodar Province",
+        "region": "",
+        "country": "Kazakhstan",
+        "countryCode": "kz"
+    },
+    {
+        "id": 9069572,
+        "name": "West Kazakhstan Province",
+        "region": "",
+        "country": "Kazakhstan",
+        "countryCode": "kz"
+    },
+    {
+        "id": 9069573,
+        "name": "Kyzylorda Province",
+        "region": "",
+        "country": "Kazakhstan",
+        "countryCode": "kz"
+    },
+    {
+        "id": 9069574,
+        "name": "Mogilev Region",
+        "region": "",
+        "country": "Belarus",
+        "countryCode": "by"
+    },
+    {
+        "id": 9069575,
+        "name": "Brest Region",
+        "region": "",
+        "country": "Belarus",
+        "countryCode": "by"
+    },
+    {
+        "id": 9069576,
+        "name": "Gomel Region",
+        "region": "",
+        "country": "Belarus",
+        "countryCode": "by"
+    },
+    {
+        "id": 9069577,
+        "name": "Vitebsk Region",
+        "region": "",
+        "country": "Belarus",
+        "countryCode": "by"
+    },
+    {
+        "id": 9069578,
+        "name": "Minsk Region",
+        "region": "",
+        "country": "Belarus",
+        "countryCode": "by"
+    },
+    {
+        "id": 9069579,
+        "name": "Hrodna Region",
+        "region": "",
+        "country": "Belarus",
+        "countryCode": "by"
+    },
+    {
+        "id": 9069746,
+        "name": "Ngabe-Bugle Comarca",
+        "region": "",
+        "country": "Panama",
+        "countryCode": "pa"
+    },
+    {
+        "id": 9069748,
+        "name": "Embera-Wounaan Comarca",
+        "region": "",
+        "country": "Panama",
+        "countryCode": "pa"
+    },
+    {
+        "id": 9069811,
+        "name": "Westfjords Region",
+        "region": "",
+        "country": "Iceland",
+        "countryCode": "is"
+    },
+    {
+        "id": 9069812,
+        "name": "Western Region",
+        "region": "",
+        "country": "Iceland",
+        "countryCode": "is"
+    },
+    {
+        "id": 9069813,
+        "name": "Eastern Region",
+        "region": "",
+        "country": "Iceland",
+        "countryCode": "is"
+    },
+    {
+        "id": 9069814,
+        "name": "Southern Peninsula Region",
+        "region": "",
+        "country": "Iceland",
+        "countryCode": "is"
+    },
+    {
+        "id": 9069815,
+        "name": "Capital Region",
+        "region": "",
+        "country": "Iceland",
+        "countryCode": "is"
+    },
+    {
+        "id": 9069816,
+        "name": "Northwestern Region",
+        "region": "",
+        "country": "Iceland",
+        "countryCode": "is"
+    },
+    {
+        "id": 9069834,
+        "name": "Eastern Region",
+        "region": "",
+        "country": "Ghana",
+        "countryCode": "gh"
+    },
+    {
+        "id": 9069835,
+        "name": "Western Region",
+        "region": "",
+        "country": "Ghana",
+        "countryCode": "gh"
+    },
+    {
+        "id": 9069836,
+        "name": "Ashanti Region",
+        "region": "",
+        "country": "Ghana",
+        "countryCode": "gh"
+    },
+    {
+        "id": 9069837,
+        "name": "Greater Accra Region",
+        "region": "",
+        "country": "Ghana",
+        "countryCode": "gh"
+    },
+    {
+        "id": 9069838,
+        "name": "Shida Kartli",
+        "region": "",
+        "country": "Georgia",
+        "countryCode": "ge"
+    },
+    {
+        "id": 9069839,
+        "name": "Guria",
+        "region": "",
+        "country": "Georgia",
+        "countryCode": "ge"
+    },
+    {
+        "id": 9069840,
+        "name": "Abkhazia",
+        "region": "",
+        "country": "Georgia",
+        "countryCode": "ge"
+    },
+    {
+        "id": 9069841,
+        "name": "Tbilisi",
+        "region": "",
+        "country": "Georgia",
+        "countryCode": "ge"
+    },
+    {
+        "id": 9069842,
+        "name": "Adjara",
+        "region": "",
+        "country": "Georgia",
+        "countryCode": "ge"
+    },
+    {
+        "id": 9069843,
+        "name": "Mtskheta-Mtianeti",
+        "region": "",
+        "country": "Georgia",
+        "countryCode": "ge"
+    },
+    {
+        "id": 9069844,
+        "name": "Imereti",
+        "region": "",
+        "country": "Georgia",
+        "countryCode": "ge"
+    },
+    {
+        "id": 9069845,
+        "name": "Samtskhe-Javakheti",
+        "region": "",
+        "country": "Georgia",
+        "countryCode": "ge"
+    },
+    {
+        "id": 9069846,
+        "name": "Samegrelo-Zemo Svaneti",
+        "region": "",
+        "country": "Georgia",
+        "countryCode": "ge"
+    },
+    {
+        "id": 9069847,
+        "name": "Racha-Lechkhumi and Lower Svaneti",
+        "region": "",
+        "country": "Georgia",
+        "countryCode": "ge"
+    },
+    {
+        "id": 9069848,
+        "name": "Kvemo Kartli",
+        "region": "",
+        "country": "Georgia",
+        "countryCode": "ge"
+    },
+    {
+        "id": 9069849,
+        "name": "Kakheti",
+        "region": "",
+        "country": "Georgia",
+        "countryCode": "ge"
+    },
+    {
+        "id": 9069873,
+        "name": "Hanover Parish",
+        "region": "",
+        "country": "Jamaica",
+        "countryCode": "jm"
+    },
+    {
+        "id": 9069874,
+        "name": "Portland Parish",
+        "region": "",
+        "country": "Jamaica",
+        "countryCode": "jm"
+    },
+    {
+        "id": 9069875,
+        "name": "Kingston Parish",
+        "region": "",
+        "country": "Jamaica",
+        "countryCode": "jm"
+    },
+    {
+        "id": 9069876,
+        "name": "Westmoreland Parish",
+        "region": "",
+        "country": "Jamaica",
+        "countryCode": "jm"
+    },
+    {
+        "id": 9069877,
+        "name": "Kilimanjaro Region",
+        "region": "",
+        "country": "Tanzania",
+        "countryCode": "tz"
+    },
+    {
+        "id": 9069878,
+        "name": "Manyara Region",
+        "region": "",
+        "country": "Tanzania",
+        "countryCode": "tz"
+    },
+    {
+        "id": 9069879,
+        "name": "Mbeya Region",
+        "region": "",
+        "country": "Tanzania",
+        "countryCode": "tz"
+    },
+    {
+        "id": 9069880,
+        "name": "Kigoma Region",
+        "region": "",
+        "country": "Tanzania",
+        "countryCode": "tz"
+    },
+    {
+        "id": 9069881,
+        "name": "Mara Region",
+        "region": "",
+        "country": "Tanzania",
+        "countryCode": "tz"
+    },
+    {
+        "id": 9069882,
+        "name": "Zanzibar Urban/West Region",
+        "region": "",
+        "country": "Tanzania",
+        "countryCode": "tz"
+    },
+    {
+        "id": 9069883,
+        "name": "Zanzibar Central/South Region",
+        "region": "",
+        "country": "Tanzania",
+        "countryCode": "tz"
+    },
+    {
+        "id": 9069884,
+        "name": "Singida Region",
+        "region": "",
+        "country": "Tanzania",
+        "countryCode": "tz"
+    },
+    {
+        "id": 9069885,
+        "name": "Dodoma Region",
+        "region": "",
+        "country": "Tanzania",
+        "countryCode": "tz"
+    },
+    {
+        "id": 9069886,
+        "name": "Tanga Region",
+        "region": "",
+        "country": "Tanzania",
+        "countryCode": "tz"
+    },
+    {
+        "id": 9069887,
+        "name": "Rukwa Region",
+        "region": "",
+        "country": "Tanzania",
+        "countryCode": "tz"
+    },
+    {
+        "id": 9069888,
+        "name": "Tabora Region",
+        "region": "",
+        "country": "Tanzania",
+        "countryCode": "tz"
+    },
+    {
+        "id": 9069889,
+        "name": "Iringa Region",
+        "region": "",
+        "country": "Tanzania",
+        "countryCode": "tz"
+    },
+    {
+        "id": 9069890,
+        "name": "Kagera Region",
+        "region": "",
+        "country": "Tanzania",
+        "countryCode": "tz"
+    },
+    {
+        "id": 9069891,
+        "name": "Mwanza Region",
+        "region": "",
+        "country": "Tanzania",
+        "countryCode": "tz"
+    },
+    {
+        "id": 9069892,
+        "name": "Shinyanga Region",
+        "region": "",
+        "country": "Tanzania",
+        "countryCode": "tz"
+    },
+    {
+        "id": 9069893,
+        "name": "Ruvuma Region",
+        "region": "",
+        "country": "Tanzania",
+        "countryCode": "tz"
+    },
+    {
+        "id": 9069894,
+        "name": "Morogoro Region",
+        "region": "",
+        "country": "Tanzania",
+        "countryCode": "tz"
+    },
+    {
+        "id": 9069895,
+        "name": "Pwani Region",
+        "region": "",
+        "country": "Tanzania",
+        "countryCode": "tz"
+    },
+    {
+        "id": 9069912,
+        "name": "Transnistria",
+        "region": "",
+        "country": "Moldova",
+        "countryCode": "md"
+    },
+    {
+        "id": 9069924,
+        "name": "Gagauzia",
+        "region": "",
+        "country": "Moldova",
+        "countryCode": "md"
+    },
+    {
+        "id": 9069935,
+        "name": "Grande-Terre",
+        "region": "",
+        "country": "Guadeloupe",
+        "countryCode": "gp"
+    },
+    {
+        "id": 9069985,
+        "name": "Central Region",
+        "region": "",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9069986,
+        "name": "Western Region",
+        "region": "",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9069987,
+        "name": "Northern Region",
+        "region": "",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9069988,
+        "name": "Eastern Region",
+        "region": "",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9070005,
+        "name": "South Caribbean Coast Autonomous Region",
+        "region": "",
+        "country": "Nicaragua",
+        "countryCode": "ni"
+    },
+    {
+        "id": 9070010,
+        "name": "North Caribbean Coast Autonomous Region",
+        "region": "",
+        "country": "Nicaragua",
+        "countryCode": "ni"
+    },
+    {
+        "id": 9070016,
+        "name": "Central Development Region",
+        "region": "",
+        "country": "Nepal",
+        "countryCode": "np"
+    },
+    {
+        "id": 9070017,
+        "name": "Mid-Western Development Region",
+        "region": "",
+        "country": "Nepal",
+        "countryCode": "np"
+    },
+    {
+        "id": 9070018,
+        "name": "Far-Western Development Region",
+        "region": "",
+        "country": "Nepal",
+        "countryCode": "np"
+    },
+    {
+        "id": 9070019,
+        "name": "Western Development Region",
+        "region": "",
+        "country": "Nepal",
+        "countryCode": "np"
+    },
+    {
+        "id": 9070060,
+        "name": "Ziguinchor",
+        "region": "",
+        "country": "Senegal",
+        "countryCode": "sn"
+    },
+    {
+        "id": 9070061,
+        "name": "Kaolack Region",
+        "region": "",
+        "country": "Senegal",
+        "countryCode": "sn"
+    },
+    {
+        "id": 9070062,
+        "name": "Kedougou Region",
+        "region": "",
+        "country": "Senegal",
+        "countryCode": "sn"
+    },
+    {
+        "id": 9070063,
+        "name": "Louga Region",
+        "region": "",
+        "country": "Senegal",
+        "countryCode": "sn"
+    },
+    {
+        "id": 9070064,
+        "name": "Kolda Region",
+        "region": "",
+        "country": "Senegal",
+        "countryCode": "sn"
+    },
+    {
+        "id": 9070065,
+        "name": "Thies Region",
+        "region": "",
+        "country": "Senegal",
+        "countryCode": "sn"
+    },
+    {
+        "id": 9070066,
+        "name": "Tambacounda Region",
+        "region": "",
+        "country": "Senegal",
+        "countryCode": "sn"
+    },
+    {
+        "id": 9070067,
+        "name": "Matam Region",
+        "region": "",
+        "country": "Senegal",
+        "countryCode": "sn"
+    },
+    {
+        "id": 9070068,
+        "name": "Fatick Region",
+        "region": "",
+        "country": "Senegal",
+        "countryCode": "sn"
+    },
+    {
+        "id": 9070069,
+        "name": "Kaffrine Region",
+        "region": "",
+        "country": "Senegal",
+        "countryCode": "sn"
+    },
+    {
+        "id": 9070070,
+        "name": "Sedhiou Region",
+        "region": "",
+        "country": "Senegal",
+        "countryCode": "sn"
+    },
+    {
+        "id": 9070071,
+        "name": "Saint-Louis Region",
+        "region": "",
+        "country": "Senegal",
+        "countryCode": "sn"
+    },
+    {
+        "id": 9070072,
+        "name": "West",
+        "region": "",
+        "country": "Cameroon",
+        "countryCode": "cm"
+    },
+    {
+        "id": 9070073,
+        "name": "Littoral",
+        "region": "",
+        "country": "Cameroon",
+        "countryCode": "cm"
+    },
+    {
+        "id": 9070074,
+        "name": "East",
+        "region": "",
+        "country": "Cameroon",
+        "countryCode": "cm"
+    },
+    {
+        "id": 9070075,
+        "name": "Centre",
+        "region": "",
+        "country": "Cameroon",
+        "countryCode": "cm"
+    },
+    {
+        "id": 9070076,
+        "name": "Southwest",
+        "region": "",
+        "country": "Cameroon",
+        "countryCode": "cm"
+    },
+    {
+        "id": 9070077,
+        "name": "Northwest",
+        "region": "",
+        "country": "Cameroon",
+        "countryCode": "cm"
+    },
+    {
+        "id": 9070078,
+        "name": "North",
+        "region": "",
+        "country": "Cameroon",
+        "countryCode": "cm"
+    },
+    {
+        "id": 9070079,
+        "name": "South",
+        "region": "",
+        "country": "Cameroon",
+        "countryCode": "cm"
+    },
+    {
+        "id": 9070080,
+        "name": "Khomas Region",
+        "region": "",
+        "country": "Namibia",
+        "countryCode": "na"
+    },
+    {
+        "id": 9070081,
+        "name": "Oshikoto Region",
+        "region": "",
+        "country": "Namibia",
+        "countryCode": "na"
+    },
+    {
+        "id": 9070082,
+        "name": "Otjozondjupa Region",
+        "region": "",
+        "country": "Namibia",
+        "countryCode": "na"
+    },
+    {
+        "id": 9070083,
+        "name": "Oshana Region",
+        "region": "",
+        "country": "Namibia",
+        "countryCode": "na"
+    },
+    {
+        "id": 9070084,
+        "name": "Zambezi Region",
+        "region": "",
+        "country": "Namibia",
+        "countryCode": "na"
+    },
+    {
+        "id": 9070085,
+        "name": "Omusati Region",
+        "region": "",
+        "country": "Namibia",
+        "countryCode": "na"
+    },
+    {
+        "id": 9070086,
+        "name": "Kavango Region",
+        "region": "",
+        "country": "Namibia",
+        "countryCode": "na"
+    },
+    {
+        "id": 9070087,
+        "name": "Hardap Region",
+        "region": "",
+        "country": "Namibia",
+        "countryCode": "na"
+    },
+    {
+        "id": 9070088,
+        "name": "Kunene Region",
+        "region": "",
+        "country": "Namibia",
+        "countryCode": "na"
+    },
+    {
+        "id": 9070089,
+        "name": "Karas Region",
+        "region": "",
+        "country": "Namibia",
+        "countryCode": "na"
+    },
+    {
+        "id": 9070167,
+        "name": "Smiths Parish",
+        "region": "",
+        "country": "Bermuda",
+        "countryCode": "bm"
+    },
+    {
+        "id": 9070168,
+        "name": "Pembroke Parish",
+        "region": "",
+        "country": "Bermuda",
+        "countryCode": "bm"
+    },
+    {
+        "id": 9070169,
+        "name": "Devonshire Parish",
+        "region": "",
+        "country": "Bermuda",
+        "countryCode": "bm"
+    },
+    {
+        "id": 9070170,
+        "name": "Sandys Parish",
+        "region": "",
+        "country": "Bermuda",
+        "countryCode": "bm"
+    },
+    {
+        "id": 9070171,
+        "name": "Paget Parish",
+        "region": "",
+        "country": "Bermuda",
+        "countryCode": "bm"
+    },
+    {
+        "id": 9070172,
+        "name": "Warwick Parish",
+        "region": "",
+        "country": "Bermuda",
+        "countryCode": "bm"
+    },
+    {
+        "id": 9070173,
+        "name": "Southampton Parish",
+        "region": "",
+        "country": "Bermuda",
+        "countryCode": "bm"
+    },
+    {
+        "id": 9070174,
+        "name": "St. George's Parish",
+        "region": "",
+        "country": "Bermuda",
+        "countryCode": "bm"
+    },
+    {
+        "id": 9070237,
+        "name": "Segou Region",
+        "region": "",
+        "country": "Mali",
+        "countryCode": "ml"
+    },
+    {
+        "id": 9070238,
+        "name": "Sikasso Region",
+        "region": "",
+        "country": "Mali",
+        "countryCode": "ml"
+    },
+    {
+        "id": 9070239,
+        "name": "Gao Region",
+        "region": "",
+        "country": "Mali",
+        "countryCode": "ml"
+    },
+    {
+        "id": 9070240,
+        "name": "Koulikoro Region",
+        "region": "",
+        "country": "Mali",
+        "countryCode": "ml"
+    },
+    {
+        "id": 9070241,
+        "name": "Tombouctou Region",
+        "region": "",
+        "country": "Mali",
+        "countryCode": "ml"
+    },
+    {
+        "id": 9070242,
+        "name": "Mopti Region",
+        "region": "",
+        "country": "Mali",
+        "countryCode": "ml"
+    },
+    {
+        "id": 9070243,
+        "name": "Kidal Region",
+        "region": "",
+        "country": "Mali",
+        "countryCode": "ml"
+    },
+    {
+        "id": 9070246,
+        "name": "Sud-Ouest Region",
+        "region": "",
+        "country": "Burkina Faso",
+        "countryCode": "bf"
+    },
+    {
+        "id": 9070247,
+        "name": "Centre Region",
+        "region": "",
+        "country": "Burkina Faso",
+        "countryCode": "bf"
+    },
+    {
+        "id": 9070248,
+        "name": "Boucle du Mouhoun Region",
+        "region": "",
+        "country": "Burkina Faso",
+        "countryCode": "bf"
+    },
+    {
+        "id": 9070249,
+        "name": "Hauts-Bassins Region",
+        "region": "",
+        "country": "Burkina Faso",
+        "countryCode": "bf"
+    },
+    {
+        "id": 9070250,
+        "name": "Cascades Region",
+        "region": "",
+        "country": "Burkina Faso",
+        "countryCode": "bf"
+    },
+    {
+        "id": 9070251,
+        "name": "Centre-Ouest Region",
+        "region": "",
+        "country": "Burkina Faso",
+        "countryCode": "bf"
+    },
+    {
+        "id": 9070252,
+        "name": "Nord Region",
+        "region": "",
+        "country": "Burkina Faso",
+        "countryCode": "bf"
+    },
+    {
+        "id": 9070253,
+        "name": "Sahel Region",
+        "region": "",
+        "country": "Burkina Faso",
+        "countryCode": "bf"
+    },
+    {
+        "id": 9070254,
+        "name": "Centre-Est Region",
+        "region": "",
+        "country": "Burkina Faso",
+        "countryCode": "bf"
+    },
+    {
+        "id": 9070255,
+        "name": "Est Region",
+        "region": "",
+        "country": "Burkina Faso",
+        "countryCode": "bf"
+    },
+    {
+        "id": 9070260,
+        "name": "Savanes Region",
+        "region": "",
+        "country": "Togo",
+        "countryCode": "tg"
+    },
+    {
+        "id": 9070261,
+        "name": "Centrale Region",
+        "region": "",
+        "country": "Togo",
+        "countryCode": "tg"
+    },
+    {
+        "id": 9070262,
+        "name": "Kara Region",
+        "region": "",
+        "country": "Togo",
+        "countryCode": "tg"
+    },
+    {
+        "id": 9070263,
+        "name": "Maritime Region",
+        "region": "",
+        "country": "Togo",
+        "countryCode": "tg"
+    },
+    {
+        "id": 9070264,
+        "name": "Plateaux Region",
+        "region": "",
+        "country": "Togo",
+        "countryCode": "tg"
+    },
+    {
+        "id": 9070265,
+        "name": "Shiselweni Region",
+        "region": "",
+        "country": "Eswatini",
+        "countryCode": "sz"
+    },
+    {
+        "id": 9070266,
+        "name": "Lubombo Region",
+        "region": "",
+        "country": "Eswatini",
+        "countryCode": "sz"
+    },
+    {
+        "id": 9070267,
+        "name": "Hhohho Region",
+        "region": "",
+        "country": "Eswatini",
+        "countryCode": "sz"
+    },
+    {
+        "id": 9070268,
+        "name": "Manzini",
+        "region": "",
+        "country": "Eswatini",
+        "countryCode": "sz"
+    },
+    {
+        "id": 9070273,
+        "name": "Dosso Region",
+        "region": "",
+        "country": "Niger",
+        "countryCode": "ne"
+    },
+    {
+        "id": 9070274,
+        "name": "Diffa Region",
+        "region": "",
+        "country": "Niger",
+        "countryCode": "ne"
+    },
+    {
+        "id": 9070275,
+        "name": "Maradi Region",
+        "region": "",
+        "country": "Niger",
+        "countryCode": "ne"
+    },
+    {
+        "id": 9070276,
+        "name": "Tillaberi Region",
+        "region": "",
+        "country": "Niger",
+        "countryCode": "ne"
+    },
+    {
+        "id": 9070277,
+        "name": "Tahoua Region",
+        "region": "",
+        "country": "Niger",
+        "countryCode": "ne"
+    },
+    {
+        "id": 9070278,
+        "name": "Agadez Region",
+        "region": "",
+        "country": "Niger",
+        "countryCode": "ne"
+    },
+    {
+        "id": 9070279,
+        "name": "Zinder Region",
+        "region": "",
+        "country": "Niger",
+        "countryCode": "ne"
+    },
+    {
+        "id": 9070280,
+        "name": "Oued Ed-Dahab-Lagouira",
+        "region": "",
+        "country": "Western Sahara",
+        "countryCode": "eh"
+    },
+    {
+        "id": 9070365,
+        "name": "Southern Region",
+        "region": "",
+        "country": "Iceland",
+        "countryCode": "is"
+    },
+    {
+        "id": 9070366,
+        "name": "Northeastern Region",
+        "region": "",
+        "country": "Iceland",
+        "countryCode": "is"
+    },
+    {
+        "id": 9070367,
+        "name": "Central",
+        "region": "",
+        "country": "Ghana",
+        "countryCode": "gh"
+    },
+    {
+        "id": 9070368,
+        "name": "Volta Region",
+        "region": "",
+        "country": "Ghana",
+        "countryCode": "gh"
+    },
+    {
+        "id": 9070369,
+        "name": "Northern Region",
+        "region": "",
+        "country": "Ghana",
+        "countryCode": "gh"
+    },
+    {
+        "id": 9070370,
+        "name": "Upper West Region",
+        "region": "",
+        "country": "Ghana",
+        "countryCode": "gh"
+    },
+    {
+        "id": 9070371,
+        "name": "Upper East Region",
+        "region": "",
+        "country": "Ghana",
+        "countryCode": "gh"
+    },
+    {
+        "id": 9070372,
+        "name": "Brong Ahafo Region",
+        "region": "",
+        "country": "Ghana",
+        "countryCode": "gh"
+    },
+    {
+        "id": 9070373,
+        "name": "Clarendon",
+        "region": "",
+        "country": "Jamaica",
+        "countryCode": "jm"
+    },
+    {
+        "id": 9070374,
+        "name": "Saint Thomas Parish",
+        "region": "",
+        "country": "Jamaica",
+        "countryCode": "jm"
+    },
+    {
+        "id": 9070375,
+        "name": "Saint Catherine Parish",
+        "region": "",
+        "country": "Jamaica",
+        "countryCode": "jm"
+    },
+    {
+        "id": 9070376,
+        "name": "Manchester Parish",
+        "region": "",
+        "country": "Jamaica",
+        "countryCode": "jm"
+    },
+    {
+        "id": 9070377,
+        "name": "Trelawny Parish",
+        "region": "",
+        "country": "Jamaica",
+        "countryCode": "jm"
+    },
+    {
+        "id": 9070378,
+        "name": "St. James Parish",
+        "region": "",
+        "country": "Jamaica",
+        "countryCode": "jm"
+    },
+    {
+        "id": 9070379,
+        "name": "St. Andrew Parish",
+        "region": "",
+        "country": "Jamaica",
+        "countryCode": "jm"
+    },
+    {
+        "id": 9070380,
+        "name": "St. Mary Parish",
+        "region": "",
+        "country": "Jamaica",
+        "countryCode": "jm"
+    },
+    {
+        "id": 9070381,
+        "name": "St. Ann Parish",
+        "region": "",
+        "country": "Jamaica",
+        "countryCode": "jm"
+    },
+    {
+        "id": 9070382,
+        "name": "Zanzibar North Region",
+        "region": "",
+        "country": "Tanzania",
+        "countryCode": "tz"
+    },
+    {
+        "id": 9070383,
+        "name": "Lindi Region",
+        "region": "",
+        "country": "Tanzania",
+        "countryCode": "tz"
+    },
+    {
+        "id": 9070384,
+        "name": "Mtwara Region",
+        "region": "",
+        "country": "Tanzania",
+        "countryCode": "tz"
+    },
+    {
+        "id": 9070385,
+        "name": "Arusha Region",
+        "region": "",
+        "country": "Tanzania",
+        "countryCode": "tz"
+    },
+    {
+        "id": 9070386,
+        "name": "Nakhchivan Autonomous Republic",
+        "region": "",
+        "country": "Azerbaijan",
+        "countryCode": "az"
+    },
+    {
+        "id": 9070394,
+        "name": "Basse-Terre",
+        "region": "",
+        "country": "Guadeloupe",
+        "countryCode": "gp"
+    },
+    {
+        "id": 9070424,
+        "name": "Dakar Region",
+        "region": "",
+        "country": "Senegal",
+        "countryCode": "sn"
+    },
+    {
+        "id": 9070425,
+        "name": "Diourbel Region",
+        "region": "",
+        "country": "Senegal",
+        "countryCode": "sn"
+    },
+    {
+        "id": 9070426,
+        "name": "Far North",
+        "region": "",
+        "country": "Cameroon",
+        "countryCode": "cm"
+    },
+    {
+        "id": 9070427,
+        "name": "Omaheke Region",
+        "region": "",
+        "country": "Namibia",
+        "countryCode": "na"
+    },
+    {
+        "id": 9070428,
+        "name": "Ohangwena Region",
+        "region": "",
+        "country": "Namibia",
+        "countryCode": "na"
+    },
+    {
+        "id": 9070429,
+        "name": "Erongo Region",
+        "region": "",
+        "country": "Namibia",
+        "countryCode": "na"
+    },
+    {
+        "id": 9070438,
+        "name": "Jalal-Abad Region",
+        "region": "",
+        "country": "Kyrgyzstan",
+        "countryCode": "kg"
+    },
+    {
+        "id": 9070439,
+        "name": "Batken Province",
+        "region": "",
+        "country": "Kyrgyzstan",
+        "countryCode": "kg"
+    },
+    {
+        "id": 9070440,
+        "name": "Chuy Province",
+        "region": "",
+        "country": "Kyrgyzstan",
+        "countryCode": "kg"
+    },
+    {
+        "id": 9070441,
+        "name": "Naryn Region",
+        "region": "",
+        "country": "Kyrgyzstan",
+        "countryCode": "kg"
+    },
+    {
+        "id": 9070442,
+        "name": "Issyk-Kul Region",
+        "region": "",
+        "country": "Kyrgyzstan",
+        "countryCode": "kg"
+    },
+    {
+        "id": 9070443,
+        "name": "Osh Region",
+        "region": "",
+        "country": "Kyrgyzstan",
+        "countryCode": "kg"
+    },
+    {
+        "id": 9070448,
+        "name": "Hamilton Parish",
+        "region": "",
+        "country": "Bermuda",
+        "countryCode": "bm"
+    },
+    {
+        "id": 9070452,
+        "name": "Bamako Capital District",
+        "region": "",
+        "country": "Mali",
+        "countryCode": "ml"
+    },
+    {
+        "id": 9070453,
+        "name": "Kayes Region",
+        "region": "",
+        "country": "Mali",
+        "countryCode": "ml"
+    },
+    {
+        "id": 9070454,
+        "name": "Niamey Urban Community",
+        "region": "",
+        "country": "Niger",
+        "countryCode": "ne"
+    },
+    {
+        "id": 9070455,
+        "name": "Guelmim-Es Semara",
+        "region": "",
+        "country": "Western Sahara",
+        "countryCode": "eh"
+    },
+    {
+        "id": 9073177,
+        "name": "Pearl Islands",
+        "region": "",
+        "country": "Panama",
+        "countryCode": "pa"
+    },
+    {
+        "id": 9073451,
+        "name": "San Francisco Bay Area",
+        "region": "",
+        "country": "United States",
+        "countryCode": "us"
+    },
+    {
+        "id": 9073452,
+        "name": "Silicon Valley",
+        "region": "California",
+        "country": "United States",
+        "countryCode": "us"
+    },
+    {
+        "id": 9073536,
+        "name": "Mymensingh Division",
+        "region": "",
+        "country": "Bangladesh",
+        "countryCode": "bd"
+    },
+    {
+        "id": 9073768,
+        "name": "Beni Mellal-Khenifra",
+        "region": "",
+        "country": "Morocco",
+        "countryCode": "ma"
+    },
+    {
+        "id": 9073769,
+        "name": "Casablanca-Settat",
+        "region": "",
+        "country": "Morocco",
+        "countryCode": "ma"
+    },
+    {
+        "id": 9073770,
+        "name": "Oriental",
+        "region": "",
+        "country": "Morocco",
+        "countryCode": "ma"
+    },
+    {
+        "id": 9073771,
+        "name": "Draa-Tafilalet",
+        "region": "",
+        "country": "Morocco",
+        "countryCode": "ma"
+    },
+    {
+        "id": 9073772,
+        "name": "Rabat-Sale-Kenitra",
+        "region": "",
+        "country": "Morocco",
+        "countryCode": "ma"
+    },
+    {
+        "id": 9073773,
+        "name": "Tangier-Tetouan-Al Hoceima",
+        "region": "",
+        "country": "Morocco",
+        "countryCode": "ma"
+    },
+    {
+        "id": 9073774,
+        "name": "Souss-Massa",
+        "region": "",
+        "country": "Morocco",
+        "countryCode": "ma"
+    },
+    {
+        "id": 9073775,
+        "name": "Marrakesh-Safi",
+        "region": "",
+        "country": "Morocco",
+        "countryCode": "ma"
+    },
+    {
+        "id": 9073776,
+        "name": "Fez-Meknes",
+        "region": "",
+        "country": "Morocco",
+        "countryCode": "ma"
+    },
+    {
+        "id": 9073777,
+        "name": "Guelmim-Oued Noun",
+        "region": "",
+        "country": "Morocco",
+        "countryCode": "ma"
+    },
+    {
+        "id": 9075379,
+        "name": "Canillo",
+        "region": "",
+        "country": "Andorra",
+        "countryCode": "ad"
+    },
+    {
+        "id": 9075380,
+        "name": "Encamp",
+        "region": "",
+        "country": "Andorra",
+        "countryCode": "ad"
+    },
+    {
+        "id": 9075381,
+        "name": "La Massana",
+        "region": "",
+        "country": "Andorra",
+        "countryCode": "ad"
+    },
+    {
+        "id": 9075382,
+        "name": "Ordino",
+        "region": "",
+        "country": "Andorra",
+        "countryCode": "ad"
+    },
+    {
+        "id": 9075383,
+        "name": "Escaldes-Engordany",
+        "region": "",
+        "country": "Andorra",
+        "countryCode": "ad"
+    },
+    {
+        "id": 9075384,
+        "name": "Andorra la Vella",
+        "region": "",
+        "country": "Andorra",
+        "countryCode": "ad"
+    },
+    {
+        "id": 9075385,
+        "name": "Sant Julia de Loria",
+        "region": "",
+        "country": "Andorra",
+        "countryCode": "ad"
+    },
+    {
+        "id": 9075413,
+        "name": "Saint Peter",
+        "region": "",
+        "country": "Antigua and Barbuda",
+        "countryCode": "ag"
+    },
+    {
+        "id": 9075414,
+        "name": "Saint Paul",
+        "region": "",
+        "country": "Antigua and Barbuda",
+        "countryCode": "ag"
+    },
+    {
+        "id": 9075415,
+        "name": "Saint George",
+        "region": "",
+        "country": "Antigua and Barbuda",
+        "countryCode": "ag"
+    },
+    {
+        "id": 9075416,
+        "name": "Saint Mary",
+        "region": "",
+        "country": "Antigua and Barbuda",
+        "countryCode": "ag"
+    },
+    {
+        "id": 9075417,
+        "name": "Saint Philip",
+        "region": "",
+        "country": "Antigua and Barbuda",
+        "countryCode": "ag"
+    },
+    {
+        "id": 9075418,
+        "name": "Saint John",
+        "region": "",
+        "country": "Antigua and Barbuda",
+        "countryCode": "ag"
+    },
+    {
+        "id": 9075427,
+        "name": "Centre-Sud Region",
+        "region": "",
+        "country": "Burkina Faso",
+        "countryCode": "bf"
+    },
+    {
+        "id": 9075428,
+        "name": "Plateau-Central Region",
+        "region": "",
+        "country": "Burkina Faso",
+        "countryCode": "bf"
+    },
+    {
+        "id": 9075429,
+        "name": "Centre-Nord Region",
+        "region": "",
+        "country": "Burkina Faso",
+        "countryCode": "bf"
+    },
+    {
+        "id": 9075465,
+        "name": "Adamawa",
+        "region": "",
+        "country": "Cameroon",
+        "countryCode": "cm"
+    },
+    {
+        "id": 9075482,
+        "name": "Arta",
+        "region": "",
+        "country": "Djibouti",
+        "countryCode": "dj"
+    },
+    {
+        "id": 9075483,
+        "name": "Djibouti",
+        "region": "",
+        "country": "Djibouti",
+        "countryCode": "dj"
+    },
+    {
+        "id": 9075489,
+        "name": "Central",
+        "region": "",
+        "country": "Eritrea",
+        "countryCode": "er"
+    },
+    {
+        "id": 9075490,
+        "name": "Southern Red Sea",
+        "region": "",
+        "country": "Eritrea",
+        "countryCode": "er"
+    },
+    {
+        "id": 9075491,
+        "name": "Tigray",
+        "region": "",
+        "country": "Ethiopia",
+        "countryCode": "et"
+    },
+    {
+        "id": 9075492,
+        "name": "Benishangul-Gumuz",
+        "region": "",
+        "country": "Ethiopia",
+        "countryCode": "et"
+    },
+    {
+        "id": 9075493,
+        "name": "Amhara",
+        "region": "",
+        "country": "Ethiopia",
+        "countryCode": "et"
+    },
+    {
+        "id": 9075494,
+        "name": "Southern Nations, Nationalities, and People's Region",
+        "region": "",
+        "country": "Ethiopia",
+        "countryCode": "et"
+    },
+    {
+        "id": 9075495,
+        "name": "Oromia",
+        "region": "",
+        "country": "Ethiopia",
+        "countryCode": "et"
+    },
+    {
+        "id": 9075496,
+        "name": "Afar",
+        "region": "",
+        "country": "Ethiopia",
+        "countryCode": "et"
+    },
+    {
+        "id": 9075497,
+        "name": "Somali",
+        "region": "",
+        "country": "Ethiopia",
+        "countryCode": "et"
+    },
+    {
+        "id": 9075500,
+        "name": "Central Ostrobothnia",
+        "region": "",
+        "country": "Finland",
+        "countryCode": "fi"
+    },
+    {
+        "id": 9075501,
+        "name": "Southwest Finland",
+        "region": "",
+        "country": "Finland",
+        "countryCode": "fi"
+    },
+    {
+        "id": 9075502,
+        "name": "Satakunta",
+        "region": "",
+        "country": "Finland",
+        "countryCode": "fi"
+    },
+    {
+        "id": 9075503,
+        "name": "Tavastia Proper",
+        "region": "",
+        "country": "Finland",
+        "countryCode": "fi"
+    },
+    {
+        "id": 9075504,
+        "name": "Ostrobothnia",
+        "region": "",
+        "country": "Finland",
+        "countryCode": "fi"
+    },
+    {
+        "id": 9075505,
+        "name": "Pirkanmaa",
+        "region": "",
+        "country": "Finland",
+        "countryCode": "fi"
+    },
+    {
+        "id": 9075506,
+        "name": "Uusimaa",
+        "region": "",
+        "country": "Finland",
+        "countryCode": "fi"
+    },
+    {
+        "id": 9075507,
+        "name": "Central Finland",
+        "region": "",
+        "country": "Finland",
+        "countryCode": "fi"
+    },
+    {
+        "id": 9075508,
+        "name": "Lapland",
+        "region": "",
+        "country": "Finland",
+        "countryCode": "fi"
+    },
+    {
+        "id": 9075509,
+        "name": "Northern Savonia",
+        "region": "",
+        "country": "Finland",
+        "countryCode": "fi"
+    },
+    {
+        "id": 9075510,
+        "name": "North Karelia",
+        "region": "",
+        "country": "Finland",
+        "countryCode": "fi"
+    },
+    {
+        "id": 9075511,
+        "name": "South Karelia",
+        "region": "",
+        "country": "Finland",
+        "countryCode": "fi"
+    },
+    {
+        "id": 9075512,
+        "name": "Southern Ostrobothnia",
+        "region": "",
+        "country": "Finland",
+        "countryCode": "fi"
+    },
+    {
+        "id": 9075513,
+        "name": "Kainuu",
+        "region": "",
+        "country": "Finland",
+        "countryCode": "fi"
+    },
+    {
+        "id": 9075514,
+        "name": "Northern Ostrobothnia",
+        "region": "",
+        "country": "Finland",
+        "countryCode": "fi"
+    },
+    {
+        "id": 9075515,
+        "name": "Kymenlaakso",
+        "region": "",
+        "country": "Finland",
+        "countryCode": "fi"
+    },
+    {
+        "id": 9075516,
+        "name": "Paijanne Tavastia",
+        "region": "",
+        "country": "Finland",
+        "countryCode": "fi"
+    },
+    {
+        "id": 9075517,
+        "name": "Southern Savonia",
+        "region": "",
+        "country": "Finland",
+        "countryCode": "fi"
+    },
+    {
+        "id": 9075531,
+        "name": "Carriacou and Petite Martinique",
+        "region": "",
+        "country": "Grenada",
+        "countryCode": "gd"
+    },
+    {
+        "id": 9075532,
+        "name": "Saint John",
+        "region": "",
+        "country": "Grenada",
+        "countryCode": "gd"
+    },
+    {
+        "id": 9075533,
+        "name": "Saint Mark",
+        "region": "",
+        "country": "Grenada",
+        "countryCode": "gd"
+    },
+    {
+        "id": 9075534,
+        "name": "Saint David",
+        "region": "",
+        "country": "Grenada",
+        "countryCode": "gd"
+    },
+    {
+        "id": 9075535,
+        "name": "Saint Andrew",
+        "region": "",
+        "country": "Grenada",
+        "countryCode": "gd"
+    },
+    {
+        "id": 9075536,
+        "name": "Saint Patrick",
+        "region": "",
+        "country": "Grenada",
+        "countryCode": "gd"
+    },
+    {
+        "id": 9075537,
+        "name": "Saint George",
+        "region": "",
+        "country": "Grenada",
+        "countryCode": "gd"
+    },
+    {
+        "id": 9075540,
+        "name": "St Martin",
+        "region": "",
+        "country": "Guernsey",
+        "countryCode": "gg"
+    },
+    {
+        "id": 9075541,
+        "name": "Torteval",
+        "region": "",
+        "country": "Guernsey",
+        "countryCode": "gg"
+    },
+    {
+        "id": 9075542,
+        "name": "Forest",
+        "region": "",
+        "country": "Guernsey",
+        "countryCode": "gg"
+    },
+    {
+        "id": 9075543,
+        "name": "St Sampson",
+        "region": "",
+        "country": "Guernsey",
+        "countryCode": "gg"
+    },
+    {
+        "id": 9075544,
+        "name": "St Pierre Du Bois",
+        "region": "",
+        "country": "Guernsey",
+        "countryCode": "gg"
+    },
+    {
+        "id": 9075545,
+        "name": "Saint Saviour",
+        "region": "",
+        "country": "Guernsey",
+        "countryCode": "gg"
+    },
+    {
+        "id": 9075546,
+        "name": "Vale",
+        "region": "",
+        "country": "Guernsey",
+        "countryCode": "gg"
+    },
+    {
+        "id": 9075547,
+        "name": "St Andrew",
+        "region": "",
+        "country": "Guernsey",
+        "countryCode": "gg"
+    },
+    {
+        "id": 9075548,
+        "name": "Castel",
+        "region": "",
+        "country": "Guernsey",
+        "countryCode": "gg"
+    },
+    {
+        "id": 9075549,
+        "name": "Conakry",
+        "region": "",
+        "country": "Guinea",
+        "countryCode": "gn"
+    },
+    {
+        "id": 9075550,
+        "name": "Labe",
+        "region": "",
+        "country": "Guinea",
+        "countryCode": "gn"
+    },
+    {
+        "id": 9075551,
+        "name": "Boke",
+        "region": "",
+        "country": "Guinea",
+        "countryCode": "gn"
+    },
+    {
+        "id": 9075552,
+        "name": "Kankan",
+        "region": "",
+        "country": "Guinea",
+        "countryCode": "gn"
+    },
+    {
+        "id": 9075555,
+        "name": "Decentralized Administration of the Aegean",
+        "region": "",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 9075556,
+        "name": "Decentralized Administration of Peloponnese, Western Greece and the Ionian",
+        "region": "",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 9075557,
+        "name": "Decentralized Administration of Macedonia and Thrace",
+        "region": "",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 9075558,
+        "name": "Decentralized Administration of Epirus and Western Macedonia",
+        "region": "",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 9075559,
+        "name": "Decentralized Administration of Thessaly and Central Greece",
+        "region": "",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 9075561,
+        "name": "Bafata",
+        "region": "",
+        "country": "Guinea-Bissau",
+        "countryCode": "gw"
+    },
+    {
+        "id": 9075562,
+        "name": "Oio",
+        "region": "",
+        "country": "Guinea-Bissau",
+        "countryCode": "gw"
+    },
+    {
+        "id": 9075563,
+        "name": "Bissau",
+        "region": "",
+        "country": "Guinea-Bissau",
+        "countryCode": "gw"
+    },
+    {
+        "id": 9075564,
+        "name": "Gabu",
+        "region": "",
+        "country": "Guinea-Bissau",
+        "countryCode": "gw"
+    },
+    {
+        "id": 9075565,
+        "name": "Cacheu",
+        "region": "",
+        "country": "Guinea-Bissau",
+        "countryCode": "gw"
+    },
+    {
+        "id": 9075566,
+        "name": "Biombo",
+        "region": "",
+        "country": "Guinea-Bissau",
+        "countryCode": "gw"
+    },
+    {
+        "id": 9075567,
+        "name": "Cuyuni-Mazaruni",
+        "region": "",
+        "country": "Guyana",
+        "countryCode": "gy"
+    },
+    {
+        "id": 9075568,
+        "name": "East Berbice-Corentyne",
+        "region": "",
+        "country": "Guyana",
+        "countryCode": "gy"
+    },
+    {
+        "id": 9075569,
+        "name": "Upper Takutu-Upper Essequibo",
+        "region": "",
+        "country": "Guyana",
+        "countryCode": "gy"
+    },
+    {
+        "id": 9075570,
+        "name": "Upper Demerara-Berbice",
+        "region": "",
+        "country": "Guyana",
+        "countryCode": "gy"
+    },
+    {
+        "id": 9075571,
+        "name": "Demerara-Mahaica",
+        "region": "",
+        "country": "Guyana",
+        "countryCode": "gy"
+    },
+    {
+        "id": 9075572,
+        "name": "Essequibo Islands-West Demerara",
+        "region": "",
+        "country": "Guyana",
+        "countryCode": "gy"
+    },
+    {
+        "id": 9075573,
+        "name": "St. Ouen",
+        "region": "",
+        "country": "Jersey",
+        "countryCode": "je"
+    },
+    {
+        "id": 9075574,
+        "name": "St Lawrence",
+        "region": "",
+        "country": "Jersey",
+        "countryCode": "je"
+    },
+    {
+        "id": 9075575,
+        "name": "Grouville",
+        "region": "",
+        "country": "Jersey",
+        "countryCode": "je"
+    },
+    {
+        "id": 9075576,
+        "name": "St Brelade",
+        "region": "",
+        "country": "Jersey",
+        "countryCode": "je"
+    },
+    {
+        "id": 9075577,
+        "name": "St Mary",
+        "region": "",
+        "country": "Jersey",
+        "countryCode": "je"
+    },
+    {
+        "id": 9075578,
+        "name": "St John",
+        "region": "",
+        "country": "Jersey",
+        "countryCode": "je"
+    },
+    {
+        "id": 9075579,
+        "name": "St Clement",
+        "region": "",
+        "country": "Jersey",
+        "countryCode": "je"
+    },
+    {
+        "id": 9075580,
+        "name": "St. Peter",
+        "region": "",
+        "country": "Jersey",
+        "countryCode": "je"
+    },
+    {
+        "id": 9075581,
+        "name": "St Martin",
+        "region": "",
+        "country": "Jersey",
+        "countryCode": "je"
+    },
+    {
+        "id": 9075582,
+        "name": "Trinity",
+        "region": "",
+        "country": "Jersey",
+        "countryCode": "je"
+    },
+    {
+        "id": 9075583,
+        "name": "St. Elizabeth Parish",
+        "region": "",
+        "country": "Jamaica",
+        "countryCode": "jm"
+    },
+    {
+        "id": 9075804,
+        "name": "Hodh Ech Chargui",
+        "region": "",
+        "country": "Mauritania",
+        "countryCode": "mr"
+    },
+    {
+        "id": 9075805,
+        "name": "Adrar",
+        "region": "",
+        "country": "Mauritania",
+        "countryCode": "mr"
+    },
+    {
+        "id": 9075806,
+        "name": "Gorgol",
+        "region": "",
+        "country": "Mauritania",
+        "countryCode": "mr"
+    },
+    {
+        "id": 9075807,
+        "name": "Trarza",
+        "region": "",
+        "country": "Mauritania",
+        "countryCode": "mr"
+    },
+    {
+        "id": 9075808,
+        "name": "Guidimaka",
+        "region": "",
+        "country": "Mauritania",
+        "countryCode": "mr"
+    },
+    {
+        "id": 9075809,
+        "name": "Dakhlet Nouadhibou",
+        "region": "",
+        "country": "Mauritania",
+        "countryCode": "mr"
+    },
+    {
+        "id": 9075810,
+        "name": "Inchiri",
+        "region": "",
+        "country": "Mauritania",
+        "countryCode": "mr"
+    },
+    {
+        "id": 9075812,
+        "name": "Northern Region",
+        "region": "",
+        "country": "Malawi",
+        "countryCode": "mw"
+    },
+    {
+        "id": 9075813,
+        "name": "Central Region",
+        "region": "",
+        "country": "Malawi",
+        "countryCode": "mw"
+    },
+    {
+        "id": 9075814,
+        "name": "Southern Region",
+        "region": "",
+        "country": "Malawi",
+        "countryCode": "mw"
+    },
+    {
+        "id": 9075818,
+        "name": "Eastern Development Region",
+        "region": "",
+        "country": "Nepal",
+        "countryCode": "np"
+    },
+    {
+        "id": 9075844,
+        "name": "Lendava",
+        "region": "",
+        "country": "Slovenia",
+        "countryCode": "si"
+    },
+    {
+        "id": 9075845,
+        "name": "Gornja Radgona",
+        "region": "",
+        "country": "Slovenia",
+        "countryCode": "si"
+    },
+    {
+        "id": 9075846,
+        "name": "Sentjur",
+        "region": "",
+        "country": "Slovenia",
+        "countryCode": "si"
+    },
+    {
+        "id": 9075847,
+        "name": "Slovenske Konjice",
+        "region": "",
+        "country": "Slovenia",
+        "countryCode": "si"
+    },
+    {
+        "id": 9075848,
+        "name": "Zalec",
+        "region": "",
+        "country": "Slovenia",
+        "countryCode": "si"
+    },
+    {
+        "id": 9075849,
+        "name": "Domzale",
+        "region": "",
+        "country": "Slovenia",
+        "countryCode": "si"
+    },
+    {
+        "id": 9075850,
+        "name": "Metlika",
+        "region": "",
+        "country": "Slovenia",
+        "countryCode": "si"
+    },
+    {
+        "id": 9075851,
+        "name": "Crnomelj",
+        "region": "",
+        "country": "Slovenia",
+        "countryCode": "si"
+    },
+    {
+        "id": 9075852,
+        "name": "Jesenice",
+        "region": "",
+        "country": "Slovenia",
+        "countryCode": "si"
+    },
+    {
+        "id": 9075853,
+        "name": "Smarje pri Jelsah",
+        "region": "",
+        "country": "Slovenia",
+        "countryCode": "si"
+    },
+    {
+        "id": 9075854,
+        "name": "Ilirska Bistrica",
+        "region": "",
+        "country": "Slovenia",
+        "countryCode": "si"
+    },
+    {
+        "id": 9075855,
+        "name": "Postojna",
+        "region": "",
+        "country": "Slovenia",
+        "countryCode": "si"
+    },
+    {
+        "id": 9075856,
+        "name": "Grosuplje",
+        "region": "",
+        "country": "Slovenia",
+        "countryCode": "si"
+    },
+    {
+        "id": 9075857,
+        "name": "Sezana",
+        "region": "",
+        "country": "Slovenia",
+        "countryCode": "si"
+    },
+    {
+        "id": 9075858,
+        "name": "Piran",
+        "region": "",
+        "country": "Slovenia",
+        "countryCode": "si"
+    },
+    {
+        "id": 9075859,
+        "name": "Kamnik",
+        "region": "",
+        "country": "Slovenia",
+        "countryCode": "si"
+    },
+    {
+        "id": 9075860,
+        "name": "Ravne na Koroskem",
+        "region": "",
+        "country": "Slovenia",
+        "countryCode": "si"
+    },
+    {
+        "id": 9075861,
+        "name": "Vrhnika",
+        "region": "",
+        "country": "Slovenia",
+        "countryCode": "si"
+    },
+    {
+        "id": 9075862,
+        "name": "Murska Sobota",
+        "region": "",
+        "country": "Slovenia",
+        "countryCode": "si"
+    },
+    {
+        "id": 9075863,
+        "name": "Celje",
+        "region": "",
+        "country": "Slovenia",
+        "countryCode": "si"
+    },
+    {
+        "id": 9075864,
+        "name": "Dravograd",
+        "region": "",
+        "country": "Slovenia",
+        "countryCode": "si"
+    },
+    {
+        "id": 9075865,
+        "name": "Logatec",
+        "region": "",
+        "country": "Slovenia",
+        "countryCode": "si"
+    },
+    {
+        "id": 9075866,
+        "name": "Trebnje",
+        "region": "",
+        "country": "Slovenia",
+        "countryCode": "si"
+    },
+    {
+        "id": 9075867,
+        "name": "Lenart",
+        "region": "",
+        "country": "Slovenia",
+        "countryCode": "si"
+    },
+    {
+        "id": 9075868,
+        "name": "Sevnica",
+        "region": "",
+        "country": "Slovenia",
+        "countryCode": "si"
+    },
+    {
+        "id": 9075869,
+        "name": "Brezice",
+        "region": "",
+        "country": "Slovenia",
+        "countryCode": "si"
+    },
+    {
+        "id": 9075870,
+        "name": "Ptuj",
+        "region": "",
+        "country": "Slovenia",
+        "countryCode": "si"
+    },
+    {
+        "id": 9075871,
+        "name": "Kranj",
+        "region": "",
+        "country": "Slovenia",
+        "countryCode": "si"
+    },
+    {
+        "id": 9075872,
+        "name": "Trzic",
+        "region": "",
+        "country": "Slovenia",
+        "countryCode": "si"
+    },
+    {
+        "id": 9075873,
+        "name": "Litija",
+        "region": "",
+        "country": "Slovenia",
+        "countryCode": "si"
+    },
+    {
+        "id": 9075874,
+        "name": "Ljubljana",
+        "region": "",
+        "country": "Slovenia",
+        "countryCode": "si"
+    },
+    {
+        "id": 9075875,
+        "name": "Slovenska Bistrica",
+        "region": "",
+        "country": "Slovenia",
+        "countryCode": "si"
+    },
+    {
+        "id": 9075876,
+        "name": "Izola",
+        "region": "",
+        "country": "Slovenia",
+        "countryCode": "si"
+    },
+    {
+        "id": 9075877,
+        "name": "Krsko",
+        "region": "",
+        "country": "Slovenia",
+        "countryCode": "si"
+    },
+    {
+        "id": 9075878,
+        "name": "Ljutomer",
+        "region": "",
+        "country": "Slovenia",
+        "countryCode": "si"
+    },
+    {
+        "id": 9075879,
+        "name": "Radlje ob Dravi",
+        "region": "",
+        "country": "Slovenia",
+        "countryCode": "si"
+    },
+    {
+        "id": 9075880,
+        "name": "Ruse",
+        "region": "",
+        "country": "Slovenia",
+        "countryCode": "si"
+    },
+    {
+        "id": 9075881,
+        "name": "Ormoz",
+        "region": "",
+        "country": "Slovenia",
+        "countryCode": "si"
+    },
+    {
+        "id": 9075882,
+        "name": "Pesnica",
+        "region": "",
+        "country": "Slovenia",
+        "countryCode": "si"
+    },
+    {
+        "id": 9075883,
+        "name": "Tolmin",
+        "region": "",
+        "country": "Slovenia",
+        "countryCode": "si"
+    },
+    {
+        "id": 9075884,
+        "name": "Radovljica",
+        "region": "",
+        "country": "Slovenia",
+        "countryCode": "si"
+    },
+    {
+        "id": 9075885,
+        "name": "Lasko",
+        "region": "",
+        "country": "Slovenia",
+        "countryCode": "si"
+    },
+    {
+        "id": 9075886,
+        "name": "Slovenj Gradec",
+        "region": "",
+        "country": "Slovenia",
+        "countryCode": "si"
+    },
+    {
+        "id": 9075887,
+        "name": "Cerknica",
+        "region": "",
+        "country": "Slovenia",
+        "countryCode": "si"
+    },
+    {
+        "id": 9075888,
+        "name": "Zagorje ob Savi",
+        "region": "",
+        "country": "Slovenia",
+        "countryCode": "si"
+    },
+    {
+        "id": 9075889,
+        "name": "Velenje",
+        "region": "",
+        "country": "Slovenia",
+        "countryCode": "si"
+    },
+    {
+        "id": 9075890,
+        "name": "Nova Gorica",
+        "region": "",
+        "country": "Slovenia",
+        "countryCode": "si"
+    },
+    {
+        "id": 9075891,
+        "name": "Novo Mesto",
+        "region": "",
+        "country": "Slovenia",
+        "countryCode": "si"
+    },
+    {
+        "id": 9075892,
+        "name": "Mozirje",
+        "region": "",
+        "country": "Slovenia",
+        "countryCode": "si"
+    },
+    {
+        "id": 9075893,
+        "name": "Koper",
+        "region": "",
+        "country": "Slovenia",
+        "countryCode": "si"
+    },
+    {
+        "id": 9075894,
+        "name": "Idrija",
+        "region": "",
+        "country": "Slovenia",
+        "countryCode": "si"
+    },
+    {
+        "id": 9075895,
+        "name": "Western Area",
+        "region": "",
+        "country": "Sierra Leone",
+        "countryCode": "sl"
+    },
+    {
+        "id": 9075907,
+        "name": "Shabeellaha Hoose",
+        "region": "",
+        "country": "Somalia",
+        "countryCode": "so"
+    },
+    {
+        "id": 9075908,
+        "name": "Banaadir",
+        "region": "",
+        "country": "Somalia",
+        "countryCode": "so"
+    },
+    {
+        "id": 9075909,
+        "name": "Sanaag",
+        "region": "",
+        "country": "Somalia",
+        "countryCode": "so"
+    },
+    {
+        "id": 9075910,
+        "name": "Woqooyi Galbeed",
+        "region": "",
+        "country": "Somalia",
+        "countryCode": "so"
+    },
+    {
+        "id": 9075911,
+        "name": "Sool",
+        "region": "",
+        "country": "Somalia",
+        "countryCode": "so"
+    },
+    {
+        "id": 9075912,
+        "name": "Mudug",
+        "region": "",
+        "country": "Somalia",
+        "countryCode": "so"
+    },
+    {
+        "id": 9075913,
+        "name": "Lower Juba",
+        "region": "",
+        "country": "Somalia",
+        "countryCode": "so"
+    },
+    {
+        "id": 9075914,
+        "name": "Nugal",
+        "region": "",
+        "country": "Somalia",
+        "countryCode": "so"
+    },
+    {
+        "id": 9075915,
+        "name": "Togdheer",
+        "region": "",
+        "country": "Somalia",
+        "countryCode": "so"
+    },
+    {
+        "id": 9075916,
+        "name": "Awdal",
+        "region": "",
+        "country": "Somalia",
+        "countryCode": "so"
+    },
+    {
+        "id": 9075917,
+        "name": "Gedo",
+        "region": "",
+        "country": "Somalia",
+        "countryCode": "so"
+    },
+    {
+        "id": 9075918,
+        "name": "Bari",
+        "region": "",
+        "country": "Somalia",
+        "countryCode": "so"
+    },
+    {
+        "id": 9075919,
+        "name": "Bay",
+        "region": "",
+        "country": "Somalia",
+        "countryCode": "so"
+    },
+    {
+        "id": 9075925,
+        "name": "Chari-Baguirmi",
+        "region": "",
+        "country": "Chad",
+        "countryCode": "td"
+    },
+    {
+        "id": 9075926,
+        "name": "Hadjer-Lamis Region",
+        "region": "",
+        "country": "Chad",
+        "countryCode": "td"
+    },
+    {
+        "id": 9075927,
+        "name": "Borkou",
+        "region": "",
+        "country": "Chad",
+        "countryCode": "td"
+    },
+    {
+        "id": 9075930,
+        "name": "Ahal",
+        "region": "",
+        "country": "Turkmenistan",
+        "countryCode": "tm"
+    },
+    {
+        "id": 9075931,
+        "name": "Balkan",
+        "region": "",
+        "country": "Turkmenistan",
+        "countryCode": "tm"
+    },
+    {
+        "id": 9075932,
+        "name": "Ashgabat",
+        "region": "",
+        "country": "Turkmenistan",
+        "countryCode": "tm"
+    },
+    {
+        "id": 9075933,
+        "name": "Mary",
+        "region": "",
+        "country": "Turkmenistan",
+        "countryCode": "tm"
+    },
+    {
+        "id": 9075934,
+        "name": "Lebap",
+        "region": "",
+        "country": "Turkmenistan",
+        "countryCode": "tm"
+    },
+    {
+        "id": 9075951,
+        "name": "Penal/Debe Regional Corporation",
+        "region": "",
+        "country": "Trinidad and Tobago",
+        "countryCode": "tt"
+    },
+    {
+        "id": 9075952,
+        "name": "San Juan-Laventille Regional Corporation",
+        "region": "",
+        "country": "Trinidad and Tobago",
+        "countryCode": "tt"
+    },
+    {
+        "id": 9075953,
+        "name": "Mayaro Rio Claro Regional Corporation",
+        "region": "",
+        "country": "Trinidad and Tobago",
+        "countryCode": "tt"
+    },
+    {
+        "id": 9075954,
+        "name": "Couva-Tabaquite-Talparo Regional Corporation",
+        "region": "",
+        "country": "Trinidad and Tobago",
+        "countryCode": "tt"
+    },
+    {
+        "id": 9075955,
+        "name": "Eastern Tobago",
+        "region": "",
+        "country": "Trinidad and Tobago",
+        "countryCode": "tt"
+    },
+    {
+        "id": 9075956,
+        "name": "Diego Martin Regional Corporation",
+        "region": "",
+        "country": "Trinidad and Tobago",
+        "countryCode": "tt"
+    },
+    {
+        "id": 9075957,
+        "name": "Tunapuna/Piarco Regional Corporation",
+        "region": "",
+        "country": "Trinidad and Tobago",
+        "countryCode": "tt"
+    },
+    {
+        "id": 9075958,
+        "name": "Sangre Grande Regional Corporation",
+        "region": "",
+        "country": "Trinidad and Tobago",
+        "countryCode": "tt"
+    },
+    {
+        "id": 9075959,
+        "name": "Western Tobago",
+        "region": "",
+        "country": "Trinidad and Tobago",
+        "countryCode": "tt"
+    },
+    {
+        "id": 9075960,
+        "name": "Princes Town Regional Corporation",
+        "region": "",
+        "country": "Trinidad and Tobago",
+        "countryCode": "tt"
+    },
+    {
+        "id": 9075961,
+        "name": "Siparia Regional Corporation",
+        "region": "",
+        "country": "Trinidad and Tobago",
+        "countryCode": "tt"
+    },
+    {
+        "id": 9075968,
+        "name": "North Pemba Region",
+        "region": "",
+        "country": "Tanzania",
+        "countryCode": "tz"
+    },
+    {
+        "id": 9075970,
+        "name": "Bukhara Region",
+        "region": "",
+        "country": "Uzbekistan",
+        "countryCode": "uz"
+    },
+    {
+        "id": 9075971,
+        "name": "Jizzakh Region",
+        "region": "",
+        "country": "Uzbekistan",
+        "countryCode": "uz"
+    },
+    {
+        "id": 9075972,
+        "name": "Andijan region",
+        "region": "",
+        "country": "Uzbekistan",
+        "countryCode": "uz"
+    },
+    {
+        "id": 9075973,
+        "name": "Qashqadaryo Region",
+        "region": "",
+        "country": "Uzbekistan",
+        "countryCode": "uz"
+    },
+    {
+        "id": 9075974,
+        "name": "Xorazm Region",
+        "region": "",
+        "country": "Uzbekistan",
+        "countryCode": "uz"
+    },
+    {
+        "id": 9075975,
+        "name": "Republic of Karakalpakstan",
+        "region": "",
+        "country": "Uzbekistan",
+        "countryCode": "uz"
+    },
+    {
+        "id": 9075976,
+        "name": "Surxondaryo Region",
+        "region": "",
+        "country": "Uzbekistan",
+        "countryCode": "uz"
+    },
+    {
+        "id": 9075977,
+        "name": "Namangan Region",
+        "region": "",
+        "country": "Uzbekistan",
+        "countryCode": "uz"
+    },
+    {
+        "id": 9075978,
+        "name": "Navoiy Region",
+        "region": "",
+        "country": "Uzbekistan",
+        "countryCode": "uz"
+    },
+    {
+        "id": 9075979,
+        "name": "Sirdaryo Region",
+        "region": "",
+        "country": "Uzbekistan",
+        "countryCode": "uz"
+    },
+    {
+        "id": 9075980,
+        "name": "Samarqand Region",
+        "region": "",
+        "country": "Uzbekistan",
+        "countryCode": "uz"
+    },
+    {
+        "id": 9075981,
+        "name": "Tashkent Region",
+        "region": "",
+        "country": "Uzbekistan",
+        "countryCode": "uz"
+    },
+    {
+        "id": 9075982,
+        "name": "Fergana Region",
+        "region": "",
+        "country": "Uzbekistan",
+        "countryCode": "uz"
+    },
+    {
+        "id": 9075983,
+        "name": "Grenadines",
+        "region": "",
+        "country": "Saint Vincent and the Grenadines",
+        "countryCode": "vc"
+    },
+    {
+        "id": 9075984,
+        "name": "St. Patrick",
+        "region": "",
+        "country": "Saint Vincent and the Grenadines",
+        "countryCode": "vc"
+    },
+    {
+        "id": 9075985,
+        "name": "Charlotte",
+        "region": "",
+        "country": "Saint Vincent and the Grenadines",
+        "countryCode": "vc"
+    },
+    {
+        "id": 9075986,
+        "name": "St. Andrew",
+        "region": "",
+        "country": "Saint Vincent and the Grenadines",
+        "countryCode": "vc"
+    },
+    {
+        "id": 9075987,
+        "name": "St. George",
+        "region": "",
+        "country": "Saint Vincent and the Grenadines",
+        "countryCode": "vc"
+    }
+]
