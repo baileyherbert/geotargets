@@ -19,9 +19,12 @@ export class Google {
 
                 // If successful, the expression will match both the url and the version
                 if (match) {
+                    let uri = match[1];
+                    if (uri.startsWith('/')) uri = 'https://developers.google.com' + uri;
+
                     return resolve({
                         date: match[2],
-                        uri: match[1]
+                        uri
                     });
                 }
 
