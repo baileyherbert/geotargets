@@ -23917,5 +23917,12 @@
         "region": "",
         "country": "Liberia",
         "countryCode": "lr"
+    },
+    {
+        "id": 9299019,
+        "name": "Trondelag",
+        "region": "",
+        "country": "Norway",
+        "countryCode": "no"
     }
 ]

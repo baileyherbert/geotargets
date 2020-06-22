@@ -15,7 +15,7 @@
     },
     {
         "id": 20152,
-        "name": "Antofagasta Region",
+        "name": "Antofagasta",
         "region": "",
         "country": "Chile",
         "countryCode": "cl"
@@ -29,28 +29,28 @@
     },
     {
         "id": 20154,
-        "name": "Bio Bio Region",
+        "name": "Bio Bio",
         "region": "",
         "country": "Chile",
         "countryCode": "cl"
     },
     {
         "id": 20155,
-        "name": "Coquimbo Region",
+        "name": "Coquimbo",
         "region": "",
         "country": "Chile",
         "countryCode": "cl"
     },
     {
         "id": 20156,
-        "name": "O'Higgins Region",
+        "name": "O'Higgins",
         "region": "",
         "country": "Chile",
         "countryCode": "cl"
     },
     {
         "id": 20157,
-        "name": "Los Lagos Region",
+        "name": "Los Lagos",
         "region": "",
         "country": "Chile",
         "countryCode": "cl"
@@ -64,7 +64,7 @@
     },
     {
         "id": 20159,
-        "name": "Maule Region",
+        "name": "Maule",
         "region": "",
         "country": "Chile",
         "countryCode": "cl"
@@ -78,14 +78,14 @@
     },
     {
         "id": 20161,
-        "name": "Tarapaca Region",
+        "name": "Tarapaca",
         "region": "",
         "country": "Chile",
         "countryCode": "cl"
     },
     {
         "id": 20162,
-        "name": "Valparaiso Region",
+        "name": "Valparaiso",
         "region": "",
         "country": "Chile",
         "countryCode": "cl"
@@ -1648,13 +1648,6 @@
         "countryCode": "ru"
     },
     {
-        "id": 20973,
-        "name": "Taymyr Autonomous Okrug",
-        "region": "",
-        "country": "Russia",
-        "countryCode": "ru"
-    },
-    {
         "id": 20974,
         "name": "Tomsk Oblast",
         "region": "",
@@ -2187,13 +2180,6 @@
         "countryCode": "ru"
     },
     {
-        "id": 21350,
-        "name": "Koryakskiy avtonomniy okrug",
-        "region": "",
-        "country": "Russia",
-        "countryCode": "ru"
-    },
-    {
         "id": 21351,
         "name": "Nenets Autonomous Okrug",
         "region": "",
@@ -2635,12 +2621,6 @@
         "countryCode": "ms"
     },
     {
-        "id": 2530,
-        "name": "Netherlands Antilles",
-        "country": "Netherlands Antilles",
-        "countryCode": "bq"
-    },
-    {
         "id": 2533,
         "name": "Aruba",
         "country": "Aruba",
@@ -2696,28 +2676,28 @@
     },
     {
         "id": 9047102,
-        "name": "Aysen Region",
+        "name": "Aysen",
         "region": "",
         "country": "Chile",
         "countryCode": "cl"
     },
     {
         "id": 9047103,
-        "name": "Arica y Parinacota Region",
+        "name": "Arica y Parinacota",
         "region": "",
         "country": "Chile",
         "countryCode": "cl"
     },
     {
         "id": 9047104,
-        "name": "Atacama Region",
+        "name": "Atacama",
         "region": "",
         "country": "Chile",
         "countryCode": "cl"
     },
     {
         "id": 9047105,
-        "name": "Los Rios Region",
+        "name": "Los Rios",
         "region": "",
         "country": "Chile",
         "countryCode": "cl"
@@ -3169,6 +3149,13 @@
         "region": "",
         "country": "Slovakia",
         "countryCode": "sk"
+    },
+    {
+        "id": 9063243,
+        "name": "Hoogezand-Sappemeer",
+        "region": "",
+        "country": "Netherlands",
+        "countryCode": "nl"
     },
     {
         "id": 9065345,
@@ -3809,14 +3796,14 @@
     },
     {
         "id": 9069882,
-        "name": "Zanzibar Urban/West Region",
+        "name": "Mjini Magharibi Region",
         "region": "",
         "country": "Tanzania",
         "countryCode": "tz"
     },
     {
         "id": 9069883,
-        "name": "Zanzibar Central/South Region",
+        "name": "Unguja South Region",
         "region": "",
         "country": "Tanzania",
         "countryCode": "tz"
@@ -4621,7 +4608,7 @@
     },
     {
         "id": 9070382,
-        "name": "Zanzibar North Region",
+        "name": "Unguja North Region",
         "region": "",
         "country": "Tanzania",
         "countryCode": "tz"
@@ -4779,13 +4766,6 @@
         "region": "",
         "country": "Western Sahara",
         "countryCode": "eh"
-    },
-    {
-        "id": 9073177,
-        "name": "Pearl Islands",
-        "region": "",
-        "country": "Panama",
-        "countryCode": "pa"
     },
     {
         "id": 9073451,
@@ -6203,7 +6183,7 @@
     },
     {
         "id": 9075968,
-        "name": "North Pemba Region",
+        "name": "Pemba North Region",
         "region": "",
         "country": "Tanzania",
         "countryCode": "tz"
@@ -6333,5 +6313,32 @@
         "region": "",
         "country": "Saint Vincent and the Grenadines",
         "countryCode": "vc"
+    },
+    {
+        "id": 20973,
+        "name": "Taymyr Autonomous Okrug",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 21350,
+        "name": "Koryakskiy avtonomniy okrug",
+        "region": "",
+        "country": "Russia",
+        "countryCode": "ru"
+    },
+    {
+        "id": 2530,
+        "name": "Netherlands Antilles",
+        "country": "Netherlands Antilles",
+        "countryCode": "bq"
+    },
+    {
+        "id": 9073177,
+        "name": "Pearl Islands",
+        "region": "",
+        "country": "Panama",
+        "countryCode": "pa"
     }
 ]
