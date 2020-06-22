@@ -84,9 +84,13 @@ export class Google {
 
             // Return the entity
             return {
-                id, name, region, type,
+                id,
+                name,
+                canonical: match[3],
+                region,
                 country: country.name,
-                countryCode: country.code
+                countryCode: country.code,
+                type
             };
         });
 
@@ -131,6 +135,7 @@ export type LocationEntity = {
     region?: string;
     country: string;
     countryCode: string;
+    canonical: string;
 };
 
 export type LocationType = 'City' | 'Country' | 'County' | 'Postal Code' | 'Region' | 'State' | 'Territory';

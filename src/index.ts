@@ -111,10 +111,10 @@ class App {
 
         // Write csv format
         if (format == 'csv') {
-            saveData = 'Id,Name,Region,Country,Country Code\n';
+            saveData = 'Id,Name,Canonical,Region,Country,Country Code\n';
 
             entities.forEach(target => {
-                saveData += `"${target.id}","${target.name}","${target.region||''}","${target.country}","${target.countryCode}"\n`;
+                saveData += `"${target.id}","${target.name}","${target.canonical}","${target.region||''}","${target.country}",${target.countryCode}"\n`;
             });
         }
 
