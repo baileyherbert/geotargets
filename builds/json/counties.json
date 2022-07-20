@@ -1506,40 +1506,40 @@
     {
         "id": 21096,
         "name": "Chiayi County",
-        "canonical": "Chiayi County,Taiwan Province,Taiwan",
-        "region": "Taiwan Province",
+        "canonical": "Chiayi County,Taiwan,Taiwan",
+        "region": "Taiwan",
         "country": "Taiwan",
         "countryCode": "tw"
     },
     {
         "id": 21097,
         "name": "Hsinchu County",
-        "canonical": "Hsinchu County,Taiwan Province,Taiwan",
-        "region": "Taiwan Province",
+        "canonical": "Hsinchu County,Taiwan,Taiwan",
+        "region": "Taiwan",
         "country": "Taiwan",
         "countryCode": "tw"
     },
     {
         "id": 21098,
         "name": "Hualien County",
-        "canonical": "Hualien County,Taiwan Province,Taiwan",
-        "region": "Taiwan Province",
+        "canonical": "Hualien County,Taiwan,Taiwan",
+        "region": "Taiwan",
         "country": "Taiwan",
         "countryCode": "tw"
     },
     {
         "id": 21099,
         "name": "Yilan County",
-        "canonical": "Yilan County,Taiwan Province,Taiwan",
-        "region": "Taiwan Province",
+        "canonical": "Yilan County,Taiwan,Taiwan",
+        "region": "Taiwan",
         "country": "Taiwan",
         "countryCode": "tw"
     },
     {
         "id": 21101,
         "name": "Penghu County",
-        "canonical": "Penghu County,Taiwan Province,Taiwan",
-        "region": "Taiwan Province",
+        "canonical": "Penghu County,Taiwan,Taiwan",
+        "region": "Taiwan",
         "country": "Taiwan",
         "countryCode": "tw"
     },
@@ -1554,8 +1554,8 @@
     {
         "id": 21105,
         "name": "Taitung County",
-        "canonical": "Taitung County,Taiwan Province,Taiwan",
-        "region": "Taiwan Province",
+        "canonical": "Taitung County,Taiwan,Taiwan",
+        "region": "Taiwan",
         "country": "Taiwan",
         "countryCode": "tw"
     },
@@ -1674,8 +1674,8 @@
     {
         "id": 21300,
         "name": "Miaoli County",
-        "canonical": "Miaoli County,Taiwan Province,Taiwan",
-        "region": "Taiwan Province",
+        "canonical": "Miaoli County,Taiwan,Taiwan",
+        "region": "Taiwan",
         "country": "Taiwan",
         "countryCode": "tw"
     },
@@ -1810,16 +1810,16 @@
     {
         "id": 9040299,
         "name": "Nantou County",
-        "canonical": "Nantou County,Taiwan Province,Taiwan",
-        "region": "Taiwan Province",
+        "canonical": "Nantou County,Taiwan,Taiwan",
+        "region": "Taiwan",
         "country": "Taiwan",
         "countryCode": "tw"
     },
     {
         "id": 9040307,
         "name": "Changhua County",
-        "canonical": "Changhua County,Taiwan Province,Taiwan",
-        "region": "Taiwan Province",
+        "canonical": "Changhua County,Taiwan,Taiwan",
+        "region": "Taiwan",
         "country": "Taiwan",
         "countryCode": "tw"
     },
@@ -1834,16 +1834,16 @@
     {
         "id": 9040318,
         "name": "Yunlin County",
-        "canonical": "Yunlin County,Taiwan Province,Taiwan",
-        "region": "Taiwan Province",
+        "canonical": "Yunlin County,Taiwan,Taiwan",
+        "region": "Taiwan",
         "country": "Taiwan",
         "countryCode": "tw"
     },
     {
         "id": 9040321,
         "name": "Pingtung County",
-        "canonical": "Pingtung County,Taiwan Province,Taiwan",
-        "region": "Taiwan Province",
+        "canonical": "Pingtung County,Taiwan,Taiwan",
+        "region": "Taiwan",
         "country": "Taiwan",
         "countryCode": "tw"
     },
@@ -2049,8 +2049,8 @@
     },
     {
         "id": 9041109,
-        "name": "City of Bristol",
-        "canonical": "City of Bristol,England,United Kingdom",
+        "name": "Bristol City",
+        "canonical": "Bristol City,England,United Kingdom",
         "region": "England",
         "country": "United Kingdom",
         "countryCode": "gb"
@@ -21217,8 +21217,8 @@
     },
     {
         "id": 9059303,
-        "name": "Shannon County",
-        "canonical": "Shannon County,South Dakota,United States",
+        "name": "Oglala Lakota County",
+        "canonical": "Oglala Lakota County,South Dakota,United States",
         "region": "South Dakota",
         "country": "United States",
         "countryCode": "us"
@@ -27336,9 +27336,65 @@
         "countryCode": "lr"
     },
     {
+        "id": 9105028,
+        "name": "La Nouvelle-Beauce Regional County Municipality",
+        "canonical": "La Nouvelle-Beauce Regional County Municipality,Quebec,Canada",
+        "region": "Quebec",
+        "country": "Canada",
+        "countryCode": "ca"
+    },
+    {
         "id": 9299019,
         "name": "Trondelag",
         "canonical": "Trondelag,Norway",
+        "region": "",
+        "country": "Norway",
+        "countryCode": "no"
+    },
+    {
+        "id": 9302903,
+        "name": "Vestland",
+        "canonical": "Vestland,Norway",
+        "region": "",
+        "country": "Norway",
+        "countryCode": "no"
+    },
+    {
+        "id": 9302906,
+        "name": "Innlandet",
+        "canonical": "Innlandet,Norway",
+        "region": "",
+        "country": "Norway",
+        "countryCode": "no"
+    },
+    {
+        "id": 9302909,
+        "name": "Vestfold og Telemark",
+        "canonical": "Vestfold og Telemark,Norway",
+        "region": "",
+        "country": "Norway",
+        "countryCode": "no"
+    },
+    {
+        "id": 9303829,
+        "name": "Viken",
+        "canonical": "Viken,Norway",
+        "region": "",
+        "country": "Norway",
+        "countryCode": "no"
+    },
+    {
+        "id": 9303832,
+        "name": "Agder",
+        "canonical": "Agder,Norway",
+        "region": "",
+        "country": "Norway",
+        "countryCode": "no"
+    },
+    {
+        "id": 9303835,
+        "name": "Troms og Finnmark fylke",
+        "canonical": "Troms og Finnmark fylke,Norway",
         "region": "",
         "country": "Norway",
         "countryCode": "no"

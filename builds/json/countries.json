@@ -1267,6 +1267,13 @@
         "countryCode": "es"
     },
     {
+        "id": 2736,
+        "name": "Sudan",
+        "canonical": "Sudan",
+        "country": "Sudan",
+        "countryCode": "sd"
+    },
+    {
         "id": 2740,
         "name": "Suriname",
         "canonical": "Suriname",

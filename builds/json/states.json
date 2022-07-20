@@ -345,8 +345,8 @@
     },
     {
         "id": 20231,
-        "name": "Hesse",
-        "canonical": "Hesse,Germany",
+        "name": "Hessen",
+        "canonical": "Hessen,Germany",
         "region": "",
         "country": "Germany",
         "countryCode": "de"

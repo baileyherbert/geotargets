@@ -65,8 +65,8 @@
     },
     {
         "id": 20158,
-        "name": "Magallanes y la Antartica Chilena Region",
-        "canonical": "Magallanes y la Antartica Chilena Region,Chile",
+        "name": "Magallanes and Chilean Antarctica",
+        "canonical": "Magallanes and Chilean Antarctica,Chile",
         "region": "",
         "country": "Chile",
         "countryCode": "cl"
@@ -249,8 +249,8 @@
     },
     {
         "id": 20181,
-        "name": "Guangdong",
-        "canonical": "Guangdong,China",
+        "name": "Guangdong Province",
+        "canonical": "Guangdong Province,China",
         "region": "",
         "country": "China",
         "countryCode": "cn"
@@ -874,8 +874,8 @@
     {
         "id": 20397,
         "name": "Chania",
-        "canonical": "Chania,Crete Region,Greece",
-        "region": "Crete Region",
+        "canonical": "Chania,Decentralized Administration of Crete,Greece",
+        "region": "Decentralized Administration of Crete",
         "country": "Greece",
         "countryCode": "gr"
     },
@@ -951,8 +951,8 @@
     },
     {
         "id": 20792,
-        "name": "Bay Of Plenty",
-        "canonical": "Bay Of Plenty,New Zealand",
+        "name": "Bay of Plenty",
+        "canonical": "Bay of Plenty,New Zealand",
         "region": "",
         "country": "New Zealand",
         "countryCode": "nz"
@@ -1223,8 +1223,8 @@
     },
     {
         "id": 20858,
-        "name": "Swietokrzyskie",
-        "canonical": "Swietokrzyskie,Poland",
+        "name": "Swietokrzyskie Voivodeship",
+        "canonical": "Swietokrzyskie Voivodeship,Poland",
         "region": "",
         "country": "Poland",
         "countryCode": "pl"
@@ -1533,8 +1533,8 @@
     },
     {
         "id": 20929,
-        "name": "Kabardino-Balkaria",
-        "canonical": "Kabardino-Balkaria,Russia",
+        "name": "Kabardino-Balkarian Republic",
+        "canonical": "Kabardino-Balkarian Republic,Russia",
         "region": "",
         "country": "Russia",
         "countryCode": "ru"
@@ -1685,8 +1685,8 @@
     },
     {
         "id": 20948,
-        "name": "Mordovia",
-        "canonical": "Mordovia,Russia",
+        "name": "Mordovia Republic",
+        "canonical": "Mordovia Republic,Russia",
         "region": "",
         "country": "Russia",
         "countryCode": "ru"
@@ -1869,8 +1869,8 @@
     },
     {
         "id": 20971,
-        "name": "Tatarstan",
-        "canonical": "Tatarstan,Russia",
+        "name": "Republic of Tatarstan",
+        "canonical": "Republic of Tatarstan,Russia",
         "region": "",
         "country": "Russia",
         "countryCode": "ru"
@@ -1996,25 +1996,9 @@
         "countryCode": "ua"
     },
     {
-        "id": 21111,
-        "name": "Luhansk Oblast",
-        "canonical": "Luhansk Oblast,Ukraine",
-        "region": "",
-        "country": "Ukraine",
-        "countryCode": "ua"
-    },
-    {
         "id": 21112,
         "name": "Dnipropetrovsk Oblast",
         "canonical": "Dnipropetrovsk Oblast,Ukraine",
-        "region": "",
-        "country": "Ukraine",
-        "countryCode": "ua"
-    },
-    {
-        "id": 21113,
-        "name": "Donetsk Oblast",
-        "canonical": "Donetsk Oblast,Ukraine",
         "region": "",
         "country": "Ukraine",
         "countryCode": "ua"
@@ -2157,16 +2141,16 @@
     },
     {
         "id": 21243,
-        "name": "Kalmykia",
-        "canonical": "Kalmykia,Russia",
+        "name": "Republic of Kalmykia",
+        "canonical": "Republic of Kalmykia,Russia",
         "region": "",
         "country": "Russia",
         "countryCode": "ru"
     },
     {
         "id": 21250,
-        "name": "Adygea",
-        "canonical": "Adygea,Russia",
+        "name": "Adygea Republic",
+        "canonical": "Adygea Republic,Russia",
         "region": "",
         "country": "Russia",
         "countryCode": "ru"
@@ -2181,8 +2165,8 @@
     },
     {
         "id": 21252,
-        "name": "North Ossetia–Alania",
-        "canonical": "North Ossetia–Alania,Russia",
+        "name": "North Ossetia–Alania Republic",
+        "canonical": "North Ossetia–Alania Republic,Russia",
         "region": "",
         "country": "Russia",
         "countryCode": "ru"
@@ -2469,8 +2453,8 @@
     },
     {
         "id": 21346,
-        "name": "Tuva",
-        "canonical": "Tuva,Russia",
+        "name": "Tuva Republic",
+        "canonical": "Tuva Republic,Russia",
         "region": "",
         "country": "Russia",
         "countryCode": "ru"
@@ -2620,8 +2604,8 @@
     },
     {
         "id": 21506,
-        "name": "Amazonas Department",
-        "canonical": "Amazonas Department,Colombia",
+        "name": "Amazonas",
+        "canonical": "Amazonas,Colombia",
         "region": "",
         "country": "Colombia",
         "countryCode": "co"
@@ -3094,8 +3078,8 @@
     },
     {
         "id": 9047106,
-        "name": "Chatham Islands",
-        "canonical": "Chatham Islands,New Zealand",
+        "name": "Chatham Islands Territory",
+        "canonical": "Chatham Islands Territory,New Zealand",
         "region": "",
         "country": "New Zealand",
         "countryCode": "nz"
@@ -3511,8 +3495,8 @@
     {
         "id": 9061581,
         "name": "Crete",
-        "canonical": "Crete,Crete Region,Greece",
-        "region": "Crete Region",
+        "canonical": "Crete,Decentralized Administration of Crete,Greece",
+        "region": "Decentralized Administration of Crete",
         "country": "Greece",
         "countryCode": "gr"
     },
@@ -3735,8 +3719,8 @@
     {
         "id": 9067705,
         "name": "Lasithi",
-        "canonical": "Lasithi,Crete Region,Greece",
-        "region": "Crete Region",
+        "canonical": "Lasithi,Decentralized Administration of Crete,Greece",
+        "region": "Decentralized Administration of Crete",
         "country": "Greece",
         "countryCode": "gr"
     },
@@ -3879,16 +3863,16 @@
     {
         "id": 9067723,
         "name": "Heraklion",
-        "canonical": "Heraklion,Crete Region,Greece",
-        "region": "Crete Region",
+        "canonical": "Heraklion,Decentralized Administration of Crete,Greece",
+        "region": "Decentralized Administration of Crete",
         "country": "Greece",
         "countryCode": "gr"
     },
     {
         "id": 9067724,
         "name": "Rethymno",
-        "canonical": "Rethymno,Crete Region,Greece",
-        "region": "Crete Region",
+        "canonical": "Rethymno,Decentralized Administration of Crete,Greece",
+        "region": "Decentralized Administration of Crete",
         "country": "Greece",
         "countryCode": "gr"
     },
@@ -3998,8 +3982,8 @@
     },
     {
         "id": 9069539,
-        "name": "Crete Region",
-        "canonical": "Crete Region,Greece",
+        "name": "Decentralized Administration of Crete",
+        "canonical": "Decentralized Administration of Crete,Greece",
         "region": "",
         "country": "Greece",
         "countryCode": "gr"
@@ -4454,8 +4438,8 @@
     },
     {
         "id": 9069912,
-        "name": "Transnistria",
-        "canonical": "Transnistria,Moldova",
+        "name": "Administrative-Territorial Units of the Left Bank of the Dniester",
+        "canonical": "Administrative-Territorial Units of the Left Bank of the Dniester,Moldova",
         "region": "",
         "country": "Moldova",
         "countryCode": "md"
@@ -5206,16 +5190,16 @@
     },
     {
         "id": 9070374,
-        "name": "Saint Thomas Parish",
-        "canonical": "Saint Thomas Parish,Jamaica",
+        "name": "St. Thomas Parish",
+        "canonical": "St. Thomas Parish,Jamaica",
         "region": "",
         "country": "Jamaica",
         "countryCode": "jm"
     },
     {
         "id": 9070375,
-        "name": "Saint Catherine Parish",
-        "canonical": "Saint Catherine Parish,Jamaica",
+        "name": "St. Catherine Parish",
+        "canonical": "St. Catherine Parish,Jamaica",
         "region": "",
         "country": "Jamaica",
         "countryCode": "jm"
@@ -5455,8 +5439,8 @@
     {
         "id": 9073451,
         "name": "San Francisco Bay Area",
-        "canonical": "San Francisco Bay Area,United States",
-        "region": "",
+        "canonical": "San Francisco Bay Area,California,United States",
+        "region": "California",
         "country": "United States",
         "countryCode": "us"
     },
@@ -5854,8 +5838,8 @@
     },
     {
         "id": 9075509,
-        "name": "Northern Savonia",
-        "canonical": "Northern Savonia,Finland",
+        "name": "North Savo",
+        "canonical": "North Savo,Finland",
         "region": "",
         "country": "Finland",
         "countryCode": "fi"
@@ -5918,8 +5902,8 @@
     },
     {
         "id": 9075517,
-        "name": "Southern Savonia",
-        "canonical": "Southern Savonia,Finland",
+        "name": "South Savo",
+        "canonical": "South Savo,Finland",
         "region": "",
         "country": "Finland",
         "countryCode": "fi"
@@ -6926,8 +6910,8 @@
     },
     {
         "id": 9075926,
-        "name": "Hadjer-Lamis Region",
-        "canonical": "Hadjer-Lamis Region,Chad",
+        "name": "Hadjer-Lamis",
+        "canonical": "Hadjer-Lamis,Chad",
         "region": "",
         "country": "Chad",
         "countryCode": "td"
@@ -7219,6 +7203,94 @@
         "region": "",
         "country": "Saint Vincent and the Grenadines",
         "countryCode": "vc"
+    },
+    {
+        "id": 9099772,
+        "name": "Nuble",
+        "canonical": "Nuble,Chile",
+        "region": "",
+        "country": "Chile",
+        "countryCode": "cl"
+    },
+    {
+        "id": 9112353,
+        "name": "Qalyub",
+        "canonical": "Qalyub,Al Qalyubia Governorate,Egypt",
+        "region": "Al Qalyubia Governorate",
+        "country": "Egypt",
+        "countryCode": "eg"
+    },
+    {
+        "id": 9112367,
+        "name": "Tura",
+        "canonical": "Tura,Cairo Governorate,Egypt",
+        "region": "Cairo Governorate",
+        "country": "Egypt",
+        "countryCode": "eg"
+    },
+    {
+        "id": 9112526,
+        "name": "Mount Baw Baw Alpine Resort (Unincorporated)",
+        "canonical": "Mount Baw Baw Alpine Resort (Unincorporated),Victoria,Australia",
+        "region": "Victoria",
+        "country": "Australia",
+        "countryCode": "au"
+    },
+    {
+        "id": 9112558,
+        "name": "Nhulunbuy (Unincorporated)",
+        "canonical": "Nhulunbuy (Unincorporated),Northern Territory,Australia",
+        "region": "Northern Territory",
+        "country": "Australia",
+        "countryCode": "au"
+    },
+    {
+        "id": 9112688,
+        "name": "Darwin Rates Act Area",
+        "canonical": "Darwin Rates Act Area,Northern Territory,Australia",
+        "region": "Northern Territory",
+        "country": "Australia",
+        "countryCode": "au"
+    },
+    {
+        "id": 9112727,
+        "name": "Lake Mountain Alpine Resort (Unincorporated)",
+        "canonical": "Lake Mountain Alpine Resort (Unincorporated),Victoria,Australia",
+        "region": "Victoria",
+        "country": "Australia",
+        "countryCode": "au"
+    },
+    {
+        "id": 9112778,
+        "name": "Mount Stirling Alpine Resort (Unincorporated)",
+        "canonical": "Mount Stirling Alpine Resort (Unincorporated),Victoria,Australia",
+        "region": "Victoria",
+        "country": "Australia",
+        "countryCode": "au"
+    },
+    {
+        "id": 9112795,
+        "name": "Yulara (Unincorporated)",
+        "canonical": "Yulara (Unincorporated),Northern Territory,Australia",
+        "region": "Northern Territory",
+        "country": "Australia",
+        "countryCode": "au"
+    },
+    {
+        "id": 9112833,
+        "name": "Falls Creek Alpine Resort (Unincorporated)",
+        "canonical": "Falls Creek Alpine Resort (Unincorporated),Victoria,Australia",
+        "region": "Victoria",
+        "country": "Australia",
+        "countryCode": "au"
+    },
+    {
+        "id": 9112835,
+        "name": "Elrundie (Unincorporated)",
+        "canonical": "Elrundie (Unincorporated),Northern Territory,Australia",
+        "region": "Northern Territory",
+        "country": "Australia",
+        "countryCode": "au"
     },
     {
         "id": 20973,
