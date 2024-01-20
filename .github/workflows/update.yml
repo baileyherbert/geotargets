@@ -8,11 +8,20 @@ jobs:
     name: Fetch new updates
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Install Node.js
+        uses: actions/setup-node@v4
         with:
           registry-url: 'https://registry.npmjs.org'
-      - run: npm ci
-      - id: build
+      - name: Install dependencies
+        run: npm ci
+      - name: Fetch new changes
+        id: build
         run: npm run build
-      - run: git commit -am "Upgrade to latest build (${{ steps.build.outputs.date }})"
+      - name: Commit changes
+        run: |
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git commit -am "Upgrade to latest build (${{ steps.build.outputs.date }})"
+          git push
