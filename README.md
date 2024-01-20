@@ -1,8 +1,10 @@
 # Geotargets
 
-## Introduction
+This repository maintains builds of geographical targets from Google Ads. When new changes are published by Google, they will be automatically merged into the repository within 24 hours, along with a metadata file containing build information.
 
-This repository maintains builds of geographical targets from around the world. The builds are separated into categories and are available in two formats (`json` and `csv`). The following categories are collected:
+## Files
+
+Go to the [builds](https://github.com/baileyherbert/geotargets/tree/master/builds) folder to browse compiled files in CSV or JSON format.
 
 - Cities
 - Countries
@@ -11,19 +13,10 @@ This repository maintains builds of geographical targets from around the world. 
 - Regions
 - States
 
-## Builds
+## Automation
 
-The latest builds are available under the `builds` directory in the repository. You can also find archives containing all files in the [releases](https://github.com/baileyherbert/geotargets/releases) tab.
+The data format in this repository will not change, so it is safe to fetch and use its content directly. The entry point for any automation should be the `metadata.json` file which is hosted at the following public link:
 
-- CSV: https://github.com/baileyherbert/geotargets/tree/master/builds/csv
-- JSON: https://github.com/baileyherbert/geotargets/tree/master/builds/json
+> https://raw.githubusercontent.com/baileyherbert/geotargets/master/builds/metadata.json
 
-## Usage
-
-To build these files locally, you need to have Node.js installed and must clone this repository onto your desktop. Then open a terminal in root directory and run:
-
-```
-npm run build
-```
-
-The script will download the latest data from Google, process it, and then write its output files in the `builds` directory.
+The date in the metadata can be recorded to detect when new updates are available. The metadata also includes organized links to each data file in their respective formats, which can all be downloaded directly.
