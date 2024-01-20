@@ -53,12 +53,14 @@ class App {
             const metadata = JSON.parse(fs.readFileSync(metadataPath, 'utf8'));
 
             if (metadata.date === version.date) {
+                core.setOutput('new_changes', 'false');
                 logger.info('Geotargets: No new data is available, stopping.');
                 return;
             }
         }
 
         // Continue to download the file
+        core.setOutput('new_changes', 'true');
         await this.downloadFile(version);
     }
 
@@ -130,7 +132,9 @@ class App {
         }
 
         // Write new metadata
-        await fs.promises.writeFile(path.resolve(buildsPath, 'metadata.json'), JSON.stringify({
+        const metadataPath = path.resolve(buildsPath, 'metadata.json');
+        logger.info('Writing metadata file: %s', metadataPath);
+        await fs.promises.writeFile(metadataPath, JSON.stringify({
             date: version.date,
             source: version.uri,
             counts: Object.fromEntries(counts),
@@ -174,4 +178,4 @@ class App {
 
 }
 
-App.boot();
+await App.boot();

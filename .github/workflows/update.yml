@@ -22,8 +22,17 @@ jobs:
         id: build
         run: npm run build
       - name: Commit changes
+        if: steps.build.outputs.new_changes == 'true'
         run: |
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions[bot]"
-          git commit -am "Upgrade to latest build (${{ steps.build.outputs.date }})"
+          git add -A
+          git commit -m "Upgrade to latest build (${{ steps.build.outputs.date }})"
+          git status
           git push
+      - uses: ncipollo/release-action@v1
+        if: steps.build.outputs.new_changes == 'true'
+        with:
+          tag: ${{ steps.build.outputs.date }}
+          commit: master
+          skipIfReleaseExists: true
