@@ -1,4 +1,6 @@
-import * as request from 'request';
+import fetch from 'node-fetch';
+import { parse } from 'node-html-parser';
+import AdmZip from 'adm-zip';
 
 const parseLineRegex = /^"(\d+)","([^"]+)","([^"]+)","(\d+)?","([A-Z]+)","([\w\s]+)",.+$/;
 const consideredTypes: LocationType[] = ['City', 'Country', 'County', 'Postal Code', 'Region', 'State'];
@@ -8,60 +10,74 @@ export class Google {
     /**
      * Downloads and returns the latest version of the geotargets file.
      */
-    public static getLatestVersion() : Promise<VersionData> {
-        return new Promise((resolve, reject) => {
-            request('https://developers.google.com/adwords/api/docs/appendix/geotargeting', (err, response, body) => {
-                if (err) return reject(err);
-                if (response.statusCode !== 200) return reject(new Error(`Received status code ${response.statusCode}.`));
+    public static async getLatestVersion(): Promise<VersionData> {
+        const response = await fetch('https://developers.google.com/adwords/api/docs/appendix/geotargeting');
 
-                // Let's use a simple regular expression to find the latest csv link
-                let match = /<a href="([^"]+)">Latest .csv \((\d+-\d+-\d+)\)<\/a>/.exec(body);
+        if (!response.ok) {
+            throw new Error(`Received status code ${response.status}.`);
+        }
 
-                // If successful, the expression will match both the url and the version
-                if (match) {
-                    let uri = match[1];
-                    if (uri.startsWith('/')) uri = 'https://developers.google.com' + uri;
+        const body = await response.text();
+        const document = parse(body);
+        const linkElements = document.querySelectorAll('a[href]');
+        const matchingElement = linkElements.find(link => /latest/i.test(link.text) && /csv/i.test(link.text));
 
-                    return resolve({
-                        date: match[2],
-                        uri
-                    });
-                }
+        if (!matchingElement) {
+            throw new Error('Failed to locate download link');
+        }
 
-                // Otherwise, throw an error
-                throw new Error('Failed to locate download link');
-            });
-        });
+        const date = matchingElement.text.match(/(\d{4}-\d{2}-\d{2})/);
+        const uri = (new URL(matchingElement.getAttribute('href')!, response.url)).toString();
+
+        if (!date) {
+            throw new Error('Failed to locate date in download link');
+        }
+
+        return {
+            date: date[1],
+            uri
+        };
     }
 
     /**
      * Downloads the file at the given URI and returns the content as a string.
      */
-    public static getTargetFile(uri: string) : Promise<string> {
-        return new Promise((resolve, reject) => {
-            request(uri, (err, response, body) => {
-                if (err) return reject(err);
-                if (response.statusCode !== 200) return reject(new Error(`Received status code ${response.statusCode}.`));
-                if (!body.startsWith('Criteria ID')) return reject(new Error('File content is corrupt or malformed.'));
+    public static async getTargetFile(uri: string): Promise<Buffer> {
+        const response = await fetch(uri);
 
-                return resolve(body);
-            });
-        });
+        if (!response.ok) {
+            throw new Error(`Received status code ${response.status}.`);
+        }
+
+        const body = Buffer.from(await response.arrayBuffer());
+
+        return body;
     }
 
     /**
-     * Parses the given string into an array of location entities.
+     * Parses the given buffer into an array of location entities.
      */
-    public static getLocationEntities(content: string) : LocationEntity[] {
+    public static getLocationEntities(binary: Buffer) : LocationEntity[] {
+        const zip = new AdmZip(binary);
+        const zipEntries = zip.getEntries();
+        const targetFileName = zipEntries.map(e => e.entryName).find(name => /\.csv$/i.test(name));
+
+        if (!targetFileName) {
+            throw new Error('Failed to locate target file in zip archive.');
+        }
+
+        const entry = zip.getEntry(targetFileName)!;
+        let content = entry.getData().toString('utf8');
+
         // Remove the header line
-        content = content.substr(content.indexOf('\n') + 1).trim();
+        content = content.substring(content.indexOf('\n') + 1).trim();
 
         // Split the content into an array of lines
-        let lines = content.split(/(?:\r?\n)+/);
+        const lines = content.split(/(?:\r?\n)+/);
 
         // Parse the lines
-        let entities = lines.map<LocationEntity>((line, index) => {
-            let match = parseLineRegex.exec(line);
+        const entities = lines.map<LocationEntity | undefined>((line, index) => {
+            const match = parseLineRegex.exec(line);
 
             // If there is no match, throw an error
             if (!match) {
@@ -72,15 +88,15 @@ export class Google {
             if (consideredTypes.indexOf(match[6] as any) < 0) return;
 
             // Parse the canonical
-            let canonical = this.parseCanonical(match[2], match[3]);
+            const canonical = this.parseCanonical(match[2], match[3]);
             if (!canonical) return;
 
             // Extract and format data
-            let id = parseInt(match[1]);
-            let name = match[2];
-            let type = match[6] as LocationType;
-            let region = canonical.region;
-            let country = { name: canonical.country, code: match[5].toLowerCase() };
+            const id = parseInt(match[1]);
+            const name = match[2];
+            const type = match[6] as LocationType;
+            const region = canonical.region;
+            const country = { name: canonical.country, code: match[5].toLowerCase() };
 
             // Return the entity
             return {
@@ -95,7 +111,7 @@ export class Google {
         });
 
         // Filter out undefined values
-        return entities.filter(entity => typeof entity !== 'undefined');
+        return entities.filter(entity => typeof entity !== 'undefined') as LocationEntity[];
     }
 
     /**
@@ -107,16 +123,16 @@ export class Google {
         }
 
         if (!canonical.startsWith(`${name},`)) {
-            let commaCount = (canonical.match(/,/g) || []).length;
-            if (commaCount === 2) name = canonical.substr(0, canonical.indexOf(','));
+            const commaCount = (canonical.match(/,/g) || []).length;
+            if (commaCount === 2) name = canonical.substring(0, canonical.indexOf(','));
             else return;
         }
 
-        let stateName = canonical.substr(name.length + 1);
-        let comma = stateName.lastIndexOf(',');
+        const stateName = canonical.substring(name.length + 1);
+        const comma = stateName.lastIndexOf(',');
 
-        let region = stateName.substr(0, comma);
-        let country = stateName.substr(comma + 1);
+        const region = stateName.substr(0, comma);
+        const country = stateName.substr(comma + 1);
 
         return { region, country };
     }
