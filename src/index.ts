@@ -114,6 +114,7 @@ class App {
         const counts = new Map<string, number>();
         const csvFiles = new Map<string, string>();
         const jsonFiles = new Map<string, string>();
+        const baseUri = 'https://raw.githubusercontent.com/baileyherbert/geotargets/master/builds';
 
         // Write files
         for (let type in saveFiles) {
@@ -127,8 +128,8 @@ class App {
             await this.writeDataFile(targets, 'csv', fileName);
 
             counts.set(fileName, targets.length);
-            csvFiles.set(fileName, `csv/${fileName}.csv`);
-            jsonFiles.set(fileName, `json/${fileName}.json`);
+            csvFiles.set(fileName, `${baseUri}/csv/${fileName}.csv`);
+            jsonFiles.set(fileName, `${baseUri}/json/${fileName}.json`);
         }
 
         // Write new metadata
