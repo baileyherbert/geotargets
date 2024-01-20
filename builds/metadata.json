@@ -1,0 +1,30 @@
+{
+	"date": "2023-12-13",
+	"source": "https://developers.google.com/static/google-ads/api/data/geo/geotargets-2023-12-13.csv.zip",
+	"counts": {
+		"cities": 40709,
+		"countries": 218,
+		"counties": 3426,
+		"postal_codes": 125150,
+		"regions": 918,
+		"states": 235
+	},
+	"formats": {
+		"csv": {
+			"cities": "https://raw.githubusercontent.com/baileyherbert/geotargets/master/builds/csv/cities.csv",
+			"countries": "https://raw.githubusercontent.com/baileyherbert/geotargets/master/builds/csv/countries.csv",
+			"counties": "https://raw.githubusercontent.com/baileyherbert/geotargets/master/builds/csv/counties.csv",
+			"postal_codes": "https://raw.githubusercontent.com/baileyherbert/geotargets/master/builds/csv/postal_codes.csv",
+			"regions": "https://raw.githubusercontent.com/baileyherbert/geotargets/master/builds/csv/regions.csv",
+			"states": "https://raw.githubusercontent.com/baileyherbert/geotargets/master/builds/csv/states.csv"
+		},
+		"json": {
+			"cities": "https://raw.githubusercontent.com/baileyherbert/geotargets/master/builds/json/cities.json",
+			"countries": "https://raw.githubusercontent.com/baileyherbert/geotargets/master/builds/json/countries.json",
+			"counties": "https://raw.githubusercontent.com/baileyherbert/geotargets/master/builds/json/counties.json",
+			"postal_codes": "https://raw.githubusercontent.com/baileyherbert/geotargets/master/builds/json/postal_codes.json",
+			"regions": "https://raw.githubusercontent.com/baileyherbert/geotargets/master/builds/json/regions.json",
+			"states": "https://raw.githubusercontent.com/baileyherbert/geotargets/master/builds/json/states.json"
+		}
+	}
+}

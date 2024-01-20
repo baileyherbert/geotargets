@@ -522,32 +522,32 @@
     {
         "id": 20311,
         "name": "Alsace",
-        "canonical": "Alsace,France",
-        "region": "",
+        "canonical": "Alsace,Grand Est,France",
+        "region": "Grand Est",
         "country": "France",
         "countryCode": "fr"
     },
     {
         "id": 20313,
         "name": "Aquitaine",
-        "canonical": "Aquitaine,France",
-        "region": "",
+        "canonical": "Aquitaine,Nouvelle-Aquitaine,France",
+        "region": "Nouvelle-Aquitaine",
         "country": "France",
         "countryCode": "fr"
     },
     {
         "id": 20314,
         "name": "Auvergne",
-        "canonical": "Auvergne,France",
-        "region": "",
+        "canonical": "Auvergne,Auvergne-Rhone-Alpes,France",
+        "region": "Auvergne-Rhone-Alpes",
         "country": "France",
         "countryCode": "fr"
     },
     {
         "id": 20315,
         "name": "Burgundy",
-        "canonical": "Burgundy,France",
-        "region": "",
+        "canonical": "Burgundy,Bourgogne-Franche-Comte,France",
+        "region": "Bourgogne-Franche-Comte",
         "country": "France",
         "countryCode": "fr"
     },
@@ -570,8 +570,8 @@
     {
         "id": 20318,
         "name": "Champagne-Ardenne",
-        "canonical": "Champagne-Ardenne,France",
-        "region": "",
+        "canonical": "Champagne-Ardenne,Grand Est,France",
+        "region": "Grand Est",
         "country": "France",
         "countryCode": "fr"
     },
@@ -586,8 +586,8 @@
     {
         "id": 20320,
         "name": "Franche-Comte",
-        "canonical": "Franche-Comte,France",
-        "region": "",
+        "canonical": "Franche-Comte,Bourgogne-Franche-Comte,France",
+        "region": "Bourgogne-Franche-Comte",
         "country": "France",
         "countryCode": "fr"
     },
@@ -602,56 +602,56 @@
     {
         "id": 20322,
         "name": "Languedoc-Roussillon",
-        "canonical": "Languedoc-Roussillon,France",
-        "region": "",
+        "canonical": "Languedoc-Roussillon,Occitanie,France",
+        "region": "Occitanie",
         "country": "France",
         "countryCode": "fr"
     },
     {
         "id": 20323,
         "name": "Limousin",
-        "canonical": "Limousin,France",
-        "region": "",
+        "canonical": "Limousin,Nouvelle-Aquitaine,France",
+        "region": "Nouvelle-Aquitaine",
         "country": "France",
         "countryCode": "fr"
     },
     {
         "id": 20324,
         "name": "Lorraine",
-        "canonical": "Lorraine,France",
-        "region": "",
+        "canonical": "Lorraine,Grand Est,France",
+        "region": "Grand Est",
         "country": "France",
         "countryCode": "fr"
     },
     {
         "id": 20325,
         "name": "Midi-Pyrenees",
-        "canonical": "Midi-Pyrenees,France",
-        "region": "",
+        "canonical": "Midi-Pyrenees,Occitanie,France",
+        "region": "Occitanie",
         "country": "France",
         "countryCode": "fr"
     },
     {
         "id": 20326,
         "name": "Nord-Pas-de-Calais",
-        "canonical": "Nord-Pas-de-Calais,France",
-        "region": "",
+        "canonical": "Nord-Pas-de-Calais,Hauts-de-France,France",
+        "region": "Hauts-de-France",
         "country": "France",
         "countryCode": "fr"
     },
     {
         "id": 20327,
         "name": "Lower Normandy",
-        "canonical": "Lower Normandy,France",
-        "region": "",
+        "canonical": "Lower Normandy,Normandy,France",
+        "region": "Normandy",
         "country": "France",
         "countryCode": "fr"
     },
     {
         "id": 20328,
         "name": "Upper Normandy",
-        "canonical": "Upper Normandy,France",
-        "region": "",
+        "canonical": "Upper Normandy,Normandy,France",
+        "region": "Normandy",
         "country": "France",
         "countryCode": "fr"
     },
@@ -666,16 +666,16 @@
     {
         "id": 20330,
         "name": "Picardy",
-        "canonical": "Picardy,France",
-        "region": "",
+        "canonical": "Picardy,Hauts-de-France,France",
+        "region": "Hauts-de-France",
         "country": "France",
         "countryCode": "fr"
     },
     {
         "id": 20331,
         "name": "Poitou-Charentes",
-        "canonical": "Poitou-Charentes,France",
-        "region": "",
+        "canonical": "Poitou-Charentes,Nouvelle-Aquitaine,France",
+        "region": "Nouvelle-Aquitaine",
         "country": "France",
         "countryCode": "fr"
     },
@@ -690,8 +690,8 @@
     {
         "id": 20333,
         "name": "Rhone-Alpes",
-        "canonical": "Rhone-Alpes,France",
-        "region": "",
+        "canonical": "Rhone-Alpes,Auvergne-Rhone-Alpes,France",
+        "region": "Auvergne-Rhone-Alpes",
         "country": "France",
         "countryCode": "fr"
     },
@@ -2061,8 +2061,8 @@
     },
     {
         "id": 21122,
-        "name": "Odessa Oblast",
-        "canonical": "Odessa Oblast,Ukraine",
+        "name": "Odesa Oblast",
+        "canonical": "Odesa Oblast,Ukraine",
         "region": "",
         "country": "Ukraine",
         "countryCode": "ua"
@@ -2765,8 +2765,8 @@
     {
         "id": 21526,
         "name": "Fes-Boulemane",
-        "canonical": "Fes-Boulemane,Morocco",
-        "region": "",
+        "canonical": "Fes-Boulemane,Fez-Meknes,Morocco",
+        "region": "Fez-Meknes",
         "country": "Morocco",
         "countryCode": "ma"
     },
@@ -2781,8 +2781,8 @@
     {
         "id": 21528,
         "name": "Grand Casablanca",
-        "canonical": "Grand Casablanca,Morocco",
-        "region": "",
+        "canonical": "Grand Casablanca,Casablanca-Settat,Morocco",
+        "region": "Casablanca-Settat",
         "country": "Morocco",
         "countryCode": "ma"
     },
@@ -2805,8 +2805,8 @@
     {
         "id": 21531,
         "name": "Marrakesh-Tensift-El Haouz",
-        "canonical": "Marrakesh-Tensift-El Haouz,Morocco",
-        "region": "",
+        "canonical": "Marrakesh-Tensift-El Haouz,Marrakesh-Safi,Morocco",
+        "region": "Marrakesh-Safi",
         "country": "Morocco",
         "countryCode": "ma"
     },
@@ -2821,8 +2821,8 @@
     {
         "id": 21533,
         "name": "Oriental",
-        "canonical": "Oriental,Morocco",
-        "region": "",
+        "canonical": "Oriental,Oriental,Morocco",
+        "region": "Oriental",
         "country": "Morocco",
         "countryCode": "ma"
     },
@@ -2853,8 +2853,8 @@
     {
         "id": 21537,
         "name": "Tangier-Tetouan",
-        "canonical": "Tangier-Tetouan,Morocco",
-        "region": "",
+        "canonical": "Tangier-Tetouan,Tangier-Tetouan-Al Hoceima,Morocco",
+        "region": "Tangier-Tetouan-Al Hoceima",
         "country": "Morocco",
         "countryCode": "ma"
     },
@@ -3110,8 +3110,8 @@
     },
     {
         "id": 9053424,
-        "name": "Aosta",
-        "canonical": "Aosta,Italy",
+        "name": "Aosta Valley",
+        "canonical": "Aosta Valley,Italy",
         "region": "",
         "country": "Italy",
         "countryCode": "it"
@@ -3414,8 +3414,8 @@
     },
     {
         "id": 9061355,
-        "name": "Autonomous Region in Muslim Mindanao",
-        "canonical": "Autonomous Region in Muslim Mindanao,Philippines",
+        "name": "Bangsamoro Autonomous Region in Muslim Mindanao",
+        "canonical": "Bangsamoro Autonomous Region in Muslim Mindanao,Philippines",
         "region": "",
         "country": "Philippines",
         "countryCode": "ph"
@@ -3471,8 +3471,8 @@
     {
         "id": 9061362,
         "name": "Federally Administered Tribal Area",
-        "canonical": "Federally Administered Tribal Area,Pakistan",
-        "region": "",
+        "canonical": "Federally Administered Tribal Area,Khyber Pakhtunkhwa,Pakistan",
+        "region": "Khyber Pakhtunkhwa",
         "country": "Pakistan",
         "countryCode": "pk"
     },
@@ -3591,8 +3591,8 @@
     {
         "id": 9063243,
         "name": "Hoogezand-Sappemeer",
-        "canonical": "Hoogezand-Sappemeer,Netherlands",
-        "region": "",
+        "canonical": "Hoogezand-Sappemeer,Groningen,Netherlands",
+        "region": "Groningen",
         "country": "Netherlands",
         "countryCode": "nl"
     },
@@ -3990,24 +3990,24 @@
     },
     {
         "id": 9069571,
-        "name": "Pavlodar Province",
-        "canonical": "Pavlodar Province,Kazakhstan",
+        "name": "Pavlodar Region",
+        "canonical": "Pavlodar Region,Kazakhstan",
         "region": "",
         "country": "Kazakhstan",
         "countryCode": "kz"
     },
     {
         "id": 9069572,
-        "name": "West Kazakhstan Province",
-        "canonical": "West Kazakhstan Province,Kazakhstan",
+        "name": "West Kazakhstan Region",
+        "canonical": "West Kazakhstan Region,Kazakhstan",
         "region": "",
         "country": "Kazakhstan",
         "countryCode": "kz"
     },
     {
         "id": 9069573,
-        "name": "Kyzylorda Province",
-        "canonical": "Kyzylorda Province,Kazakhstan",
+        "name": "Kyzylorda Region",
+        "canonical": "Kyzylorda Region,Kazakhstan",
         "region": "",
         "country": "Kazakhstan",
         "countryCode": "kz"
@@ -4542,8 +4542,8 @@
     },
     {
         "id": 9070060,
-        "name": "Ziguinchor",
-        "canonical": "Ziguinchor,Senegal",
+        "name": "Ziguinchor Region",
+        "canonical": "Ziguinchor Region,Senegal",
         "region": "",
         "country": "Senegal",
         "countryCode": "sn"
@@ -4638,64 +4638,64 @@
     },
     {
         "id": 9070072,
-        "name": "West",
-        "canonical": "West,Cameroon",
+        "name": "West Region",
+        "canonical": "West Region,Cameroon",
         "region": "",
         "country": "Cameroon",
         "countryCode": "cm"
     },
     {
         "id": 9070073,
-        "name": "Littoral",
-        "canonical": "Littoral,Cameroon",
+        "name": "Littoral Region",
+        "canonical": "Littoral Region,Cameroon",
         "region": "",
         "country": "Cameroon",
         "countryCode": "cm"
     },
     {
         "id": 9070074,
-        "name": "East",
-        "canonical": "East,Cameroon",
+        "name": "East Region",
+        "canonical": "East Region,Cameroon",
         "region": "",
         "country": "Cameroon",
         "countryCode": "cm"
     },
     {
         "id": 9070075,
-        "name": "Centre",
-        "canonical": "Centre,Cameroon",
+        "name": "Centre Region",
+        "canonical": "Centre Region,Cameroon",
         "region": "",
         "country": "Cameroon",
         "countryCode": "cm"
     },
     {
         "id": 9070076,
-        "name": "Southwest",
-        "canonical": "Southwest,Cameroon",
+        "name": "Southwest Region",
+        "canonical": "Southwest Region,Cameroon",
         "region": "",
         "country": "Cameroon",
         "countryCode": "cm"
     },
     {
         "id": 9070077,
-        "name": "Northwest",
-        "canonical": "Northwest,Cameroon",
+        "name": "Northwest Region",
+        "canonical": "Northwest Region,Cameroon",
         "region": "",
         "country": "Cameroon",
         "countryCode": "cm"
     },
     {
         "id": 9070078,
-        "name": "North",
-        "canonical": "North,Cameroon",
+        "name": "North Region",
+        "canonical": "North Region,Cameroon",
         "region": "",
         "country": "Cameroon",
         "countryCode": "cm"
     },
     {
         "id": 9070079,
-        "name": "South",
-        "canonical": "South,Cameroon",
+        "name": "South Region",
+        "canonical": "South Region,Cameroon",
         "region": "",
         "country": "Cameroon",
         "countryCode": "cm"
@@ -5134,8 +5134,8 @@
     },
     {
         "id": 9070367,
-        "name": "Central",
-        "canonical": "Central,Ghana",
+        "name": "Central Region",
+        "canonical": "Central Region,Ghana",
         "region": "",
         "country": "Ghana",
         "countryCode": "gh"
@@ -5318,8 +5318,8 @@
     },
     {
         "id": 9070426,
-        "name": "Far North",
-        "canonical": "Far North,Cameroon",
+        "name": "Far North Region",
+        "canonical": "Far North Region,Cameroon",
         "region": "",
         "country": "Cameroon",
         "countryCode": "cm"
@@ -5358,16 +5358,16 @@
     },
     {
         "id": 9070439,
-        "name": "Batken Province",
-        "canonical": "Batken Province,Kyrgyzstan",
+        "name": "Batken Region",
+        "canonical": "Batken Region,Kyrgyzstan",
         "region": "",
         "country": "Kyrgyzstan",
         "countryCode": "kg"
     },
     {
         "id": 9070440,
-        "name": "Chuy Province",
-        "canonical": "Chuy Province,Kyrgyzstan",
+        "name": "Chuy Region",
+        "canonical": "Chuy Region,Kyrgyzstan",
         "region": "",
         "country": "Kyrgyzstan",
         "countryCode": "kg"
@@ -5451,14 +5451,6 @@
         "region": "California",
         "country": "United States",
         "countryCode": "us"
-    },
-    {
-        "id": 9073536,
-        "name": "Mymensingh Division",
-        "canonical": "Mymensingh Division,Bangladesh",
-        "region": "",
-        "country": "Bangladesh",
-        "countryCode": "bd"
     },
     {
         "id": 9073768,
@@ -5670,8 +5662,8 @@
     },
     {
         "id": 9075465,
-        "name": "Adamawa",
-        "canonical": "Adamawa,Cameroon",
+        "name": "Adamawa Region",
+        "canonical": "Adamawa Region,Cameroon",
         "region": "",
         "country": "Cameroon",
         "countryCode": "cm"
@@ -5694,8 +5686,8 @@
     },
     {
         "id": 9075489,
-        "name": "Central",
-        "canonical": "Central,Eritrea",
+        "name": "Maekel",
+        "canonical": "Maekel,Eritrea",
         "region": "",
         "country": "Eritrea",
         "countryCode": "er"
@@ -5734,8 +5726,8 @@
     },
     {
         "id": 9075494,
-        "name": "Southern Nations, Nationalities, and People's Region",
-        "canonical": "Southern Nations, Nationalities, and People's Region,Ethiopia",
+        "name": "Southern Nations, Nationalities and Peoples",
+        "canonical": "Southern Nations, Nationalities and Peoples,Ethiopia",
         "region": "",
         "country": "Ethiopia",
         "countryCode": "et"
@@ -5790,8 +5782,8 @@
     },
     {
         "id": 9075503,
-        "name": "Tavastia Proper",
-        "canonical": "Tavastia Proper,Finland",
+        "name": "Kanta-Hame",
+        "canonical": "Kanta-Hame,Finland",
         "region": "",
         "country": "Finland",
         "countryCode": "fi"
@@ -5862,8 +5854,8 @@
     },
     {
         "id": 9075512,
-        "name": "Southern Ostrobothnia",
-        "canonical": "Southern Ostrobothnia,Finland",
+        "name": "South Ostrobothnia",
+        "canonical": "South Ostrobothnia,Finland",
         "region": "",
         "country": "Finland",
         "countryCode": "fi"
@@ -5878,8 +5870,8 @@
     },
     {
         "id": 9075514,
-        "name": "Northern Ostrobothnia",
-        "canonical": "Northern Ostrobothnia,Finland",
+        "name": "North Ostrobothnia",
+        "canonical": "North Ostrobothnia,Finland",
         "region": "",
         "country": "Finland",
         "countryCode": "fi"
@@ -5894,8 +5886,8 @@
     },
     {
         "id": 9075516,
-        "name": "Paijanne Tavastia",
-        "canonical": "Paijanne Tavastia,Finland",
+        "name": "Paijat-Hame",
+        "canonical": "Paijat-Hame,Finland",
         "region": "",
         "country": "Finland",
         "countryCode": "fi"
@@ -6294,8 +6286,8 @@
     },
     {
         "id": 9075804,
-        "name": "Hodh Ech Chargui",
-        "canonical": "Hodh Ech Chargui,Mauritania",
+        "name": "Hodh El Chargi",
+        "canonical": "Hodh El Chargi,Mauritania",
         "region": "",
         "country": "Mauritania",
         "countryCode": "mr"
@@ -6326,8 +6318,8 @@
     },
     {
         "id": 9075808,
-        "name": "Guidimaka",
-        "canonical": "Guidimaka,Mauritania",
+        "name": "Guidimakha",
+        "canonical": "Guidimakha,Mauritania",
         "region": "",
         "country": "Mauritania",
         "countryCode": "mr"
@@ -6798,8 +6790,8 @@
     },
     {
         "id": 9075907,
-        "name": "Shabeellaha Hoose",
-        "canonical": "Shabeellaha Hoose,Somalia",
+        "name": "Lower Shabelle",
+        "canonical": "Lower Shabelle,Somalia",
         "region": "",
         "country": "Somalia",
         "countryCode": "so"
@@ -7215,8 +7207,8 @@
     {
         "id": 9112353,
         "name": "Qalyub",
-        "canonical": "Qalyub,Al Qalyubia Governorate,Egypt",
-        "region": "Al Qalyubia Governorate",
+        "canonical": "Qalyub,Al-Qalyubia Governorate,Egypt",
+        "region": "Al-Qalyubia Governorate",
         "country": "Egypt",
         "countryCode": "eg"
     },
@@ -7238,16 +7230,16 @@
     },
     {
         "id": 9112558,
-        "name": "Nhulunbuy (Unincorporated)",
-        "canonical": "Nhulunbuy (Unincorporated),Northern Territory,Australia",
+        "name": "Nhulunbuy",
+        "canonical": "Nhulunbuy,Northern Territory,Australia",
         "region": "Northern Territory",
         "country": "Australia",
         "countryCode": "au"
     },
     {
         "id": 9112688,
-        "name": "Darwin Rates Act Area",
-        "canonical": "Darwin Rates Act Area,Northern Territory,Australia",
+        "name": "Northern Territory Rates Act Area",
+        "canonical": "Northern Territory Rates Act Area,Northern Territory,Australia",
         "region": "Northern Territory",
         "country": "Australia",
         "countryCode": "au"
@@ -7270,8 +7262,8 @@
     },
     {
         "id": 9112795,
-        "name": "Yulara (Unincorporated)",
-        "canonical": "Yulara (Unincorporated),Northern Territory,Australia",
+        "name": "Yulara",
+        "canonical": "Yulara,Northern Territory,Australia",
         "region": "Northern Territory",
         "country": "Australia",
         "countryCode": "au"
@@ -7286,11 +7278,19 @@
     },
     {
         "id": 9112835,
-        "name": "Elrundie (Unincorporated)",
-        "canonical": "Elrundie (Unincorporated),Northern Territory,Australia",
+        "name": "Un-Incorporated (Elrundie) Area",
+        "canonical": "Un-Incorporated (Elrundie) Area,Northern Territory,Australia",
         "region": "Northern Territory",
         "country": "Australia",
         "countryCode": "au"
+    },
+    {
+        "id": 9189140,
+        "name": "Lima Province",
+        "canonical": "Lima Province,Peru",
+        "region": "",
+        "country": "Peru",
+        "countryCode": "pe"
     },
     {
         "id": 20973,
@@ -7307,13 +7307,6 @@
         "region": "",
         "country": "Russia",
         "countryCode": "ru"
-    },
-    {
-        "id": 2530,
-        "name": "Netherlands Antilles",
-        "canonical": "Netherlands Antilles",
-        "country": "Netherlands Antilles",
-        "countryCode": "bq"
     },
     {
         "id": 9073177,

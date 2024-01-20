@@ -232,9 +232,9 @@
     },
     {
         "id": 2132,
-        "name": "Cape Verde",
-        "canonical": "Cape Verde",
-        "country": "Cape Verde",
+        "name": "Cabo Verde",
+        "canonical": "Cabo Verde",
+        "country": "Cabo Verde",
         "countryCode": "cv"
     },
     {
@@ -1002,9 +1002,9 @@
     },
     {
         "id": 2583,
-        "name": "Federated States of Micronesia",
-        "canonical": "Federated States of Micronesia",
-        "country": "Federated States of Micronesia",
+        "name": "Micronesia",
+        "canonical": "Micronesia",
+        "country": "Micronesia",
         "countryCode": "fm"
     },
     {
@@ -1127,6 +1127,13 @@
         "countryCode": "rw"
     },
     {
+        "id": 2652,
+        "name": "Saint Barthelemy",
+        "canonical": "Saint Barthelemy",
+        "country": "Saint Barthelemy",
+        "countryCode": "bl"
+    },
+    {
         "id": 2654,
         "name": "Saint Helena, Ascension and Tristan da Cunha",
         "canonical": "Saint Helena, Ascension and Tristan da Cunha",
@@ -1146,6 +1153,13 @@
         "canonical": "Saint Lucia",
         "country": "Saint Lucia",
         "countryCode": "lc"
+    },
+    {
+        "id": 2663,
+        "name": "Saint Martin",
+        "canonical": "Saint Martin",
+        "country": "Saint Martin",
+        "countryCode": "mf"
     },
     {
         "id": 2666,
@@ -1267,6 +1281,13 @@
         "countryCode": "es"
     },
     {
+        "id": 2728,
+        "name": "South Sudan",
+        "canonical": "South Sudan",
+        "country": "South Sudan",
+        "countryCode": "ss"
+    },
+    {
         "id": 2736,
         "name": "Sudan",
         "canonical": "Sudan",
@@ -1359,9 +1380,9 @@
     },
     {
         "id": 2792,
-        "name": "Turkey",
-        "canonical": "Turkey",
-        "country": "Turkey",
+        "name": "Turkiye",
+        "canonical": "Turkiye",
+        "country": "Turkiye",
         "countryCode": "tr"
     },
     {
@@ -1426,6 +1447,13 @@
         "canonical": "Jersey",
         "country": "Jersey",
         "countryCode": "je"
+    },
+    {
+        "id": 2833,
+        "name": "Isle of Man",
+        "canonical": "Isle of Man",
+        "country": "Isle of Man",
+        "countryCode": "im"
     },
     {
         "id": 2834,

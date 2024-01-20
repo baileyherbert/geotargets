@@ -554,8 +554,8 @@
     {
         "id": 1028894,
         "name": "Desouk",
-        "canonical": "Desouk,Kafr El Sheikh Governorate,Egypt",
-        "region": "Kafr El Sheikh Governorate",
+        "canonical": "Desouk,Kafr El-Sheikh Governorate,Egypt",
+        "region": "Kafr El-Sheikh Governorate",
         "country": "Egypt",
         "countryCode": "eg"
     },
@@ -929,8 +929,8 @@
     },
     {
         "id": 20493,
-        "name": "South Tipperary",
-        "canonical": "South Tipperary,County Tipperary,Ireland",
+        "name": "Tipperary",
+        "canonical": "Tipperary,County Tipperary,Ireland",
         "region": "County Tipperary",
         "country": "Ireland",
         "countryCode": "ie"
@@ -970,16 +970,16 @@
     {
         "id": 20771,
         "name": "Ostfold",
-        "canonical": "Ostfold,Norway",
-        "region": "",
+        "canonical": "Ostfold,Viken,Norway",
+        "region": "Viken",
         "country": "Norway",
         "countryCode": "no"
     },
     {
         "id": 20772,
         "name": "Akershus",
-        "canonical": "Akershus,Norway",
-        "region": "",
+        "canonical": "Akershus,Viken,Norway",
+        "region": "Viken",
         "country": "Norway",
         "countryCode": "no"
     },
@@ -994,8 +994,8 @@
     {
         "id": 20774,
         "name": "Hedmark",
-        "canonical": "Hedmark,Norway",
-        "region": "",
+        "canonical": "Hedmark,Innlandet,Norway",
+        "region": "Innlandet",
         "country": "Norway",
         "countryCode": "no"
     },
@@ -1010,8 +1010,8 @@
     {
         "id": 20776,
         "name": "Buskerud",
-        "canonical": "Buskerud,Norway",
-        "region": "",
+        "canonical": "Buskerud,Viken,Norway",
+        "region": "Viken",
         "country": "Norway",
         "countryCode": "no"
     },
@@ -1026,8 +1026,8 @@
     {
         "id": 20778,
         "name": "Telemark",
-        "canonical": "Telemark,Norway",
-        "region": "",
+        "canonical": "Telemark,Vestfold og Telemark,Norway",
+        "region": "Vestfold og Telemark",
         "country": "Norway",
         "countryCode": "no"
     },
@@ -1058,16 +1058,16 @@
     {
         "id": 20782,
         "name": "Hordaland",
-        "canonical": "Hordaland,Norway",
-        "region": "",
+        "canonical": "Hordaland,Vestland,Norway",
+        "region": "Vestland",
         "country": "Norway",
         "countryCode": "no"
     },
     {
         "id": 20783,
         "name": "Sogn og Fjordane",
-        "canonical": "Sogn og Fjordane,Norway",
-        "region": "",
+        "canonical": "Sogn og Fjordane,Vestland,Norway",
+        "region": "Vestland",
         "country": "Norway",
         "countryCode": "no"
     },
@@ -1082,16 +1082,16 @@
     {
         "id": 20785,
         "name": "Sor-Trondelag",
-        "canonical": "Sor-Trondelag,Norway",
-        "region": "",
+        "canonical": "Sor-Trondelag,Trondelag,Norway",
+        "region": "Trondelag",
         "country": "Norway",
         "countryCode": "no"
     },
     {
         "id": 20786,
         "name": "Nord-Trondelag",
-        "canonical": "Nord-Trondelag,Norway",
-        "region": "",
+        "canonical": "Nord-Trondelag,Trondelag,Norway",
+        "region": "Trondelag",
         "country": "Norway",
         "countryCode": "no"
     },
@@ -1106,31 +1106,31 @@
     {
         "id": 20788,
         "name": "Troms",
-        "canonical": "Troms,Norway",
-        "region": "",
+        "canonical": "Troms,Troms og Finnmark fylke,Norway",
+        "region": "Troms og Finnmark fylke",
         "country": "Norway",
         "countryCode": "no"
     },
     {
         "id": 20789,
         "name": "Finnmark",
-        "canonical": "Finnmark,Norway",
-        "region": "",
+        "canonical": "Finnmark,Troms og Finnmark fylke,Norway",
+        "region": "Troms og Finnmark fylke",
         "country": "Norway",
         "countryCode": "no"
     },
     {
         "id": 20887,
-        "name": "Arges County",
-        "canonical": "Arges County,Romania",
+        "name": "Arges",
+        "canonical": "Arges,Romania",
         "region": "",
         "country": "Romania",
         "countryCode": "ro"
     },
     {
         "id": 20888,
-        "name": "Arad County",
-        "canonical": "Arad County,Romania",
+        "name": "Arad",
+        "canonical": "Arad,Romania",
         "region": "",
         "country": "Romania",
         "countryCode": "ro"
@@ -1169,8 +1169,8 @@
     },
     {
         "id": 20893,
-        "name": "Braila County",
-        "canonical": "Braila County,Romania",
+        "name": "Braila",
+        "canonical": "Braila,Romania",
         "region": "",
         "country": "Romania",
         "countryCode": "ro"
@@ -1185,8 +1185,8 @@
     },
     {
         "id": 20895,
-        "name": "Brasov County",
-        "canonical": "Brasov County,Romania",
+        "name": "Brasov",
+        "canonical": "Brasov,Romania",
         "region": "",
         "country": "Romania",
         "countryCode": "ro"
@@ -1217,8 +1217,8 @@
     },
     {
         "id": 20899,
-        "name": "Constanta County",
-        "canonical": "Constanta County,Romania",
+        "name": "Constanta",
+        "canonical": "Constanta,Romania",
         "region": "",
         "country": "Romania",
         "countryCode": "ro"
@@ -1257,16 +1257,16 @@
     },
     {
         "id": 20904,
-        "name": "Maramures County",
-        "canonical": "Maramures County,Romania",
+        "name": "Maramures",
+        "canonical": "Maramures,Romania",
         "region": "",
         "country": "Romania",
         "countryCode": "ro"
     },
     {
         "id": 20905,
-        "name": "Mures County",
-        "canonical": "Mures County,Romania",
+        "name": "Mures",
+        "canonical": "Mures,Romania",
         "region": "",
         "country": "Romania",
         "countryCode": "ro"
@@ -1297,8 +1297,8 @@
     },
     {
         "id": 20909,
-        "name": "Satu Mare County",
-        "canonical": "Satu Mare County,Romania",
+        "name": "Satu Mare",
+        "canonical": "Satu Mare,Romania",
         "region": "",
         "country": "Romania",
         "countryCode": "ro"
@@ -1313,24 +1313,24 @@
     },
     {
         "id": 20911,
-        "name": "Tulcea County",
-        "canonical": "Tulcea County,Romania",
+        "name": "Tulcea",
+        "canonical": "Tulcea,Romania",
         "region": "",
         "country": "Romania",
         "countryCode": "ro"
     },
     {
         "id": 20912,
-        "name": "Timis County",
-        "canonical": "Timis County,Romania",
+        "name": "Timis",
+        "canonical": "Timis,Romania",
         "region": "",
         "country": "Romania",
         "countryCode": "ro"
     },
     {
         "id": 20913,
-        "name": "Vrancea County",
-        "canonical": "Vrancea County,Romania",
+        "name": "Vrancea",
+        "canonical": "Vrancea,Romania",
         "region": "",
         "country": "Romania",
         "countryCode": "ro"
@@ -1506,40 +1506,40 @@
     {
         "id": 21096,
         "name": "Chiayi County",
-        "canonical": "Chiayi County,Taiwan,Taiwan",
-        "region": "Taiwan",
+        "canonical": "Chiayi County,Taiwan",
+        "region": "",
         "country": "Taiwan",
         "countryCode": "tw"
     },
     {
         "id": 21097,
         "name": "Hsinchu County",
-        "canonical": "Hsinchu County,Taiwan,Taiwan",
-        "region": "Taiwan",
+        "canonical": "Hsinchu County,Taiwan",
+        "region": "",
         "country": "Taiwan",
         "countryCode": "tw"
     },
     {
         "id": 21098,
         "name": "Hualien County",
-        "canonical": "Hualien County,Taiwan,Taiwan",
-        "region": "Taiwan",
+        "canonical": "Hualien County,Taiwan",
+        "region": "",
         "country": "Taiwan",
         "countryCode": "tw"
     },
     {
         "id": 21099,
         "name": "Yilan County",
-        "canonical": "Yilan County,Taiwan,Taiwan",
-        "region": "Taiwan",
+        "canonical": "Yilan County,Taiwan",
+        "region": "",
         "country": "Taiwan",
         "countryCode": "tw"
     },
     {
         "id": 21101,
         "name": "Penghu County",
-        "canonical": "Penghu County,Taiwan,Taiwan",
-        "region": "Taiwan",
+        "canonical": "Penghu County,Taiwan",
+        "region": "",
         "country": "Taiwan",
         "countryCode": "tw"
     },
@@ -1554,8 +1554,8 @@
     {
         "id": 21105,
         "name": "Taitung County",
-        "canonical": "Taitung County,Taiwan,Taiwan",
-        "region": "Taiwan",
+        "canonical": "Taitung County,Taiwan",
+        "region": "",
         "country": "Taiwan",
         "countryCode": "tw"
     },
@@ -1577,8 +1577,8 @@
     },
     {
         "id": 21246,
-        "name": "Dambovita County",
-        "canonical": "Dambovita County,Romania",
+        "name": "Dambovita",
+        "canonical": "Dambovita,Romania",
         "region": "",
         "country": "Romania",
         "countryCode": "ro"
@@ -1593,8 +1593,8 @@
     },
     {
         "id": 21258,
-        "name": "Hunedoara County",
-        "canonical": "Hunedoara County,Romania",
+        "name": "Hunedoara",
+        "canonical": "Hunedoara,Romania",
         "region": "",
         "country": "Romania",
         "countryCode": "ro"
@@ -1665,8 +1665,8 @@
     },
     {
         "id": 21276,
-        "name": "Teleorman County",
-        "canonical": "Teleorman County,Romania",
+        "name": "Teleorman",
+        "canonical": "Teleorman,Romania",
         "region": "",
         "country": "Romania",
         "countryCode": "ro"
@@ -1674,8 +1674,8 @@
     {
         "id": 21300,
         "name": "Miaoli County",
-        "canonical": "Miaoli County,Taiwan,Taiwan",
-        "region": "Taiwan",
+        "canonical": "Miaoli County,Taiwan",
+        "region": "",
         "country": "Taiwan",
         "countryCode": "tw"
     },
@@ -1810,40 +1810,40 @@
     {
         "id": 9040299,
         "name": "Nantou County",
-        "canonical": "Nantou County,Taiwan,Taiwan",
-        "region": "Taiwan",
+        "canonical": "Nantou County,Taiwan",
+        "region": "",
         "country": "Taiwan",
         "countryCode": "tw"
     },
     {
         "id": 9040307,
         "name": "Changhua County",
-        "canonical": "Changhua County,Taiwan,Taiwan",
-        "region": "Taiwan",
+        "canonical": "Changhua County,Taiwan",
+        "region": "",
         "country": "Taiwan",
         "countryCode": "tw"
     },
     {
         "id": 9040310,
         "name": "Kinmen County",
-        "canonical": "Kinmen County,Fujian Province,Taiwan",
-        "region": "Fujian Province",
+        "canonical": "Kinmen County,Taiwan",
+        "region": "",
         "country": "Taiwan",
         "countryCode": "tw"
     },
     {
         "id": 9040318,
         "name": "Yunlin County",
-        "canonical": "Yunlin County,Taiwan,Taiwan",
-        "region": "Taiwan",
+        "canonical": "Yunlin County,Taiwan",
+        "region": "",
         "country": "Taiwan",
         "countryCode": "tw"
     },
     {
         "id": 9040321,
         "name": "Pingtung County",
-        "canonical": "Pingtung County,Taiwan,Taiwan",
-        "region": "Taiwan",
+        "canonical": "Pingtung County,Taiwan",
+        "region": "",
         "country": "Taiwan",
         "countryCode": "tw"
     },
@@ -2281,8 +2281,8 @@
     },
     {
         "id": 9047198,
-        "name": "Waterford City",
-        "canonical": "Waterford City,County Waterford,Ireland",
+        "name": "Waterford",
+        "canonical": "Waterford,County Waterford,Ireland",
         "region": "County Waterford",
         "country": "Ireland",
         "countryCode": "ie"
@@ -2817,72 +2817,72 @@
     },
     {
         "id": 9057003,
-        "name": "Aleutians East",
-        "canonical": "Aleutians East,Alaska,United States",
+        "name": "Aleutians East Borough",
+        "canonical": "Aleutians East Borough,Alaska,United States",
         "region": "Alaska",
         "country": "United States",
         "countryCode": "us"
     },
     {
         "id": 9057004,
-        "name": "Aleutians West",
-        "canonical": "Aleutians West,Alaska,United States",
+        "name": "Aleutians West Census Area",
+        "canonical": "Aleutians West Census Area,Alaska,United States",
         "region": "Alaska",
         "country": "United States",
         "countryCode": "us"
     },
     {
         "id": 9057005,
-        "name": "Anchorage",
-        "canonical": "Anchorage,Alaska,United States",
+        "name": "Anchorage Municipality",
+        "canonical": "Anchorage Municipality,Alaska,United States",
         "region": "Alaska",
         "country": "United States",
         "countryCode": "us"
     },
     {
         "id": 9057006,
-        "name": "Bethel",
-        "canonical": "Bethel,Alaska,United States",
+        "name": "Bethel Census Area",
+        "canonical": "Bethel Census Area,Alaska,United States",
         "region": "Alaska",
         "country": "United States",
         "countryCode": "us"
     },
     {
         "id": 9057007,
-        "name": "Bristol Bay",
-        "canonical": "Bristol Bay,Alaska,United States",
+        "name": "Bristol Bay Borough",
+        "canonical": "Bristol Bay Borough,Alaska,United States",
         "region": "Alaska",
         "country": "United States",
         "countryCode": "us"
     },
     {
         "id": 9057008,
-        "name": "Denali",
-        "canonical": "Denali,Alaska,United States",
+        "name": "Denali Borough",
+        "canonical": "Denali Borough,Alaska,United States",
         "region": "Alaska",
         "country": "United States",
         "countryCode": "us"
     },
     {
         "id": 9057009,
-        "name": "Dillingham",
-        "canonical": "Dillingham,Alaska,United States",
+        "name": "Dillingham Census Area",
+        "canonical": "Dillingham Census Area,Alaska,United States",
         "region": "Alaska",
         "country": "United States",
         "countryCode": "us"
     },
     {
         "id": 9057010,
-        "name": "Fairbanks North Star",
-        "canonical": "Fairbanks North Star,Alaska,United States",
+        "name": "Fairbanks North Star Borough",
+        "canonical": "Fairbanks North Star Borough,Alaska,United States",
         "region": "Alaska",
         "country": "United States",
         "countryCode": "us"
     },
     {
         "id": 9057011,
-        "name": "Haines",
-        "canonical": "Haines,Alaska,United States",
+        "name": "Haines Borough",
+        "canonical": "Haines Borough,Alaska,United States",
         "region": "Alaska",
         "country": "United States",
         "countryCode": "us"
@@ -2905,24 +2905,24 @@
     },
     {
         "id": 9057014,
-        "name": "Ketchikan Gateway",
-        "canonical": "Ketchikan Gateway,Alaska,United States",
+        "name": "Ketchikan Gateway Borough",
+        "canonical": "Ketchikan Gateway Borough,Alaska,United States",
         "region": "Alaska",
         "country": "United States",
         "countryCode": "us"
     },
     {
         "id": 9057015,
-        "name": "Kodiak Island",
-        "canonical": "Kodiak Island,Alaska,United States",
+        "name": "Kodiak Island Borough",
+        "canonical": "Kodiak Island Borough,Alaska,United States",
         "region": "Alaska",
         "country": "United States",
         "countryCode": "us"
     },
     {
         "id": 9057016,
-        "name": "Lake and Peninsula",
-        "canonical": "Lake and Peninsula,Alaska,United States",
+        "name": "Lake and Peninsula Borough",
+        "canonical": "Lake and Peninsula Borough,Alaska,United States",
         "region": "Alaska",
         "country": "United States",
         "countryCode": "us"
@@ -2937,24 +2937,24 @@
     },
     {
         "id": 9057018,
-        "name": "Nome",
-        "canonical": "Nome,Alaska,United States",
+        "name": "Nome Census Area",
+        "canonical": "Nome Census Area,Alaska,United States",
         "region": "Alaska",
         "country": "United States",
         "countryCode": "us"
     },
     {
         "id": 9057019,
-        "name": "North Slope",
-        "canonical": "North Slope,Alaska,United States",
+        "name": "North Slope Borough",
+        "canonical": "North Slope Borough,Alaska,United States",
         "region": "Alaska",
         "country": "United States",
         "countryCode": "us"
     },
     {
         "id": 9057020,
-        "name": "Northwest Arctic",
-        "canonical": "Northwest Arctic,Alaska,United States",
+        "name": "Northwest Arctic Borough",
+        "canonical": "Northwest Arctic Borough,Alaska,United States",
         "region": "Alaska",
         "country": "United States",
         "countryCode": "us"
@@ -2969,16 +2969,16 @@
     },
     {
         "id": 9057022,
-        "name": "Sitka",
-        "canonical": "Sitka,Alaska,United States",
+        "name": "Sitka City and Borough",
+        "canonical": "Sitka City and Borough,Alaska,United States",
         "region": "Alaska",
         "country": "United States",
         "countryCode": "us"
     },
     {
         "id": 9057023,
-        "name": "Hoonah-Angoon",
-        "canonical": "Hoonah-Angoon,Alaska,United States",
+        "name": "Hoonah-Angoon Census Area",
+        "canonical": "Hoonah-Angoon Census Area,Alaska,United States",
         "region": "Alaska",
         "country": "United States",
         "countryCode": "us"
@@ -3017,16 +3017,16 @@
     },
     {
         "id": 9057028,
-        "name": "Yakutat",
-        "canonical": "Yakutat,Alaska,United States",
+        "name": "Yakutat City and Borough",
+        "canonical": "Yakutat City and Borough,Alaska,United States",
         "region": "Alaska",
         "country": "United States",
         "countryCode": "us"
     },
     {
         "id": 9057029,
-        "name": "Yukon-Koyukuk",
-        "canonical": "Yukon-Koyukuk,Alaska,United States",
+        "name": "Yukon-Koyukuk Census Area",
+        "canonical": "Yukon-Koyukuk Census Area,Alaska,United States",
         "region": "Alaska",
         "country": "United States",
         "countryCode": "us"
@@ -11249,8 +11249,8 @@
     },
     {
         "id": 9058057,
-        "name": "La Salle Parish",
-        "canonical": "La Salle Parish,Louisiana,United States",
+        "name": "LaSalle Parish",
+        "canonical": "LaSalle Parish,Louisiana,United States",
         "region": "Louisiana",
         "country": "United States",
         "countryCode": "us"
@@ -27342,6 +27342,14 @@
         "region": "Quebec",
         "country": "Canada",
         "countryCode": "ca"
+    },
+    {
+        "id": 9185446,
+        "name": "County Tyrone",
+        "canonical": "County Tyrone,Northern Ireland,United Kingdom",
+        "region": "Northern Ireland",
+        "country": "United Kingdom",
+        "countryCode": "gb"
     },
     {
         "id": 9299019,
