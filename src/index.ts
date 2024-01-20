@@ -3,6 +3,7 @@ import { Google, VersionData, LocationEntity } from './google.js';
 import * as path from 'path';
 import * as fs from 'fs';
 import { logger } from './logger.js';
+import core from '@actions/core';
 
 const saveFiles = {
     'City': 'cities',
@@ -25,6 +26,7 @@ class App {
         catch (error) {
             logger.error('Encountered an error while building:');
             logger.error(error);
+            core.setFailed(error as Error);
             process.exit(1);
         }
     }
@@ -36,6 +38,7 @@ class App {
         logger.info('Remote: Fetching latest version...');
 
         let version = await Google.getLatestVersion();
+        core.setOutput('date', version.date);
 
         if (!version.uri.match(/\.csv(\.zip)?/i)) {
             throw new Error('Target link is invalid.');
