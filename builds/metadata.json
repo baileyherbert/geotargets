@@ -1,6 +1,6 @@
 {
-	"date": "2023-12-13",
-	"source": "https://developers.google.com/static/google-ads/api/data/geo/geotargets-2023-12-13.csv.zip",
+	"date": "2024-03-20",
+	"source": "https://developers.google.com/static/google-ads/api/data/geo/geotargets-2024-03-20.csv.zip",
 	"counts": {
 		"cities": 40709,
 		"countries": 218,

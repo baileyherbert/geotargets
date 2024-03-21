@@ -2237,8 +2237,8 @@
     },
     {
         "id": 21305,
-        "name": "Manawatu-Wanganui",
-        "canonical": "Manawatu-Wanganui,New Zealand",
+        "name": "Manawatu-Whanganui",
+        "canonical": "Manawatu-Whanganui,New Zealand",
         "region": "",
         "country": "New Zealand",
         "countryCode": "nz"
@@ -7262,8 +7262,8 @@
     },
     {
         "id": 9112795,
-        "name": "Yulara",
-        "canonical": "Yulara,Northern Territory,Australia",
+        "name": "Un-Incorporated (Yulara) Area",
+        "canonical": "Un-Incorporated (Yulara) Area,Northern Territory,Australia",
         "region": "Northern Territory",
         "country": "Australia",
         "countryCode": "au"

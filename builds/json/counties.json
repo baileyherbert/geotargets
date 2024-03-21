@@ -970,16 +970,16 @@
     {
         "id": 20771,
         "name": "Ostfold",
-        "canonical": "Ostfold,Viken,Norway",
-        "region": "Viken",
+        "canonical": "Ostfold,Norway",
+        "region": "",
         "country": "Norway",
         "countryCode": "no"
     },
     {
         "id": 20772,
         "name": "Akershus",
-        "canonical": "Akershus,Viken,Norway",
-        "region": "Viken",
+        "canonical": "Akershus,Norway",
+        "region": "",
         "country": "Norway",
         "countryCode": "no"
     },
@@ -1010,8 +1010,8 @@
     {
         "id": 20776,
         "name": "Buskerud",
-        "canonical": "Buskerud,Viken,Norway",
-        "region": "Viken",
+        "canonical": "Buskerud,Norway",
+        "region": "",
         "country": "Norway",
         "countryCode": "no"
     },
@@ -1026,8 +1026,8 @@
     {
         "id": 20778,
         "name": "Telemark",
-        "canonical": "Telemark,Vestfold og Telemark,Norway",
-        "region": "Vestfold og Telemark",
+        "canonical": "Telemark,Norway",
+        "region": "",
         "country": "Norway",
         "countryCode": "no"
     },
@@ -1106,16 +1106,16 @@
     {
         "id": 20788,
         "name": "Troms",
-        "canonical": "Troms,Troms og Finnmark fylke,Norway",
-        "region": "Troms og Finnmark fylke",
+        "canonical": "Troms,Norway",
+        "region": "",
         "country": "Norway",
         "countryCode": "no"
     },
     {
         "id": 20789,
         "name": "Finnmark",
-        "canonical": "Finnmark,Troms og Finnmark fylke,Norway",
-        "region": "Troms og Finnmark fylke",
+        "canonical": "Finnmark,Norway",
+        "region": "",
         "country": "Norway",
         "countryCode": "no"
     },
