@@ -2,7 +2,7 @@ import fetch from 'node-fetch';
 import { parse } from 'node-html-parser';
 import AdmZip from 'adm-zip';
 
-const parseLineRegex = /^"(\d+)","([^"]+)","([^"]+)","(\d+)?","([A-Z]+)","([\w\s]+)",.+$/;
+const parseLineRegex = /^"(\d+)","([^"]+)","([^"]+)","(\d+)?","([A-Z]+)","([\w\s\-]+)",.+$/;
 const consideredTypes: LocationType[] = ['City', 'Country', 'County', 'Postal Code', 'Region', 'State'];
 
 export class Google {
@@ -81,6 +81,7 @@ export class Google {
 
             // If there is no match, throw an error
             if (!match) {
+                console.error(line);
                 throw new Error(`Regular expression failed on line #${index + 2}.`);
             }
 
