@@ -27352,6 +27352,94 @@
         "countryCode": "gb"
     },
     {
+        "id": 9189172,
+        "name": "Riverview",
+        "canonical": "Riverview,New Brunswick,Canada",
+        "region": "New Brunswick",
+        "country": "Canada",
+        "countryCode": "ca"
+    },
+    {
+        "id": 9197458,
+        "name": "Horta of Valencia",
+        "canonical": "Horta of Valencia,Valencian Community,Spain",
+        "region": "Valencian Community",
+        "country": "Spain",
+        "countryCode": "es"
+    },
+    {
+        "id": 9197686,
+        "name": "Blackpool",
+        "canonical": "Blackpool,England,United Kingdom",
+        "region": "England",
+        "country": "United Kingdom",
+        "countryCode": "gb"
+    },
+    {
+        "id": 9197763,
+        "name": "Saint John",
+        "canonical": "Saint John,New Brunswick,Canada",
+        "region": "New Brunswick",
+        "country": "Canada",
+        "countryCode": "ca"
+    },
+    {
+        "id": 9198046,
+        "name": "Dundee City Council",
+        "canonical": "Dundee City Council,Scotland,United Kingdom",
+        "region": "Scotland",
+        "country": "United Kingdom",
+        "countryCode": "gb"
+    },
+    {
+        "id": 9198200,
+        "name": "Stoke-on-Trent",
+        "canonical": "Stoke-on-Trent,England,United Kingdom",
+        "region": "England",
+        "country": "United Kingdom",
+        "countryCode": "gb"
+    },
+    {
+        "id": 9198629,
+        "name": "Essex",
+        "canonical": "Essex,Essex,England,United Kingdom",
+        "region": "Essex,England",
+        "country": "United Kingdom",
+        "countryCode": "gb"
+    },
+    {
+        "id": 9198662,
+        "name": "Rocky View",
+        "canonical": "Rocky View,Alberta,Canada",
+        "region": "Alberta",
+        "country": "Canada",
+        "countryCode": "ca"
+    },
+    {
+        "id": 9198818,
+        "name": "Kingston upon Hull",
+        "canonical": "Kingston upon Hull,England,United Kingdom",
+        "region": "England",
+        "country": "United Kingdom",
+        "countryCode": "gb"
+    },
+    {
+        "id": 9199129,
+        "name": "Glasgow City",
+        "canonical": "Glasgow City,Scotland,United Kingdom",
+        "region": "Scotland",
+        "country": "United Kingdom",
+        "countryCode": "gb"
+    },
+    {
+        "id": 9199185,
+        "name": "Kent",
+        "canonical": "Kent,Kent,England,United Kingdom",
+        "region": "Kent,England",
+        "country": "United Kingdom",
+        "countryCode": "gb"
+    },
+    {
         "id": 9299019,
         "name": "Trondelag",
         "canonical": "Trondelag,Norway",

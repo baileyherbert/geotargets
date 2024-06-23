@@ -7293,6 +7293,30 @@
         "countryCode": "pe"
     },
     {
+        "id": 9190238,
+        "name": "Neapoli-Sykies",
+        "canonical": "Neapoli-Sykies,Decentralized Administration of Macedonia and Thrace,Greece",
+        "region": "Decentralized Administration of Macedonia and Thrace",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 9191957,
+        "name": "Moschato-Tavros",
+        "canonical": "Moschato-Tavros,Decentralized Administration of Attica,Greece",
+        "region": "Decentralized Administration of Attica",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 9198321,
+        "name": "Sint Maarten",
+        "canonical": "Sint Maarten,Sint Maarten",
+        "region": "",
+        "country": "Sint Maarten",
+        "countryCode": "sx"
+    },
+    {
         "id": 20973,
         "name": "Taymyr Autonomous Okrug",
         "canonical": "Taymyr Autonomous Okrug,Russia",
