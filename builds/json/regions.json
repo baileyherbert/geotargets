@@ -3807,8 +3807,8 @@
     {
         "id": 9067716,
         "name": "Zakynthos",
-        "canonical": "Zakynthos,Zakynthos,Decentralized Administration of Peloponnese, Western Greece and the Ionian,Greece",
-        "region": "Zakynthos,Decentralized Administration of Peloponnese, Western Greece and the Ionian",
+        "canonical": "Zakynthos,Decentralized Administration of Peloponnese, Western Greece and the Ionian,Greece",
+        "region": "Decentralized Administration of Peloponnese, Western Greece and the Ionian",
         "country": "Greece",
         "countryCode": "gr"
     },
