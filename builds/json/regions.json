@@ -3807,8 +3807,8 @@
     {
         "id": 9067716,
         "name": "Zakynthos",
-        "canonical": "Zakynthos,Decentralized Administration of Peloponnese, Western Greece and the Ionian,Greece",
-        "region": "Decentralized Administration of Peloponnese, Western Greece and the Ionian",
+        "canonical": "Zakynthos,Zakynthos,Decentralized Administration of Peloponnese, Western Greece and the Ionian,Greece",
+        "region": "Zakynthos,Decentralized Administration of Peloponnese, Western Greece and the Ionian",
         "country": "Greece",
         "countryCode": "gr"
     },
@@ -7230,8 +7230,8 @@
     },
     {
         "id": 9112558,
-        "name": "Nhulunbuy",
-        "canonical": "Nhulunbuy,Northern Territory,Australia",
+        "name": "Un-Incorporated (Nhulunbuy) Area",
+        "canonical": "Un-Incorporated (Nhulunbuy) Area,Northern Territory,Australia",
         "region": "Northern Territory",
         "country": "Australia",
         "countryCode": "au"
