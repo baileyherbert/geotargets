@@ -2,7 +2,6 @@ import fetch from 'node-fetch';
 import { parse } from 'node-html-parser';
 import AdmZip from 'adm-zip';
 
-const parseLineRegex = /^"(\d+)","([^"]+)","([^"]+)","(\d+)?","([A-Z]+)","([\w\s\-]+)",.+$/;
 const consideredTypes: LocationType[] = ['City', 'Country', 'County', 'Postal Code', 'Region', 'State'];
 
 export class Google {
@@ -77,33 +76,33 @@ export class Google {
 
         // Parse the lines
         const entities = lines.map<LocationEntity | undefined>((line, index) => {
-            const match = parseLineRegex.exec(line);
+            const values = this.parseLine(line);
 
-            // If there is no match, throw an error
-            if (!match) {
+            // If there are less than 6 values, throw an error
+            if (values.length < 6) {
                 console.error(line);
-                throw new Error(`Regular expression failed on line #${index + 2}.`);
+                throw new Error(`Parsing failed on line #${index + 2} (not enough values)`);
             }
 
             // Skip locations whose types are not considered
-            if (consideredTypes.indexOf(match[6] as any) < 0) return;
+            if (consideredTypes.indexOf(values[5] as any) < 0) return;
 
             // Parse the canonical
-            const canonical = this.parseCanonical(match[2], match[3]);
+            const canonical = this.parseCanonical(values[1], values[2]);
             if (!canonical) return;
 
             // Extract and format data
-            const id = parseInt(match[1]);
-            const name = match[2];
-            const type = match[6] as LocationType;
+            const id = parseInt(values[0]);
+            const name = values[1];
+            const type = values[5] as LocationType;
             const region = canonical.region;
-            const country = { name: canonical.country, code: match[5].toLowerCase() };
+            const country = { name: canonical.country, code: values[4].toLowerCase() };
 
             // Return the entity
             return {
                 id,
                 name,
-                canonical: match[3],
+                canonical: values[2],
                 region,
                 country: country.name,
                 countryCode: country.code,
@@ -113,6 +112,60 @@ export class Google {
 
         // Filter out undefined values
         return entities.filter(entity => typeof entity !== 'undefined') as LocationEntity[];
+    }
+
+    /**
+     * Parses the given CSV line into an array of values.
+     *
+     * @param line
+     * @returns
+     */
+    private static parseLine(line: string): string[] {
+        const values = new Array<string>();
+
+        let currentValue = '';
+        let inQuotes = false;
+
+        for (let i = 0; i < line.length; i++) {
+            const char = line[i];
+            const nextChar = line[i + 1];
+
+            if (inQuotes) {
+                if (char === '"' && (nextChar === undefined || nextChar === ',')) {
+                    values.push(currentValue);
+                    currentValue = '';
+                    inQuotes = false;
+                }
+                else {
+                    currentValue += char;
+                }
+            }
+            else {
+                // Skip commas
+                if (char === ',') {
+                    continue;
+                }
+
+                // Skip whitespace
+                if (char === ' ') {
+                    continue;
+                }
+
+                // Check for quotes
+                if (char === '"') {
+                    inQuotes = true;
+                }
+                else {
+                    currentValue += char;
+                }
+            }
+        }
+
+        if (currentValue.length > 0) {
+            values.push(currentValue);
+        }
+
+        return values;
     }
 
     /**
