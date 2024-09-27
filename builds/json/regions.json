@@ -6991,8 +6991,8 @@
     {
         "id": 9075955,
         "name": "Eastern Tobago",
-        "canonical": "Eastern Tobago,Trinidad and Tobago",
-        "region": "",
+        "canonical": "Eastern Tobago,Tobago,Trinidad and Tobago",
+        "region": "Tobago",
         "country": "Trinidad and Tobago",
         "countryCode": "tt"
     },
@@ -7023,8 +7023,8 @@
     {
         "id": 9075959,
         "name": "Western Tobago",
-        "canonical": "Western Tobago,Trinidad and Tobago",
-        "region": "",
+        "canonical": "Western Tobago,Tobago,Trinidad and Tobago",
+        "region": "Tobago",
         "country": "Trinidad and Tobago",
         "countryCode": "tt"
     },
@@ -7315,6 +7315,22 @@
         "region": "",
         "country": "Sint Maarten",
         "countryCode": "sx"
+    },
+    {
+        "id": 9210978,
+        "name": "Tobago",
+        "canonical": "Tobago,Trinidad and Tobago",
+        "region": "",
+        "country": "Trinidad and Tobago",
+        "countryCode": "tt"
+    },
+    {
+        "id": 9222467,
+        "name": "Thasos Regional Unit",
+        "canonical": "Thasos Regional Unit,Decentralized Administration of Macedonia and Thrace,Greece",
+        "region": "Decentralized Administration of Macedonia and Thrace",
+        "country": "Greece",
+        "countryCode": "gr"
     },
     {
         "id": 20973,

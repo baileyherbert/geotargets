@@ -27440,6 +27440,318 @@
         "countryCode": "gb"
     },
     {
+        "id": 9207213,
+        "name": "Kildare",
+        "canonical": "Kildare,County Kildare,Ireland",
+        "region": "County Kildare",
+        "country": "Ireland",
+        "countryCode": "ie"
+    },
+    {
+        "id": 9207675,
+        "name": "Hampshire",
+        "canonical": "Hampshire,Hampshire,England,United Kingdom",
+        "region": "Hampshire,England",
+        "country": "United Kingdom",
+        "countryCode": "gb"
+    },
+    {
+        "id": 9207898,
+        "name": "Leitrim",
+        "canonical": "Leitrim,County Leitrim,Ireland",
+        "region": "County Leitrim",
+        "country": "Ireland",
+        "countryCode": "ie"
+    },
+    {
+        "id": 9208186,
+        "name": "Longford",
+        "canonical": "Longford,County Longford,Ireland",
+        "region": "County Longford",
+        "country": "Ireland",
+        "countryCode": "ie"
+    },
+    {
+        "id": 9208871,
+        "name": "Central Bedfordshire",
+        "canonical": "Central Bedfordshire,England,United Kingdom",
+        "region": "England",
+        "country": "United Kingdom",
+        "countryCode": "gb"
+    },
+    {
+        "id": 9208899,
+        "name": "Sligo",
+        "canonical": "Sligo,County Sligo,Ireland",
+        "region": "County Sligo",
+        "country": "Ireland",
+        "countryCode": "ie"
+    },
+    {
+        "id": 9209127,
+        "name": "Plymouth",
+        "canonical": "Plymouth,Plymouth,England,United Kingdom",
+        "region": "Plymouth,England",
+        "country": "United Kingdom",
+        "countryCode": "gb"
+    },
+    {
+        "id": 9209136,
+        "name": "Westmeath",
+        "canonical": "Westmeath,County Westmeath,Ireland",
+        "region": "County Westmeath",
+        "country": "Ireland",
+        "countryCode": "ie"
+    },
+    {
+        "id": 9209162,
+        "name": "Louth",
+        "canonical": "Louth,County Louth,Ireland",
+        "region": "County Louth",
+        "country": "Ireland",
+        "countryCode": "ie"
+    },
+    {
+        "id": 9210383,
+        "name": "Kameda District",
+        "canonical": "Kameda District,Hokkaido,Japan",
+        "region": "Hokkaido",
+        "country": "Japan",
+        "countryCode": "jp"
+    },
+    {
+        "id": 9210454,
+        "name": "Devon",
+        "canonical": "Devon,Devon,England,United Kingdom",
+        "region": "Devon,England",
+        "country": "United Kingdom",
+        "countryCode": "gb"
+    },
+    {
+        "id": 9210609,
+        "name": "Kitaadachi District",
+        "canonical": "Kitaadachi District,Saitama,Japan",
+        "region": "Saitama",
+        "country": "Japan",
+        "countryCode": "jp"
+    },
+    {
+        "id": 9211166,
+        "name": "Laois",
+        "canonical": "Laois,County Laois,Ireland",
+        "region": "County Laois",
+        "country": "Ireland",
+        "countryCode": "ie"
+    },
+    {
+        "id": 9211279,
+        "name": "Yoro District",
+        "canonical": "Yoro District,Gifu,Japan",
+        "region": "Gifu",
+        "country": "Japan",
+        "countryCode": "jp"
+    },
+    {
+        "id": 9212104,
+        "name": "Orkney",
+        "canonical": "Orkney,Scotland,United Kingdom",
+        "region": "Scotland",
+        "country": "United Kingdom",
+        "countryCode": "gb"
+    },
+    {
+        "id": 9212963,
+        "name": "Buckinghamshire",
+        "canonical": "Buckinghamshire,Buckinghamshire,England,United Kingdom",
+        "region": "Buckinghamshire,England",
+        "country": "United Kingdom",
+        "countryCode": "gb"
+    },
+    {
+        "id": 9212972,
+        "name": "Offaly",
+        "canonical": "Offaly,County Offaly,Ireland",
+        "region": "County Offaly",
+        "country": "Ireland",
+        "countryCode": "ie"
+    },
+    {
+        "id": 9213348,
+        "name": "Midlothian",
+        "canonical": "Midlothian,Scotland,United Kingdom",
+        "region": "Scotland",
+        "country": "United Kingdom",
+        "countryCode": "gb"
+    },
+    {
+        "id": 9214327,
+        "name": "Carlow",
+        "canonical": "Carlow,County Carlow,Ireland",
+        "region": "County Carlow",
+        "country": "Ireland",
+        "countryCode": "ie"
+    },
+    {
+        "id": 9215615,
+        "name": "Kitakambara District",
+        "canonical": "Kitakambara District,Niigata,Japan",
+        "region": "Niigata",
+        "country": "Japan",
+        "countryCode": "jp"
+    },
+    {
+        "id": 9216635,
+        "name": "Bedford",
+        "canonical": "Bedford,England,United Kingdom",
+        "region": "England",
+        "country": "United Kingdom",
+        "countryCode": "gb"
+    },
+    {
+        "id": 9217074,
+        "name": "Berkshire",
+        "canonical": "Berkshire,Berkshire,England,United Kingdom",
+        "region": "Berkshire,England",
+        "country": "United Kingdom",
+        "countryCode": "gb"
+    },
+    {
+        "id": 9217313,
+        "name": "Monaghan",
+        "canonical": "Monaghan,County Monaghan,Ireland",
+        "region": "County Monaghan",
+        "country": "Ireland",
+        "countryCode": "ie"
+    },
+    {
+        "id": 9217361,
+        "name": "Maresme",
+        "canonical": "Maresme,Catalonia,Spain",
+        "region": "Catalonia",
+        "country": "Spain",
+        "countryCode": "es"
+    },
+    {
+        "id": 9217500,
+        "name": "Formentera",
+        "canonical": "Formentera,Balearic Islands,Spain",
+        "region": "Balearic Islands",
+        "country": "Spain",
+        "countryCode": "es"
+    },
+    {
+        "id": 9218361,
+        "name": "Ibiza",
+        "canonical": "Ibiza,Balearic Islands,Spain",
+        "region": "Balearic Islands",
+        "country": "Spain",
+        "countryCode": "es"
+    },
+    {
+        "id": 9218730,
+        "name": "Pembrokeshire",
+        "canonical": "Pembrokeshire,Wales,United Kingdom",
+        "region": "Wales",
+        "country": "United Kingdom",
+        "countryCode": "gb"
+    },
+    {
+        "id": 9219112,
+        "name": "Caerphilly County Borough",
+        "canonical": "Caerphilly County Borough,Wales,United Kingdom",
+        "region": "Wales",
+        "country": "United Kingdom",
+        "countryCode": "gb"
+    },
+    {
+        "id": 9219194,
+        "name": "Somerset",
+        "canonical": "Somerset,Somerset,England,United Kingdom",
+        "region": "Somerset,England",
+        "country": "United Kingdom",
+        "countryCode": "gb"
+    },
+    {
+        "id": 9219431,
+        "name": "Vale of Glamorgan",
+        "canonical": "Vale of Glamorgan,Wales,United Kingdom",
+        "region": "Wales",
+        "country": "United Kingdom",
+        "countryCode": "gb"
+    },
+    {
+        "id": 9219920,
+        "name": "Comarca Metropolitana de Sevilla",
+        "canonical": "Comarca Metropolitana de Sevilla,Andalusia,Spain",
+        "region": "Andalusia",
+        "country": "Spain",
+        "countryCode": "es"
+    },
+    {
+        "id": 9220426,
+        "name": "Yoshida District",
+        "canonical": "Yoshida District,Fukui,Japan",
+        "region": "Fukui",
+        "country": "Japan",
+        "countryCode": "jp"
+    },
+    {
+        "id": 9220476,
+        "name": "North Lanarkshire",
+        "canonical": "North Lanarkshire,Scotland,United Kingdom",
+        "region": "Scotland",
+        "country": "United Kingdom",
+        "countryCode": "gb"
+    },
+    {
+        "id": 9220716,
+        "name": "Cavan",
+        "canonical": "Cavan,County Cavan,Ireland",
+        "region": "County Cavan",
+        "country": "Ireland",
+        "countryCode": "ie"
+    },
+    {
+        "id": 9220903,
+        "name": "Lancashire",
+        "canonical": "Lancashire,Lancashire,England,United Kingdom",
+        "region": "Lancashire,England",
+        "country": "United Kingdom",
+        "countryCode": "gb"
+    },
+    {
+        "id": 9221214,
+        "name": "Inabe District",
+        "canonical": "Inabe District,Mie,Japan",
+        "region": "Mie",
+        "country": "Japan",
+        "countryCode": "jp"
+    },
+    {
+        "id": 9222049,
+        "name": "Powys",
+        "canonical": "Powys,Wales,United Kingdom",
+        "region": "Wales",
+        "country": "United Kingdom",
+        "countryCode": "gb"
+    },
+    {
+        "id": 9222551,
+        "name": "Cheshire East",
+        "canonical": "Cheshire East,England,United Kingdom",
+        "region": "England",
+        "country": "United Kingdom",
+        "countryCode": "gb"
+    },
+    {
+        "id": 9222833,
+        "name": "Isle of Anglesey",
+        "canonical": "Isle of Anglesey,Wales,United Kingdom",
+        "region": "Wales",
+        "country": "United Kingdom",
+        "countryCode": "gb"
+    },
+    {
         "id": 9299019,
         "name": "Trondelag",
         "canonical": "Trondelag,Norway",
