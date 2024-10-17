@@ -2413,8 +2413,8 @@
     },
     {
         "id": 21329,
-        "name": "Jeollabuk-do",
-        "canonical": "Jeollabuk-do,South Korea",
+        "name": "Jeonbuk State",
+        "canonical": "Jeonbuk State,South Korea",
         "region": "",
         "country": "South Korea",
         "countryCode": "kr"
@@ -2765,8 +2765,8 @@
     {
         "id": 21526,
         "name": "Fes-Boulemane",
-        "canonical": "Fes-Boulemane,Fez-Meknes,Morocco",
-        "region": "Fez-Meknes",
+        "canonical": "Fes-Boulemane,Morocco",
+        "region": "",
         "country": "Morocco",
         "countryCode": "ma"
     },
