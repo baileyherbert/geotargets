@@ -1,11 +1,11 @@
 {
-	"date": "2025-01-13",
-	"source": "https://developers.google.com/static/google-ads/api/data/geo/geotargets-2025-01-13.csv.zip",
+	"date": "2025-02-19",
+	"source": "https://developers.google.com/static/google-ads/api/data/geo/geotargets-2025-02-19.csv.zip",
 	"counts": {
 		"cities": 50055,
 		"countries": 218,
 		"counties": 3476,
-		"postal_codes": 130713,
+		"postal_codes": 130742,
 		"regions": 923,
 		"states": 235
 	},
