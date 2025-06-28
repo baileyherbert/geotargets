@@ -2889,8 +2889,8 @@
     },
     {
         "id": 9057012,
-        "name": "Juneau",
-        "canonical": "Juneau,Alaska,United States",
+        "name": "Juneau City and Borough",
+        "canonical": "Juneau City and Borough,Alaska,United States",
         "region": "Alaska",
         "country": "United States",
         "countryCode": "us"
@@ -2929,8 +2929,8 @@
     },
     {
         "id": 9057017,
-        "name": "Matanuska-Susitna",
-        "canonical": "Matanuska-Susitna,Alaska,United States",
+        "name": "Matanuska-Susitna Borough",
+        "canonical": "Matanuska-Susitna Borough,Alaska,United States",
         "region": "Alaska",
         "country": "United States",
         "countryCode": "us"
@@ -2985,8 +2985,8 @@
     },
     {
         "id": 9057024,
-        "name": "Southeast Fairbanks",
-        "canonical": "Southeast Fairbanks,Alaska,United States",
+        "name": "Southeast Fairbanks Census Area",
+        "canonical": "Southeast Fairbanks Census Area,Alaska,United States",
         "region": "Alaska",
         "country": "United States",
         "countryCode": "us"

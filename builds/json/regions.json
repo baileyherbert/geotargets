@@ -951,8 +951,8 @@
     },
     {
         "id": 20792,
-        "name": "Bay of Plenty",
-        "canonical": "Bay of Plenty,New Zealand",
+        "name": "Bay of Plenty Region",
+        "canonical": "Bay of Plenty Region,New Zealand",
         "region": "",
         "country": "New Zealand",
         "countryCode": "nz"
@@ -2213,112 +2213,112 @@
     },
     {
         "id": 21302,
-        "name": "Canterbury",
-        "canonical": "Canterbury,New Zealand",
+        "name": "Canterbury Region",
+        "canonical": "Canterbury Region,New Zealand",
         "region": "",
         "country": "New Zealand",
         "countryCode": "nz"
     },
     {
         "id": 21303,
-        "name": "Gisborne",
-        "canonical": "Gisborne,New Zealand",
+        "name": "Gisborne Region",
+        "canonical": "Gisborne Region,New Zealand",
         "region": "",
         "country": "New Zealand",
         "countryCode": "nz"
     },
     {
         "id": 21304,
-        "name": "Hawke's Bay",
-        "canonical": "Hawke's Bay,New Zealand",
+        "name": "Hawke's Bay Region",
+        "canonical": "Hawke's Bay Region,New Zealand",
         "region": "",
         "country": "New Zealand",
         "countryCode": "nz"
     },
     {
         "id": 21305,
-        "name": "Manawatu-Whanganui",
-        "canonical": "Manawatu-Whanganui,New Zealand",
+        "name": "Manawatu-Whanganui Region",
+        "canonical": "Manawatu-Whanganui Region,New Zealand",
         "region": "",
         "country": "New Zealand",
         "countryCode": "nz"
     },
     {
         "id": 21306,
-        "name": "Marlborough",
-        "canonical": "Marlborough,New Zealand",
+        "name": "Marlborough Region",
+        "canonical": "Marlborough Region,New Zealand",
         "region": "",
         "country": "New Zealand",
         "countryCode": "nz"
     },
     {
         "id": 21307,
-        "name": "Nelson",
-        "canonical": "Nelson,New Zealand",
+        "name": "Nelson Region",
+        "canonical": "Nelson Region,New Zealand",
         "region": "",
         "country": "New Zealand",
         "countryCode": "nz"
     },
     {
         "id": 21308,
-        "name": "Northland",
-        "canonical": "Northland,New Zealand",
+        "name": "Northland Region",
+        "canonical": "Northland Region,New Zealand",
         "region": "",
         "country": "New Zealand",
         "countryCode": "nz"
     },
     {
         "id": 21309,
-        "name": "Otago",
-        "canonical": "Otago,New Zealand",
+        "name": "Otago Region",
+        "canonical": "Otago Region,New Zealand",
         "region": "",
         "country": "New Zealand",
         "countryCode": "nz"
     },
     {
         "id": 21310,
-        "name": "Southland",
-        "canonical": "Southland,New Zealand",
+        "name": "Southland Region",
+        "canonical": "Southland Region,New Zealand",
         "region": "",
         "country": "New Zealand",
         "countryCode": "nz"
     },
     {
         "id": 21311,
-        "name": "Taranaki",
-        "canonical": "Taranaki,New Zealand",
+        "name": "Taranaki Region",
+        "canonical": "Taranaki Region,New Zealand",
         "region": "",
         "country": "New Zealand",
         "countryCode": "nz"
     },
     {
         "id": 21312,
-        "name": "Tasman",
-        "canonical": "Tasman,New Zealand",
+        "name": "Tasman Region",
+        "canonical": "Tasman Region,New Zealand",
         "region": "",
         "country": "New Zealand",
         "countryCode": "nz"
     },
     {
         "id": 21313,
-        "name": "Waikato",
-        "canonical": "Waikato,New Zealand",
+        "name": "Waikato Region",
+        "canonical": "Waikato Region,New Zealand",
         "region": "",
         "country": "New Zealand",
         "countryCode": "nz"
     },
     {
         "id": 21314,
-        "name": "Wellington",
-        "canonical": "Wellington,New Zealand",
+        "name": "Wellington Region",
+        "canonical": "Wellington Region,New Zealand",
         "region": "",
         "country": "New Zealand",
         "countryCode": "nz"
     },
     {
         "id": 21315,
-        "name": "West Coast",
-        "canonical": "West Coast,New Zealand",
+        "name": "West Coast Region",
+        "canonical": "West Coast Region,New Zealand",
         "region": "",
         "country": "New Zealand",
         "countryCode": "nz"
