@@ -7333,6 +7333,254 @@
         "countryCode": "gr"
     },
     {
+        "id": 9222908,
+        "name": "Andhra Pradesh Urban",
+        "canonical": "Andhra Pradesh Urban,Andhra Pradesh,India",
+        "region": "Andhra Pradesh",
+        "country": "India",
+        "countryCode": "in"
+    },
+    {
+        "id": 9222909,
+        "name": "Assam Urban",
+        "canonical": "Assam Urban,Assam,India",
+        "region": "Assam",
+        "country": "India",
+        "countryCode": "in"
+    },
+    {
+        "id": 9222910,
+        "name": "Bihar Urban",
+        "canonical": "Bihar Urban,Bihar,India",
+        "region": "Bihar",
+        "country": "India",
+        "countryCode": "in"
+    },
+    {
+        "id": 9222911,
+        "name": "Chandigarh Urban",
+        "canonical": "Chandigarh Urban,Chandigarh,India",
+        "region": "Chandigarh",
+        "country": "India",
+        "countryCode": "in"
+    },
+    {
+        "id": 9222912,
+        "name": "Chhattisgarh Urban",
+        "canonical": "Chhattisgarh Urban,Chhattisgarh,India",
+        "region": "Chhattisgarh",
+        "country": "India",
+        "countryCode": "in"
+    },
+    {
+        "id": 9222913,
+        "name": "Goa Urban",
+        "canonical": "Goa Urban,Goa,India",
+        "region": "Goa",
+        "country": "India",
+        "countryCode": "in"
+    },
+    {
+        "id": 9222914,
+        "name": "Gujarat Urban",
+        "canonical": "Gujarat Urban,Gujarat,India",
+        "region": "Gujarat",
+        "country": "India",
+        "countryCode": "in"
+    },
+    {
+        "id": 9222915,
+        "name": "Haryana Urban",
+        "canonical": "Haryana Urban,Haryana,India",
+        "region": "Haryana",
+        "country": "India",
+        "countryCode": "in"
+    },
+    {
+        "id": 9222916,
+        "name": "Himachal Pradesh Urban",
+        "canonical": "Himachal Pradesh Urban,Himachal Pradesh,India",
+        "region": "Himachal Pradesh",
+        "country": "India",
+        "countryCode": "in"
+    },
+    {
+        "id": 9222917,
+        "name": "Jharkhand Urban",
+        "canonical": "Jharkhand Urban,Jharkhand,India",
+        "region": "Jharkhand",
+        "country": "India",
+        "countryCode": "in"
+    },
+    {
+        "id": 9222918,
+        "name": "Karnataka Urban",
+        "canonical": "Karnataka Urban,Karnataka,India",
+        "region": "Karnataka",
+        "country": "India",
+        "countryCode": "in"
+    },
+    {
+        "id": 9222919,
+        "name": "Kerala Urban",
+        "canonical": "Kerala Urban,Kerala,India",
+        "region": "Kerala",
+        "country": "India",
+        "countryCode": "in"
+    },
+    {
+        "id": 9222920,
+        "name": "Madhya Pradesh Urban",
+        "canonical": "Madhya Pradesh Urban,Madhya Pradesh,India",
+        "region": "Madhya Pradesh",
+        "country": "India",
+        "countryCode": "in"
+    },
+    {
+        "id": 9222921,
+        "name": "Maharashtra Urban",
+        "canonical": "Maharashtra Urban,Maharashtra,India",
+        "region": "Maharashtra",
+        "country": "India",
+        "countryCode": "in"
+    },
+    {
+        "id": 9222922,
+        "name": "Manipur Urban",
+        "canonical": "Manipur Urban,Manipur,India",
+        "region": "Manipur",
+        "country": "India",
+        "countryCode": "in"
+    },
+    {
+        "id": 9222923,
+        "name": "Meghalaya Urban",
+        "canonical": "Meghalaya Urban,Meghalaya,India",
+        "region": "Meghalaya",
+        "country": "India",
+        "countryCode": "in"
+    },
+    {
+        "id": 9222924,
+        "name": "Mizoram Urban",
+        "canonical": "Mizoram Urban,Mizoram,India",
+        "region": "Mizoram",
+        "country": "India",
+        "countryCode": "in"
+    },
+    {
+        "id": 9222925,
+        "name": "Nagaland Urban",
+        "canonical": "Nagaland Urban,Nagaland,India",
+        "region": "Nagaland",
+        "country": "India",
+        "countryCode": "in"
+    },
+    {
+        "id": 9222926,
+        "name": "Odisha Urban",
+        "canonical": "Odisha Urban,Odisha,India",
+        "region": "Odisha",
+        "country": "India",
+        "countryCode": "in"
+    },
+    {
+        "id": 9222927,
+        "name": "Puducherry Urban",
+        "canonical": "Puducherry Urban,Puducherry,India",
+        "region": "Puducherry",
+        "country": "India",
+        "countryCode": "in"
+    },
+    {
+        "id": 9222928,
+        "name": "Punjab Urban",
+        "canonical": "Punjab Urban,Punjab,India",
+        "region": "Punjab",
+        "country": "India",
+        "countryCode": "in"
+    },
+    {
+        "id": 9222929,
+        "name": "Rajasthan Urban",
+        "canonical": "Rajasthan Urban,Rajasthan,India",
+        "region": "Rajasthan",
+        "country": "India",
+        "countryCode": "in"
+    },
+    {
+        "id": 9222930,
+        "name": "Sikkim Urban",
+        "canonical": "Sikkim Urban,Sikkim,India",
+        "region": "Sikkim",
+        "country": "India",
+        "countryCode": "in"
+    },
+    {
+        "id": 9222931,
+        "name": "Tamil Nadu Urban",
+        "canonical": "Tamil Nadu Urban,Tamil Nadu,India",
+        "region": "Tamil Nadu",
+        "country": "India",
+        "countryCode": "in"
+    },
+    {
+        "id": 9222932,
+        "name": "Telangana Urban",
+        "canonical": "Telangana Urban,Telangana,India",
+        "region": "Telangana",
+        "country": "India",
+        "countryCode": "in"
+    },
+    {
+        "id": 9222933,
+        "name": "Tripura Urban",
+        "canonical": "Tripura Urban,Tripura,India",
+        "region": "Tripura",
+        "country": "India",
+        "countryCode": "in"
+    },
+    {
+        "id": 9222934,
+        "name": "Uttarakhand Urban",
+        "canonical": "Uttarakhand Urban,Uttarakhand,India",
+        "region": "Uttarakhand",
+        "country": "India",
+        "countryCode": "in"
+    },
+    {
+        "id": 9222935,
+        "name": "Uttar Pradesh Urban",
+        "canonical": "Uttar Pradesh Urban,Uttar Pradesh,India",
+        "region": "Uttar Pradesh",
+        "country": "India",
+        "countryCode": "in"
+    },
+    {
+        "id": 9222936,
+        "name": "West Bengal Urban",
+        "canonical": "West Bengal Urban,West Bengal,India",
+        "region": "West Bengal",
+        "country": "India",
+        "countryCode": "in"
+    },
+    {
+        "id": 9222937,
+        "name": "Jammu and Kashmir Urban",
+        "canonical": "Jammu and Kashmir Urban,Jammu and Kashmir,India",
+        "region": "Jammu and Kashmir",
+        "country": "India",
+        "countryCode": "in"
+    },
+    {
+        "id": 9222938,
+        "name": "India Urban",
+        "canonical": "India Urban,India",
+        "region": "",
+        "country": "India",
+        "countryCode": "in"
+    },
+    {
         "id": 20973,
         "name": "Taymyr Autonomous Okrug",
         "canonical": "Taymyr Autonomous Okrug,Russia",
