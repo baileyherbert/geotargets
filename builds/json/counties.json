@@ -992,22 +992,6 @@
         "countryCode": "no"
     },
     {
-        "id": 20774,
-        "name": "Hedmark",
-        "canonical": "Hedmark,Innlandet,Norway",
-        "region": "Innlandet",
-        "country": "Norway",
-        "countryCode": "no"
-    },
-    {
-        "id": 20775,
-        "name": "Oppland",
-        "canonical": "Oppland,Norway",
-        "region": "",
-        "country": "Norway",
-        "countryCode": "no"
-    },
-    {
         "id": 20776,
         "name": "Buskerud",
         "canonical": "Buskerud,Norway",
@@ -1032,22 +1016,6 @@
         "countryCode": "no"
     },
     {
-        "id": 20779,
-        "name": "Aust-Agder",
-        "canonical": "Aust-Agder,Norway",
-        "region": "",
-        "country": "Norway",
-        "countryCode": "no"
-    },
-    {
-        "id": 20780,
-        "name": "Vest-Agder",
-        "canonical": "Vest-Agder,Norway",
-        "region": "",
-        "country": "Norway",
-        "countryCode": "no"
-    },
-    {
         "id": 20781,
         "name": "Rogaland",
         "canonical": "Rogaland,Norway",
@@ -1056,42 +1024,10 @@
         "countryCode": "no"
     },
     {
-        "id": 20782,
-        "name": "Hordaland",
-        "canonical": "Hordaland,Vestland,Norway",
-        "region": "Vestland",
-        "country": "Norway",
-        "countryCode": "no"
-    },
-    {
-        "id": 20783,
-        "name": "Sogn og Fjordane",
-        "canonical": "Sogn og Fjordane,Vestland,Norway",
-        "region": "Vestland",
-        "country": "Norway",
-        "countryCode": "no"
-    },
-    {
         "id": 20784,
         "name": "More og Romsdal",
         "canonical": "More og Romsdal,Norway",
         "region": "",
-        "country": "Norway",
-        "countryCode": "no"
-    },
-    {
-        "id": 20785,
-        "name": "Sor-Trondelag",
-        "canonical": "Sor-Trondelag,Trondelag,Norway",
-        "region": "Trondelag",
-        "country": "Norway",
-        "countryCode": "no"
-    },
-    {
-        "id": 20786,
-        "name": "Nord-Trondelag",
-        "canonical": "Nord-Trondelag,Trondelag,Norway",
-        "region": "Trondelag",
         "country": "Norway",
         "countryCode": "no"
     },
@@ -27804,6 +27740,70 @@
         "name": "Troms og Finnmark fylke",
         "canonical": "Troms og Finnmark fylke,Norway",
         "region": "",
+        "country": "Norway",
+        "countryCode": "no"
+    },
+    {
+        "id": 20774,
+        "name": "Hedmark",
+        "canonical": "Hedmark,Innlandet,Norway",
+        "region": "Innlandet",
+        "country": "Norway",
+        "countryCode": "no"
+    },
+    {
+        "id": 20775,
+        "name": "Oppland",
+        "canonical": "Oppland,Norway",
+        "region": "",
+        "country": "Norway",
+        "countryCode": "no"
+    },
+    {
+        "id": 20779,
+        "name": "Aust-Agder",
+        "canonical": "Aust-Agder,Norway",
+        "region": "",
+        "country": "Norway",
+        "countryCode": "no"
+    },
+    {
+        "id": 20780,
+        "name": "Vest-Agder",
+        "canonical": "Vest-Agder,Norway",
+        "region": "",
+        "country": "Norway",
+        "countryCode": "no"
+    },
+    {
+        "id": 20782,
+        "name": "Hordaland",
+        "canonical": "Hordaland,Vestland,Norway",
+        "region": "Vestland",
+        "country": "Norway",
+        "countryCode": "no"
+    },
+    {
+        "id": 20783,
+        "name": "Sogn og Fjordane",
+        "canonical": "Sogn og Fjordane,Vestland,Norway",
+        "region": "Vestland",
+        "country": "Norway",
+        "countryCode": "no"
+    },
+    {
+        "id": 20785,
+        "name": "Sor-Trondelag",
+        "canonical": "Sor-Trondelag,Trondelag,Norway",
+        "region": "Trondelag",
+        "country": "Norway",
+        "countryCode": "no"
+    },
+    {
+        "id": 20786,
+        "name": "Nord-Trondelag",
+        "canonical": "Nord-Trondelag,Trondelag,Norway",
+        "region": "Trondelag",
         "country": "Norway",
         "countryCode": "no"
     }
