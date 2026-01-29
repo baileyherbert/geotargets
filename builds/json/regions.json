@@ -3374,8 +3374,8 @@
     },
     {
         "id": 9061350,
-        "name": "MIMAROPA",
-        "canonical": "MIMAROPA,Philippines",
+        "name": "Mimaropa",
+        "canonical": "Mimaropa,Philippines",
         "region": "",
         "country": "Philippines",
         "countryCode": "ph"
@@ -6798,8 +6798,8 @@
     },
     {
         "id": 9075908,
-        "name": "Banaadir",
-        "canonical": "Banaadir,Somalia",
+        "name": "Banadir",
+        "canonical": "Banadir,Somalia",
         "region": "",
         "country": "Somalia",
         "countryCode": "so"
@@ -6846,8 +6846,8 @@
     },
     {
         "id": 9075914,
-        "name": "Nugal",
-        "canonical": "Nugal,Somalia",
+        "name": "Nugaal",
+        "canonical": "Nugaal,Somalia",
         "region": "",
         "country": "Somalia",
         "countryCode": "so"
@@ -7579,6 +7579,14 @@
         "region": "",
         "country": "India",
         "countryCode": "in"
+    },
+    {
+        "id": 9222939,
+        "name": "Indonesia Urban",
+        "canonical": "Indonesia Urban,Indonesia",
+        "region": "",
+        "country": "Indonesia",
+        "countryCode": "id"
     },
     {
         "id": 20973,
