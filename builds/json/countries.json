@@ -1323,6 +1323,13 @@
         "countryCode": "ch"
     },
     {
+        "id": 2760,
+        "name": "Syria",
+        "canonical": "Syria",
+        "country": "Syria",
+        "countryCode": "sy"
+    },
+    {
         "id": 2762,
         "name": "Tajikistan",
         "canonical": "Tajikistan",
