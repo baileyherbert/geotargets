@@ -27688,6 +27688,1846 @@
         "countryCode": "gb"
     },
     {
+        "id": 9223363,
+        "name": "Lucenec District",
+        "canonical": "Lucenec District,Banska Bystrica Region,Slovakia",
+        "region": "Banska Bystrica Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9223562,
+        "name": "Highland Council",
+        "canonical": "Highland Council,Scotland,United Kingdom",
+        "region": "Scotland",
+        "country": "United Kingdom",
+        "countryCode": "gb"
+    },
+    {
+        "id": 9223603,
+        "name": "Margibi",
+        "canonical": "Margibi,Liberia",
+        "region": "",
+        "country": "Liberia",
+        "countryCode": "lr"
+    },
+    {
+        "id": 9223629,
+        "name": "Kosice IV",
+        "canonical": "Kosice IV,Kosice Region,Slovakia",
+        "region": "Kosice Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9223661,
+        "name": "Ampachi District",
+        "canonical": "Ampachi District,Gifu,Japan",
+        "region": "Gifu",
+        "country": "Japan",
+        "countryCode": "jp"
+    },
+    {
+        "id": 9223912,
+        "name": "Dunajska Streda District",
+        "canonical": "Dunajska Streda District,Trnava Region,Slovakia",
+        "region": "Trnava Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9224252,
+        "name": "Semboku District",
+        "canonical": "Semboku District,Osaka,Japan",
+        "region": "Osaka",
+        "country": "Japan",
+        "countryCode": "jp"
+    },
+    {
+        "id": 9224430,
+        "name": "Bratislava III",
+        "canonical": "Bratislava III,Bratislava Region,Slovakia",
+        "region": "Bratislava Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9224470,
+        "name": "Bratislava I",
+        "canonical": "Bratislava I,Bratislava Region,Slovakia",
+        "region": "Bratislava Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9224484,
+        "name": "Ibo District",
+        "canonical": "Ibo District,Hyogo,Japan",
+        "region": "Hyogo",
+        "country": "Japan",
+        "countryCode": "jp"
+    },
+    {
+        "id": 9224815,
+        "name": "Mukono",
+        "canonical": "Mukono,Central Region,Uganda",
+        "region": "Central Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9224917,
+        "name": "Buvuma",
+        "canonical": "Buvuma,Central Region,Uganda",
+        "region": "Central Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9225135,
+        "name": "Yirol West",
+        "canonical": "Yirol West,Lakes,South Sudan",
+        "region": "Lakes",
+        "country": "South Sudan",
+        "countryCode": "ss"
+    },
+    {
+        "id": 9225560,
+        "name": "Pezinok District",
+        "canonical": "Pezinok District,Bratislava Region,Slovakia",
+        "region": "Bratislava Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9225949,
+        "name": "Ndorwa",
+        "canonical": "Ndorwa,Western Region,Uganda",
+        "region": "Western Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9225959,
+        "name": "Velky Krtis District",
+        "canonical": "Velky Krtis District,Banska Bystrica Region,Slovakia",
+        "region": "Banska Bystrica Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9226344,
+        "name": "Levoca District",
+        "canonical": "Levoca District,Presov Region,Slovakia",
+        "region": "Presov Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9226688,
+        "name": "Aki District",
+        "canonical": "Aki District,Hiroshima,Japan",
+        "region": "Hiroshima",
+        "country": "Japan",
+        "countryCode": "jp"
+    },
+    {
+        "id": 9226715,
+        "name": "Lofa",
+        "canonical": "Lofa,Liberia",
+        "region": "",
+        "country": "Liberia",
+        "countryCode": "lr"
+    },
+    {
+        "id": 9227269,
+        "name": "Kumi",
+        "canonical": "Kumi,Eastern Region,Uganda",
+        "region": "Eastern Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9227292,
+        "name": "Puchov District",
+        "canonical": "Puchov District,Trencin Region,Slovakia",
+        "region": "Trencin Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9227337,
+        "name": "Ruhaama",
+        "canonical": "Ruhaama,Western Region,Uganda",
+        "region": "Western Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9227562,
+        "name": "Cuenca de Pamplona",
+        "canonical": "Cuenca de Pamplona,Navarre,Spain",
+        "region": "Navarre",
+        "country": "Spain",
+        "countryCode": "es"
+    },
+    {
+        "id": 9227952,
+        "name": "Southend-on-Sea",
+        "canonical": "Southend-on-Sea,Southend-on-Sea,England,United Kingdom",
+        "region": "Southend-on-Sea,England",
+        "country": "United Kingdom",
+        "countryCode": "gb"
+    },
+    {
+        "id": 9227985,
+        "name": "Kuse District",
+        "canonical": "Kuse District,Kyoto,Japan",
+        "region": "Kyoto",
+        "country": "Japan",
+        "countryCode": "jp"
+    },
+    {
+        "id": 9228789,
+        "name": "Kilkenny",
+        "canonical": "Kilkenny,County Kilkenny,Ireland",
+        "region": "County Kilkenny",
+        "country": "Ireland",
+        "countryCode": "ie"
+    },
+    {
+        "id": 9228868,
+        "name": "Buzaaya",
+        "canonical": "Buzaaya,Eastern Region,Uganda",
+        "region": "Eastern Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9229012,
+        "name": "Sobrance District",
+        "canonical": "Sobrance District,Kosice Region,Slovakia",
+        "region": "Kosice Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9229112,
+        "name": "Kagoma",
+        "canonical": "Kagoma,Eastern Region,Uganda",
+        "region": "Eastern Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9229180,
+        "name": "Ziar nad Hronom District",
+        "canonical": "Ziar nad Hronom District,Banska Bystrica Region,Slovakia",
+        "region": "Banska Bystrica Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9229639,
+        "name": "Tualauta County",
+        "canonical": "Tualauta County,Western District,American Samoa",
+        "region": "Western District",
+        "country": "American Samoa",
+        "countryCode": "as"
+    },
+    {
+        "id": 9229720,
+        "name": "West Budama (Kisolo)",
+        "canonical": "West Budama (Kisolo),Eastern Region,Uganda",
+        "region": "Eastern Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9229850,
+        "name": "Kerry",
+        "canonical": "Kerry,County Kerry,Ireland",
+        "region": "County Kerry",
+        "country": "Ireland",
+        "countryCode": "ie"
+    },
+    {
+        "id": 9229986,
+        "name": "Argyll and Bute Council",
+        "canonical": "Argyll and Bute Council,Scotland,United Kingdom",
+        "region": "Scotland",
+        "country": "United Kingdom",
+        "countryCode": "gb"
+    },
+    {
+        "id": 9230378,
+        "name": "Bardejov District",
+        "canonical": "Bardejov District,Presov Region,Slovakia",
+        "region": "Presov Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9230608,
+        "name": "Kosice-okolie District",
+        "canonical": "Kosice-okolie District,Kosice Region,Slovakia",
+        "region": "Kosice Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9230938,
+        "name": "Zlate Moravce District",
+        "canonical": "Zlate Moravce District,Nitra Region,Slovakia",
+        "region": "Nitra Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9231018,
+        "name": "Rimavska Sobota District",
+        "canonical": "Rimavska Sobota District,Banska Bystrica Region,Slovakia",
+        "region": "Banska Bystrica Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9231131,
+        "name": "Detva District",
+        "canonical": "Detva District,Banska Bystrica Region,Slovakia",
+        "region": "Banska Bystrica Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9231333,
+        "name": "Nyu District",
+        "canonical": "Nyu District,Fukui,Japan",
+        "region": "Fukui",
+        "country": "Japan",
+        "countryCode": "jp"
+    },
+    {
+        "id": 9231592,
+        "name": "Warsaw",
+        "canonical": "Warsaw,Masovian Voivodeship,Poland",
+        "region": "Masovian Voivodeship",
+        "country": "Poland",
+        "countryCode": "pl"
+    },
+    {
+        "id": 9231686,
+        "name": "Portsmouth",
+        "canonical": "Portsmouth,Portsmouth,England,United Kingdom",
+        "region": "Portsmouth,England",
+        "country": "United Kingdom",
+        "countryCode": "gb"
+    },
+    {
+        "id": 9231831,
+        "name": "Kooki",
+        "canonical": "Kooki,Central Region,Uganda",
+        "region": "Central Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9232431,
+        "name": "Banska Stiavnica District",
+        "canonical": "Banska Stiavnica District,Banska Bystrica Region,Slovakia",
+        "region": "Banska Bystrica Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9232675,
+        "name": "Prievidza District",
+        "canonical": "Prievidza District,Trencin Region,Slovakia",
+        "region": "Trencin Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9232697,
+        "name": "Renk",
+        "canonical": "Renk,Upper Nile,South Sudan",
+        "region": "Upper Nile",
+        "country": "South Sudan",
+        "countryCode": "ss"
+    },
+    {
+        "id": 9232800,
+        "name": "Bwamba",
+        "canonical": "Bwamba,Western Region,Uganda",
+        "region": "Western Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9233094,
+        "name": "Brezno District",
+        "canonical": "Brezno District,Banska Bystrica Region,Slovakia",
+        "region": "Banska Bystrica Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9233425,
+        "name": "Poltar District",
+        "canonical": "Poltar District,Banska Bystrica Region,Slovakia",
+        "region": "Banska Bystrica Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9233491,
+        "name": "Kosice III",
+        "canonical": "Kosice III,Kosice Region,Slovakia",
+        "region": "Kosice Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9233841,
+        "name": "Zilina District",
+        "canonical": "Zilina District,Zilina Region,Slovakia",
+        "region": "Zilina Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9233996,
+        "name": "Serrania de Ronda",
+        "canonical": "Serrania de Ronda,Andalusia,Spain",
+        "region": "Andalusia",
+        "country": "Spain",
+        "countryCode": "es"
+    },
+    {
+        "id": 9234538,
+        "name": "Masindi",
+        "canonical": "Masindi,Western Region,Uganda",
+        "region": "Western Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9234606,
+        "name": "Bulambuli",
+        "canonical": "Bulambuli,Eastern Region,Uganda",
+        "region": "Eastern Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9235106,
+        "name": "Maxorata",
+        "canonical": "Maxorata,Canary Islands,Spain",
+        "region": "Canary Islands",
+        "country": "Spain",
+        "countryCode": "es"
+    },
+    {
+        "id": 9235129,
+        "name": "Kioga",
+        "canonical": "Kioga,Northern Region,Uganda",
+        "region": "Northern Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9235311,
+        "name": "Ama District",
+        "canonical": "Ama District,Aichi,Japan",
+        "region": "Aichi",
+        "country": "Japan",
+        "countryCode": "jp"
+    },
+    {
+        "id": 9235317,
+        "name": "O Morrazo",
+        "canonical": "O Morrazo,Galicia,Spain",
+        "region": "Galicia",
+        "country": "Spain",
+        "countryCode": "es"
+    },
+    {
+        "id": 9235683,
+        "name": "Kushiro District",
+        "canonical": "Kushiro District,Hokkaido,Japan",
+        "region": "Hokkaido",
+        "country": "Japan",
+        "countryCode": "jp"
+    },
+    {
+        "id": 9235695,
+        "name": "Kezmarok District",
+        "canonical": "Kezmarok District,Presov Region,Slovakia",
+        "region": "Presov Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9235851,
+        "name": "Grand Bassa",
+        "canonical": "Grand Bassa,Liberia",
+        "region": "",
+        "country": "Liberia",
+        "countryCode": "lr"
+    },
+    {
+        "id": 9236087,
+        "name": "Malacky District",
+        "canonical": "Malacky District,Bratislava Region,Slovakia",
+        "region": "Bratislava Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9236165,
+        "name": "Terego",
+        "canonical": "Terego,Northern Region,Uganda",
+        "region": "Northern Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9236271,
+        "name": "Bugweri",
+        "canonical": "Bugweri,Eastern Region,Uganda",
+        "region": "Eastern Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9236302,
+        "name": "Magwi",
+        "canonical": "Magwi,Eastern Equatoria,South Sudan",
+        "region": "Eastern Equatoria",
+        "country": "South Sudan",
+        "countryCode": "ss"
+    },
+    {
+        "id": 9236368,
+        "name": "Samia-Bugwe",
+        "canonical": "Samia-Bugwe,Eastern Region,Uganda",
+        "region": "Eastern Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9236483,
+        "name": "Juba",
+        "canonical": "Juba,Central Equatoria,South Sudan",
+        "region": "Central Equatoria",
+        "country": "South Sudan",
+        "countryCode": "ss"
+    },
+    {
+        "id": 9236609,
+        "name": "Nwoya",
+        "canonical": "Nwoya,Northern Region,Uganda",
+        "region": "Northern Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9236663,
+        "name": "Kibanda",
+        "canonical": "Kibanda,Western Region,Uganda",
+        "region": "Western Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9236786,
+        "name": "Stropkov District",
+        "canonical": "Stropkov District,Presov Region,Slovakia",
+        "region": "Presov Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9236933,
+        "name": "Nimba",
+        "canonical": "Nimba,Liberia",
+        "region": "",
+        "country": "Liberia",
+        "countryCode": "lr"
+    },
+    {
+        "id": 9236974,
+        "name": "Nyabushozi",
+        "canonical": "Nyabushozi,Western Region,Uganda",
+        "region": "Western Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9237419,
+        "name": "Mayo",
+        "canonical": "Mayo,County Mayo,Ireland",
+        "region": "County Mayo",
+        "country": "Ireland",
+        "countryCode": "ie"
+    },
+    {
+        "id": 9237487,
+        "name": "Nukata District",
+        "canonical": "Nukata District,Aichi,Japan",
+        "region": "Aichi",
+        "country": "Japan",
+        "countryCode": "jp"
+    },
+    {
+        "id": 9237646,
+        "name": "Nansana",
+        "canonical": "Nansana,Central Region,Uganda",
+        "region": "Central Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9238121,
+        "name": "Wexford",
+        "canonical": "Wexford,County Wexford,Ireland",
+        "region": "County Wexford",
+        "country": "Ireland",
+        "countryCode": "ie"
+    },
+    {
+        "id": 9238214,
+        "name": "Bukomansimbi",
+        "canonical": "Bukomansimbi,Central Region,Uganda",
+        "region": "Central Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9238228,
+        "name": "Hlohovec District",
+        "canonical": "Hlohovec District,Trnava Region,Slovakia",
+        "region": "Trnava Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9238259,
+        "name": "Baix Emporda",
+        "canonical": "Baix Emporda,Catalonia,Spain",
+        "region": "Catalonia",
+        "country": "Spain",
+        "countryCode": "es"
+    },
+    {
+        "id": 9238293,
+        "name": "Mie District",
+        "canonical": "Mie District,Mie,Japan",
+        "region": "Mie",
+        "country": "Japan",
+        "countryCode": "jp"
+    },
+    {
+        "id": 9238313,
+        "name": "Northumberland County",
+        "canonical": "Northumberland County,Ontario,Canada",
+        "region": "Ontario",
+        "country": "Canada",
+        "countryCode": "ca"
+    },
+    {
+        "id": 9238369,
+        "name": "Clare",
+        "canonical": "Clare,County Clare,Ireland",
+        "region": "County Clare",
+        "country": "Ireland",
+        "countryCode": "ie"
+    },
+    {
+        "id": 9238648,
+        "name": "Buliisa",
+        "canonical": "Buliisa,Western Region,Uganda",
+        "region": "Western Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9238727,
+        "name": "Dolny Kubin District",
+        "canonical": "Dolny Kubin District,Zilina Region,Slovakia",
+        "region": "Zilina Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9238842,
+        "name": "Senica District",
+        "canonical": "Senica District,Trnava Region,Slovakia",
+        "region": "Trnava Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9238896,
+        "name": "Trencin District",
+        "canonical": "Trencin District,Trencin Region,Slovakia",
+        "region": "Trencin Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9239009,
+        "name": "Kyadondo",
+        "canonical": "Kyadondo,Central Region,Uganda",
+        "region": "Central Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9239211,
+        "name": "Bungokho",
+        "canonical": "Bungokho,Eastern Region,Uganda",
+        "region": "Eastern Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9239224,
+        "name": "Ma'oputasi County",
+        "canonical": "Ma'oputasi County,Eastern District,American Samoa",
+        "region": "Eastern District",
+        "country": "American Samoa",
+        "countryCode": "as"
+    },
+    {
+        "id": 9239322,
+        "name": "Kaberamaido",
+        "canonical": "Kaberamaido,Eastern Region,Uganda",
+        "region": "Eastern Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9239458,
+        "name": "Myjava District",
+        "canonical": "Myjava District,Trencin Region,Slovakia",
+        "region": "Trencin Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9239546,
+        "name": "Bratislava II",
+        "canonical": "Bratislava II,Bratislava Region,Slovakia",
+        "region": "Bratislava Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9239609,
+        "name": "Nomi District",
+        "canonical": "Nomi District,Ishikawa,Japan",
+        "region": "Ishikawa",
+        "country": "Japan",
+        "countryCode": "jp"
+    },
+    {
+        "id": 9239820,
+        "name": "York",
+        "canonical": "York,York,England,United Kingdom",
+        "region": "York,England",
+        "country": "United Kingdom",
+        "countryCode": "gb"
+    },
+    {
+        "id": 9239933,
+        "name": "Simcoe County",
+        "canonical": "Simcoe County,Ontario,Canada",
+        "region": "Ontario",
+        "country": "Canada",
+        "countryCode": "ca"
+    },
+    {
+        "id": 9239959,
+        "name": "Oda District",
+        "canonical": "Oda District,Okayama,Japan",
+        "region": "Okayama",
+        "country": "Japan",
+        "countryCode": "jp"
+    },
+    {
+        "id": 9240005,
+        "name": "Topolcany District",
+        "canonical": "Topolcany District,Nitra Region,Slovakia",
+        "region": "Nitra Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9240051,
+        "name": "Vranov nad Toplou District",
+        "canonical": "Vranov nad Toplou District,Presov Region,Slovakia",
+        "region": "Presov Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9240198,
+        "name": "Snina District",
+        "canonical": "Snina District,Presov Region,Slovakia",
+        "region": "Presov Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9240207,
+        "name": "Yuki District",
+        "canonical": "Yuki District,Ibaraki,Japan",
+        "region": "Ibaraki",
+        "country": "Japan",
+        "countryCode": "jp"
+    },
+    {
+        "id": 9240319,
+        "name": "Darlington",
+        "canonical": "Darlington,England,United Kingdom",
+        "region": "England",
+        "country": "United Kingdom",
+        "countryCode": "gb"
+    },
+    {
+        "id": 9240490,
+        "name": "Lamwo",
+        "canonical": "Lamwo,Northern Region,Uganda",
+        "region": "Northern Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9240496,
+        "name": "Michalovce District",
+        "canonical": "Michalovce District,Kosice Region,Slovakia",
+        "region": "Kosice Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9240726,
+        "name": "Wicklow",
+        "canonical": "Wicklow,County Wicklow,Ireland",
+        "region": "County Wicklow",
+        "country": "Ireland",
+        "countryCode": "ie"
+    },
+    {
+        "id": 9240811,
+        "name": "Alpujarra Granadina",
+        "canonical": "Alpujarra Granadina,Andalusia,Spain",
+        "region": "Andalusia",
+        "country": "Spain",
+        "countryCode": "es"
+    },
+    {
+        "id": 9240833,
+        "name": "Namestovo District",
+        "canonical": "Namestovo District,Zilina Region,Slovakia",
+        "region": "Zilina Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9240961,
+        "name": "Kysucke Nove Mesto District",
+        "canonical": "Kysucke Nove Mesto District,Zilina Region,Slovakia",
+        "region": "Zilina Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9240983,
+        "name": "Bubulo",
+        "canonical": "Bubulo,Eastern Region,Uganda",
+        "region": "Eastern Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9241123,
+        "name": "Gudar-Javalambre",
+        "canonical": "Gudar-Javalambre,Aragon,Spain",
+        "region": "Aragon",
+        "country": "Spain",
+        "countryCode": "es"
+    },
+    {
+        "id": 9241128,
+        "name": "Trebisov District",
+        "canonical": "Trebisov District,Kosice Region,Slovakia",
+        "region": "Kosice Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9241241,
+        "name": "Bunyaruguru",
+        "canonical": "Bunyaruguru,Western Region,Uganda",
+        "region": "Western Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9241322,
+        "name": "Trnava District",
+        "canonical": "Trnava District,Trnava Region,Slovakia",
+        "region": "Trnava Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9241474,
+        "name": "Grey County",
+        "canonical": "Grey County,Ontario,Canada",
+        "region": "Ontario",
+        "country": "Canada",
+        "countryCode": "ca"
+    },
+    {
+        "id": 9241607,
+        "name": "Southampton",
+        "canonical": "Southampton,Southampton,England,United Kingdom",
+        "region": "Southampton,England",
+        "country": "United Kingdom",
+        "countryCode": "gb"
+    },
+    {
+        "id": 9241706,
+        "name": "Busongora",
+        "canonical": "Busongora,Western Region,Uganda",
+        "region": "Western Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9241881,
+        "name": "Budadiri",
+        "canonical": "Budadiri,Eastern Region,Uganda",
+        "region": "Eastern Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9241962,
+        "name": "East Sussex",
+        "canonical": "East Sussex,East Sussex,England,United Kingdom",
+        "region": "East Sussex,England",
+        "country": "United Kingdom",
+        "countryCode": "gb"
+    },
+    {
+        "id": 9242138,
+        "name": "Banovce nad Bebravou District",
+        "canonical": "Banovce nad Bebravou District,Trencin Region,Slovakia",
+        "region": "Trencin Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9242282,
+        "name": "La Alcarria",
+        "canonical": "La Alcarria,Castile-La Mancha,Spain",
+        "region": "Castile-La Mancha",
+        "country": "Spain",
+        "countryCode": "es"
+    },
+    {
+        "id": 9242508,
+        "name": "Kasuya District",
+        "canonical": "Kasuya District,Fukuoka,Japan",
+        "region": "Fukuoka",
+        "country": "Japan",
+        "countryCode": "jp"
+    },
+    {
+        "id": 9242643,
+        "name": "Sinoe",
+        "canonical": "Sinoe,Liberia",
+        "region": "",
+        "country": "Liberia",
+        "countryCode": "lr"
+    },
+    {
+        "id": 9243002,
+        "name": "Partizanske District",
+        "canonical": "Partizanske District,Trencin Region,Slovakia",
+        "region": "Trencin Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9243003,
+        "name": "Kibale",
+        "canonical": "Kibale,Western Region,Uganda",
+        "region": "Western Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9243153,
+        "name": "Bytca District",
+        "canonical": "Bytca District,Zilina Region,Slovakia",
+        "region": "Zilina Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9243484,
+        "name": "Kajara",
+        "canonical": "Kajara,Western Region,Uganda",
+        "region": "Western Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9243750,
+        "name": "Lianjiang County",
+        "canonical": "Lianjiang County,Fujian,China",
+        "region": "Fujian",
+        "country": "China",
+        "countryCode": "cn"
+    },
+    {
+        "id": 9243816,
+        "name": "Liptovsky Mikulas District",
+        "canonical": "Liptovsky Mikulas District,Zilina Region,Slovakia",
+        "region": "Zilina Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9243828,
+        "name": "Rubkona",
+        "canonical": "Rubkona,Unity,South Sudan",
+        "region": "Unity",
+        "country": "South Sudan",
+        "countryCode": "ss"
+    },
+    {
+        "id": 9243906,
+        "name": "Medzilaborce District",
+        "canonical": "Medzilaborce District,Presov Region,Slovakia",
+        "region": "Presov Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9244018,
+        "name": "Kasambya",
+        "canonical": "Kasambya,Central Region,Uganda",
+        "region": "Central Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9244038,
+        "name": "Comunidad de Calatayud",
+        "canonical": "Comunidad de Calatayud,Aragon,Spain",
+        "region": "Aragon",
+        "country": "Spain",
+        "countryCode": "es"
+    },
+    {
+        "id": 9244187,
+        "name": "Bugabula",
+        "canonical": "Bugabula,Eastern Region,Uganda",
+        "region": "Eastern Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9244536,
+        "name": "Malakal",
+        "canonical": "Malakal,Upper Nile,South Sudan",
+        "region": "Upper Nile",
+        "country": "South Sudan",
+        "countryCode": "ss"
+    },
+    {
+        "id": 9244596,
+        "name": "Sabinov District",
+        "canonical": "Sabinov District,Presov Region,Slovakia",
+        "region": "Presov Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9244727,
+        "name": "Revuca District",
+        "canonical": "Revuca District,Banska Bystrica Region,Slovakia",
+        "region": "Banska Bystrica Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9244958,
+        "name": "Kazo",
+        "canonical": "Kazo,Western Region,Uganda",
+        "region": "Western Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9245031,
+        "name": "Turcianske Teplice District",
+        "canonical": "Turcianske Teplice District,Zilina Region,Slovakia",
+        "region": "Zilina Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9245164,
+        "name": "Agago",
+        "canonical": "Agago,Northern Region,Uganda",
+        "region": "Northern Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9245287,
+        "name": "Maruzi",
+        "canonical": "Maruzi,Northern Region,Uganda",
+        "region": "Northern Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9245320,
+        "name": "Tashkurgan",
+        "canonical": "Tashkurgan,Xinjiang,China",
+        "region": "Xinjiang",
+        "country": "China",
+        "countryCode": "cn"
+    },
+    {
+        "id": 9245481,
+        "name": "Grand Gedeh",
+        "canonical": "Grand Gedeh,Liberia",
+        "region": "",
+        "country": "Liberia",
+        "countryCode": "lr"
+    },
+    {
+        "id": 9245727,
+        "name": "Aweil West",
+        "canonical": "Aweil West,Northern Bahr el Ghazal,South Sudan",
+        "region": "Northern Bahr el Ghazal",
+        "country": "South Sudan",
+        "countryCode": "ss"
+    },
+    {
+        "id": 9246345,
+        "name": "Bratislava IV",
+        "canonical": "Bratislava IV,Bratislava Region,Slovakia",
+        "region": "Bratislava Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9246626,
+        "name": "Buyaga",
+        "canonical": "Buyaga,Western Region,Uganda",
+        "region": "Western Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9247040,
+        "name": "Lincolnshire",
+        "canonical": "Lincolnshire,Lincolnshire,England,United Kingdom",
+        "region": "Lincolnshire,England",
+        "country": "United Kingdom",
+        "countryCode": "gb"
+    },
+    {
+        "id": 9247137,
+        "name": "Iyo District",
+        "canonical": "Iyo District,Ehime,Japan",
+        "region": "Ehime",
+        "country": "Japan",
+        "countryCode": "jp"
+    },
+    {
+        "id": 9247330,
+        "name": "Aswa",
+        "canonical": "Aswa,Northern Region,Uganda",
+        "region": "Northern Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9247372,
+        "name": "Poprad District",
+        "canonical": "Poprad District,Presov Region,Slovakia",
+        "region": "Presov Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9247491,
+        "name": "Niwa District",
+        "canonical": "Niwa District,Aichi,Japan",
+        "region": "Aichi",
+        "country": "Japan",
+        "countryCode": "jp"
+    },
+    {
+        "id": 9247583,
+        "name": "Donegal",
+        "canonical": "Donegal,County Donegal,Ireland",
+        "region": "County Donegal",
+        "country": "Ireland",
+        "countryCode": "ie"
+    },
+    {
+        "id": 9247605,
+        "name": "Komarno District",
+        "canonical": "Komarno District,Nitra Region,Slovakia",
+        "region": "Nitra Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9247622,
+        "name": "Ora District",
+        "canonical": "Ora District,Gunma,Japan",
+        "region": "Gunma",
+        "country": "Japan",
+        "countryCode": "jp"
+    },
+    {
+        "id": 9247623,
+        "name": "Ruzomberok District",
+        "canonical": "Ruzomberok District,Zilina Region,Slovakia",
+        "region": "Zilina Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9247776,
+        "name": "Skalica District",
+        "canonical": "Skalica District,Trnava Region,Slovakia",
+        "region": "Trnava Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9247784,
+        "name": "Nove Zamky District",
+        "canonical": "Nove Zamky District,Nitra Region,Slovakia",
+        "region": "Nitra Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9247786,
+        "name": "Rukungiri",
+        "canonical": "Rukungiri,Western Region,Uganda",
+        "region": "Western Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9248180,
+        "name": "Buikwe",
+        "canonical": "Buikwe,Central Region,Uganda",
+        "region": "Central Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9248346,
+        "name": "Kitasoma District",
+        "canonical": "Kitasoma District,Ibaraki,Japan",
+        "region": "Ibaraki",
+        "country": "Japan",
+        "countryCode": "jp"
+    },
+    {
+        "id": 9248374,
+        "name": "Piestany District",
+        "canonical": "Piestany District,Trnava Region,Slovakia",
+        "region": "Trnava Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9248569,
+        "name": "Naka District",
+        "canonical": "Naka District,Kanagawa,Japan",
+        "region": "Kanagawa",
+        "country": "Japan",
+        "countryCode": "jp"
+    },
+    {
+        "id": 9248836,
+        "name": "El Bierzo",
+        "canonical": "El Bierzo,Castile and Leon,Spain",
+        "region": "Castile and Leon",
+        "country": "Spain",
+        "countryCode": "es"
+    },
+    {
+        "id": 9249160,
+        "name": "Kalungu",
+        "canonical": "Kalungu,Central Region,Uganda",
+        "region": "Central Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9249255,
+        "name": "Sierra Norte",
+        "canonical": "Sierra Norte,Community of Madrid,Spain",
+        "region": "Community of Madrid",
+        "country": "Spain",
+        "countryCode": "es"
+    },
+    {
+        "id": 9249368,
+        "name": "Erute",
+        "canonical": "Erute,Northern Region,Uganda",
+        "region": "Northern Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9249480,
+        "name": "Kigulu",
+        "canonical": "Kigulu,Eastern Region,Uganda",
+        "region": "Eastern Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9249514,
+        "name": "Bamunanika",
+        "canonical": "Bamunanika,Central Region,Uganda",
+        "region": "Central Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9249573,
+        "name": "Roscommon",
+        "canonical": "Roscommon,County Roscommon,Ireland",
+        "region": "County Roscommon",
+        "country": "Ireland",
+        "countryCode": "ie"
+    },
+    {
+        "id": 9250083,
+        "name": "Roznava District",
+        "canonical": "Roznava District,Kosice Region,Slovakia",
+        "region": "Kosice Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9250301,
+        "name": "Buhaguzi",
+        "canonical": "Buhaguzi,Western Region,Uganda",
+        "region": "Western Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9250401,
+        "name": "Bugahya",
+        "canonical": "Bugahya,Western Region,Uganda",
+        "region": "Western Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9250406,
+        "name": "Minamisaitama District",
+        "canonical": "Minamisaitama District,Saitama,Japan",
+        "region": "Saitama",
+        "country": "Japan",
+        "countryCode": "jp"
+    },
+    {
+        "id": 9250771,
+        "name": "Bukooli",
+        "canonical": "Bukooli,Eastern Region,Uganda",
+        "region": "Eastern Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9251382,
+        "name": "Meath",
+        "canonical": "Meath,County Meath,Ireland",
+        "region": "County Meath",
+        "country": "Ireland",
+        "countryCode": "ie"
+    },
+    {
+        "id": 9251674,
+        "name": "Iki-Iki",
+        "canonical": "Iki-Iki,Eastern Region,Uganda",
+        "region": "Eastern Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9251961,
+        "name": "Derbyshire",
+        "canonical": "Derbyshire,Derbyshire,England,United Kingdom",
+        "region": "Derbyshire,England",
+        "country": "United Kingdom",
+        "countryCode": "gb"
+    },
+    {
+        "id": 9252105,
+        "name": "Bufumbira",
+        "canonical": "Bufumbira,Western Region,Uganda",
+        "region": "Western Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9252637,
+        "name": "Gelnica District",
+        "canonical": "Gelnica District,Kosice Region,Slovakia",
+        "region": "Kosice Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9252681,
+        "name": "Bong",
+        "canonical": "Bong,Liberia",
+        "region": "",
+        "country": "Liberia",
+        "countryCode": "lr"
+    },
+    {
+        "id": 9252907,
+        "name": "Presov District",
+        "canonical": "Presov District,Presov Region,Slovakia",
+        "region": "Presov Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9253112,
+        "name": "Dokolo",
+        "canonical": "Dokolo,Northern Region,Uganda",
+        "region": "Northern Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9253143,
+        "name": "East Moyo",
+        "canonical": "East Moyo,Northern Region,Uganda",
+        "region": "Northern Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9253216,
+        "name": "Hashima District",
+        "canonical": "Hashima District,Gifu,Japan",
+        "region": "Gifu",
+        "country": "Japan",
+        "countryCode": "jp"
+    },
+    {
+        "id": 9253388,
+        "name": "Bujenje",
+        "canonical": "Bujenje,Western Region,Uganda",
+        "region": "Western Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9253671,
+        "name": "Tierra de Campos",
+        "canonical": "Tierra de Campos,Castile and Leon,Spain",
+        "region": "Castile and Leon",
+        "country": "Spain",
+        "countryCode": "es"
+    },
+    {
+        "id": 9254174,
+        "name": "Bomi",
+        "canonical": "Bomi,Liberia",
+        "region": "",
+        "country": "Liberia",
+        "countryCode": "lr"
+    },
+    {
+        "id": 9254662,
+        "name": "Bratislava V",
+        "canonical": "Bratislava V,Bratislava Region,Slovakia",
+        "region": "Bratislava Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9254875,
+        "name": "Safor",
+        "canonical": "Safor,Valencian Community,Spain",
+        "region": "Valencian Community",
+        "country": "Spain",
+        "countryCode": "es"
+    },
+    {
+        "id": 9255101,
+        "name": "Stara Lubovna District",
+        "canonical": "Stara Lubovna District,Presov Region,Slovakia",
+        "region": "Presov Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9255296,
+        "name": "Omoro",
+        "canonical": "Omoro,Northern Region,Uganda",
+        "region": "Northern Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9255509,
+        "name": "Ribagorza",
+        "canonical": "Ribagorza,Aragon,Spain",
+        "region": "Aragon",
+        "country": "Spain",
+        "countryCode": "es"
+    },
+    {
+        "id": 9255674,
+        "name": "Melut",
+        "canonical": "Melut,Upper Nile,South Sudan",
+        "region": "Upper Nile",
+        "country": "South Sudan",
+        "countryCode": "ss"
+    },
+    {
+        "id": 9255683,
+        "name": "Maryland",
+        "canonical": "Maryland,Liberia",
+        "region": "",
+        "country": "Liberia",
+        "countryCode": "lr"
+    },
+    {
+        "id": 9255750,
+        "name": "Burahya",
+        "canonical": "Burahya,Western Region,Uganda",
+        "region": "Western Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9256604,
+        "name": "Siedlce",
+        "canonical": "Siedlce,Masovian Voivodeship,Poland",
+        "region": "Masovian Voivodeship",
+        "country": "Poland",
+        "countryCode": "pl"
+    },
+    {
+        "id": 9257050,
+        "name": "Kassanda",
+        "canonical": "Kassanda,Central Region,Uganda",
+        "region": "Central Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9257170,
+        "name": "Spisska Nova Ves District",
+        "canonical": "Spisska Nova Ves District,Kosice Region,Slovakia",
+        "region": "Kosice Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9257695,
+        "name": "Serere",
+        "canonical": "Serere,Eastern Region,Uganda",
+        "region": "Eastern Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9257960,
+        "name": "Katikamu",
+        "canonical": "Katikamu,Central Region,Uganda",
+        "region": "Central Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9257971,
+        "name": "Gerze County",
+        "canonical": "Gerze County,Tibet,China",
+        "region": "Tibet",
+        "country": "China",
+        "countryCode": "cn"
+    },
+    {
+        "id": 9258162,
+        "name": "Leasina County",
+        "canonical": "Leasina County,Western District,American Samoa",
+        "region": "Western District",
+        "country": "American Samoa",
+        "countryCode": "as"
+    },
+    {
+        "id": 9258682,
+        "name": "Busiro",
+        "canonical": "Busiro,Central Region,Uganda",
+        "region": "Central Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9258825,
+        "name": "Nove Mesto nad Vahom District",
+        "canonical": "Nove Mesto nad Vahom District,Trencin Region,Slovakia",
+        "region": "Trencin Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9258874,
+        "name": "Onga District",
+        "canonical": "Onga District,Fukuoka,Japan",
+        "region": "Fukuoka",
+        "country": "Japan",
+        "countryCode": "jp"
+    },
+    {
+        "id": 9258933,
+        "name": "Isingiro",
+        "canonical": "Isingiro,Western Region,Uganda",
+        "region": "Western Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9259318,
+        "name": "Busujju",
+        "canonical": "Busujju,Central Region,Uganda",
+        "region": "Central Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9259672,
+        "name": "Bugangaizi",
+        "canonical": "Bugangaizi,Western Region,Uganda",
+        "region": "Western Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9259697,
+        "name": "Martin District",
+        "canonical": "Martin District,Zilina Region,Slovakia",
+        "region": "Zilina Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9259980,
+        "name": "Mawokota",
+        "canonical": "Mawokota,Central Region,Uganda",
+        "region": "Central Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9260287,
+        "name": "Galanta District",
+        "canonical": "Galanta District,Trnava Region,Slovakia",
+        "region": "Trnava Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9260446,
+        "name": "Povazska Bystrica District",
+        "canonical": "Povazska Bystrica District,Trencin Region,Slovakia",
+        "region": "Trencin Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9260448,
+        "name": "Bukanga",
+        "canonical": "Bukanga,Western Region,Uganda",
+        "region": "Western Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9261257,
+        "name": "Staffordshire",
+        "canonical": "Staffordshire,Staffordshire,England,United Kingdom",
+        "region": "Staffordshire,England",
+        "country": "United Kingdom",
+        "countryCode": "gb"
+    },
+    {
+        "id": 9261314,
+        "name": "Sala District",
+        "canonical": "Sala District,Nitra Region,Slovakia",
+        "region": "Nitra Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9261481,
+        "name": "Bukonjo",
+        "canonical": "Bukonjo,Western Region,Uganda",
+        "region": "Western Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9261493,
+        "name": "Humenne District",
+        "canonical": "Humenne District,Presov Region,Slovakia",
+        "region": "Presov Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9261632,
+        "name": "Ilava District",
+        "canonical": "Ilava District,Trencin Region,Slovakia",
+        "region": "Trencin Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9261940,
+        "name": "Swansea",
+        "canonical": "Swansea,Wales,United Kingdom",
+        "region": "Wales",
+        "country": "United Kingdom",
+        "countryCode": "gb"
+    },
+    {
+        "id": 9262100,
+        "name": "Grand Cape Mount",
+        "canonical": "Grand Cape Mount,Liberia",
+        "region": "",
+        "country": "Liberia",
+        "countryCode": "lr"
+    },
+    {
+        "id": 9262102,
+        "name": "Krupina District",
+        "canonical": "Krupina District,Banska Bystrica Region,Slovakia",
+        "region": "Banska Bystrica Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9262156,
+        "name": "Kitamorokata District",
+        "canonical": "Kitamorokata District,Miyazaki,Japan",
+        "region": "Miyazaki",
+        "country": "Japan",
+        "countryCode": "jp"
+    },
+    {
+        "id": 9262344,
+        "name": "Nakifuma",
+        "canonical": "Nakifuma,Central Region,Uganda",
+        "region": "Central Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9262404,
+        "name": "Mizuma District",
+        "canonical": "Mizuma District,Fukuoka,Japan",
+        "region": "Fukuoka",
+        "country": "Japan",
+        "countryCode": "jp"
+    },
+    {
+        "id": 9262910,
+        "name": "Bulamogi",
+        "canonical": "Bulamogi,Eastern Region,Uganda",
+        "region": "Eastern Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9262983,
+        "name": "Nitra District",
+        "canonical": "Nitra District,Nitra Region,Slovakia",
+        "region": "Nitra Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9263518,
+        "name": "Kibuku",
+        "canonical": "Kibuku,Eastern Region,Uganda",
+        "region": "Eastern Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9263539,
+        "name": "Moyo",
+        "canonical": "Moyo,Northern Region,Uganda",
+        "region": "Northern Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9263583,
+        "name": "Bunyangabu",
+        "canonical": "Bunyangabu,Western Region,Uganda",
+        "region": "Western Region",
+        "country": "Uganda",
+        "countryCode": "ug"
+    },
+    {
+        "id": 9263818,
+        "name": "Gogrial West",
+        "canonical": "Gogrial West,Warrap,South Sudan",
+        "region": "Warrap",
+        "country": "South Sudan",
+        "countryCode": "ss"
+    },
+    {
+        "id": 9264003,
+        "name": "Banska Bystrica District",
+        "canonical": "Banska Bystrica District,Banska Bystrica Region,Slovakia",
+        "region": "Banska Bystrica Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
+        "id": 9264125,
+        "name": "Zarnovica District",
+        "canonical": "Zarnovica District,Banska Bystrica Region,Slovakia",
+        "region": "Banska Bystrica Region",
+        "country": "Slovakia",
+        "countryCode": "sk"
+    },
+    {
         "id": 9299019,
         "name": "Trondelag",
         "canonical": "Trondelag,Norway",

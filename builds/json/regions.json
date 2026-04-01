@@ -8,6 +8,14 @@
         "countryCode": "gr"
     },
     {
+        "id": 20078,
+        "name": "Federation of Bosnia and Herzegovina",
+        "canonical": "Federation of Bosnia and Herzegovina,Bosnia and Herzegovina",
+        "region": "",
+        "country": "Bosnia and Herzegovina",
+        "countryCode": "ba"
+    },
+    {
         "id": 20079,
         "name": "Republika Srpska",
         "canonical": "Republika Srpska,Bosnia and Herzegovina",
@@ -3743,8 +3751,8 @@
     {
         "id": 9067708,
         "name": "Cephalonia",
-        "canonical": "Cephalonia,Decentralized Administration of Peloponnese, Western Greece and the Ionian,Greece",
-        "region": "Decentralized Administration of Peloponnese, Western Greece and the Ionian",
+        "canonical": "Cephalonia,Cephalonia,Decentralized Administration of Peloponnese, Western Greece and the Ionian,Greece",
+        "region": "Cephalonia,Decentralized Administration of Peloponnese, Western Greece and the Ionian",
         "country": "Greece",
         "countryCode": "gr"
     },
@@ -7587,6 +7595,2094 @@
         "region": "",
         "country": "Indonesia",
         "countryCode": "id"
+    },
+    {
+        "id": 9223019,
+        "name": "Laayoune-Boujdour-Sakia El Hamra",
+        "canonical": "Laayoune-Boujdour-Sakia El Hamra,Western Sahara",
+        "region": "",
+        "country": "Western Sahara",
+        "countryCode": "eh"
+    },
+    {
+        "id": 9223116,
+        "name": "Galgaduud",
+        "canonical": "Galgaduud,Somalia",
+        "region": "",
+        "country": "Somalia",
+        "countryCode": "so"
+    },
+    {
+        "id": 9223134,
+        "name": "Golden Plains Shire",
+        "canonical": "Golden Plains Shire,Victoria,Australia",
+        "region": "Victoria",
+        "country": "Australia",
+        "countryCode": "au"
+    },
+    {
+        "id": 9223384,
+        "name": "Diana",
+        "canonical": "Diana,Madagascar",
+        "region": "",
+        "country": "Madagascar",
+        "countryCode": "mg"
+    },
+    {
+        "id": 9223924,
+        "name": "Wau/Bulolo Urban LLG",
+        "canonical": "Wau/Bulolo Urban LLG,Morobe Province,Papua New Guinea",
+        "region": "Morobe Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9224315,
+        "name": "Tadjourah",
+        "canonical": "Tadjourah,Djibouti",
+        "region": "",
+        "country": "Djibouti",
+        "countryCode": "dj"
+    },
+    {
+        "id": 9224319,
+        "name": "Central Athens Regional Unit",
+        "canonical": "Central Athens Regional Unit,Decentralized Administration of Attica,Greece",
+        "region": "Decentralized Administration of Attica",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 9224583,
+        "name": "East Attica Regional Unit",
+        "canonical": "East Attica Regional Unit,Decentralized Administration of Attica,Greece",
+        "region": "Decentralized Administration of Attica",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 9225111,
+        "name": "Alaotra-Mangoro",
+        "canonical": "Alaotra-Mangoro,Madagascar",
+        "region": "",
+        "country": "Madagascar",
+        "countryCode": "mg"
+    },
+    {
+        "id": 9225152,
+        "name": "Macedon Ranges Shire",
+        "canonical": "Macedon Ranges Shire,Victoria,Australia",
+        "region": "Victoria",
+        "country": "Australia",
+        "countryCode": "au"
+    },
+    {
+        "id": 9225328,
+        "name": "Wau Rural LLG",
+        "canonical": "Wau Rural LLG,Morobe Province,Papua New Guinea",
+        "region": "Morobe Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9225394,
+        "name": "Los Negros LLG",
+        "canonical": "Los Negros LLG,Manus Province,Papua New Guinea",
+        "region": "Manus Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9225457,
+        "name": "Wewak Rural LLG",
+        "canonical": "Wewak Rural LLG,East Sepik Province,Papua New Guinea",
+        "region": "East Sepik Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9225546,
+        "name": "Ouaddai",
+        "canonical": "Ouaddai,Chad",
+        "region": "",
+        "country": "Chad",
+        "countryCode": "td"
+    },
+    {
+        "id": 9225717,
+        "name": "Mandoul",
+        "canonical": "Mandoul,Chad",
+        "region": "",
+        "country": "Chad",
+        "countryCode": "td"
+    },
+    {
+        "id": 9226166,
+        "name": "Rockhampton Regional",
+        "canonical": "Rockhampton Regional,Queensland,Australia",
+        "region": "Queensland",
+        "country": "Australia",
+        "countryCode": "au"
+    },
+    {
+        "id": 9226461,
+        "name": "Kaustinen",
+        "canonical": "Kaustinen,Central Ostrobothnia,Finland",
+        "region": "Central Ostrobothnia",
+        "country": "Finland",
+        "countryCode": "fi"
+    },
+    {
+        "id": 9226638,
+        "name": "Peloponnese Region",
+        "canonical": "Peloponnese Region,Decentralized Administration of Peloponnese, Western Greece and the Ionian,Greece",
+        "region": "Decentralized Administration of Peloponnese, Western Greece and the Ionian",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 9226820,
+        "name": "Sandoy",
+        "canonical": "Sandoy,Faroe Islands",
+        "region": "",
+        "country": "Faroe Islands",
+        "countryCode": "fo"
+    },
+    {
+        "id": 9226892,
+        "name": "Saint Andrew Parish",
+        "canonical": "Saint Andrew Parish,Dominica",
+        "region": "",
+        "country": "Dominica",
+        "countryCode": "dm"
+    },
+    {
+        "id": 9226985,
+        "name": "Kavieng Urban LLG",
+        "canonical": "Kavieng Urban LLG,New Ireland Province,Papua New Guinea",
+        "region": "New Ireland Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9227024,
+        "name": "Tamworth Regional Council",
+        "canonical": "Tamworth Regional Council,New South Wales,Australia",
+        "region": "New South Wales",
+        "country": "Australia",
+        "countryCode": "au"
+    },
+    {
+        "id": 9227277,
+        "name": "Ialibu Basin Rural LLG",
+        "canonical": "Ialibu Basin Rural LLG,Southern Highlands Province,Papua New Guinea",
+        "region": "Southern Highlands Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9227323,
+        "name": "North Athens Regional Unit",
+        "canonical": "North Athens Regional Unit,Decentralized Administration of Attica,Greece",
+        "region": "Decentralized Administration of Attica",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 9227557,
+        "name": "Alotau Urban LLG",
+        "canonical": "Alotau Urban LLG,Milne Bay Province,Papua New Guinea",
+        "region": "Milne Bay Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9228164,
+        "name": "Ionian Islands",
+        "canonical": "Ionian Islands,Decentralized Administration of Peloponnese, Western Greece and the Ionian,Greece",
+        "region": "Decentralized Administration of Peloponnese, Western Greece and the Ionian",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 9228385,
+        "name": "Trinity Palmetto Point Parish",
+        "canonical": "Trinity Palmetto Point Parish,Saint Kitts and Nevis",
+        "region": "",
+        "country": "Saint Kitts and Nevis",
+        "countryCode": "kn"
+    },
+    {
+        "id": 9228424,
+        "name": "Qikiqtaaluk Region",
+        "canonical": "Qikiqtaaluk Region,Nunavut,Canada",
+        "region": "Nunavut",
+        "country": "Canada",
+        "countryCode": "ca"
+    },
+    {
+        "id": 9228920,
+        "name": "Folon",
+        "canonical": "Folon,Denguele District,Cote d'Ivoire",
+        "region": "Denguele District",
+        "country": "Cote d'Ivoire",
+        "countryCode": "ci"
+    },
+    {
+        "id": 9228996,
+        "name": "Tablelands Regional",
+        "canonical": "Tablelands Regional,Queensland,Australia",
+        "region": "Queensland",
+        "country": "Australia",
+        "countryCode": "au"
+    },
+    {
+        "id": 9229049,
+        "name": "Tikana Rural LLG",
+        "canonical": "Tikana Rural LLG,New Ireland Province,Papua New Guinea",
+        "region": "New Ireland Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9229460,
+        "name": "Ennedi-Est",
+        "canonical": "Ennedi-Est,Chad",
+        "region": "",
+        "country": "Chad",
+        "countryCode": "td"
+    },
+    {
+        "id": 9229570,
+        "name": "Mimanalo Rural LLG",
+        "canonical": "Mimanalo Rural LLG,Eastern Highlands Province,Papua New Guinea",
+        "region": "Eastern Highlands Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9229646,
+        "name": "HaArava Region",
+        "canonical": "HaArava Region,South District,Israel",
+        "region": "South District",
+        "country": "Israel",
+        "countryCode": "il"
+    },
+    {
+        "id": 9229649,
+        "name": "Oberon Council",
+        "canonical": "Oberon Council,New South Wales,Australia",
+        "region": "New South Wales",
+        "country": "Australia",
+        "countryCode": "au"
+    },
+    {
+        "id": 9229797,
+        "name": "Kempsey Shire",
+        "canonical": "Kempsey Shire,New South Wales,Australia",
+        "region": "New South Wales",
+        "country": "Australia",
+        "countryCode": "au"
+    },
+    {
+        "id": 9229948,
+        "name": "Sofia",
+        "canonical": "Sofia,Madagascar",
+        "region": "",
+        "country": "Madagascar",
+        "countryCode": "mg"
+    },
+    {
+        "id": 9230150,
+        "name": "Kiunga Rural LLG",
+        "canonical": "Kiunga Rural LLG,Western Province,Papua New Guinea",
+        "region": "Western Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9230223,
+        "name": "Saint Peter Basseterre Parish",
+        "canonical": "Saint Peter Basseterre Parish,Saint Kitts and Nevis",
+        "region": "",
+        "country": "Saint Kitts and Nevis",
+        "countryCode": "kn"
+    },
+    {
+        "id": 9230311,
+        "name": "Lockyer Valley Regional",
+        "canonical": "Lockyer Valley Regional,Queensland,Australia",
+        "region": "Queensland",
+        "country": "Australia",
+        "countryCode": "au"
+    },
+    {
+        "id": 9230313,
+        "name": "Gahuku Rural LLG",
+        "canonical": "Gahuku Rural LLG,Eastern Highlands Province,Papua New Guinea",
+        "region": "Eastern Highlands Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9230349,
+        "name": "Cairns Regional",
+        "canonical": "Cairns Regional,Queensland,Australia",
+        "region": "Queensland",
+        "country": "Australia",
+        "countryCode": "au"
+    },
+    {
+        "id": 9230418,
+        "name": "Tandjile",
+        "canonical": "Tandjile,Chad",
+        "region": "",
+        "country": "Chad",
+        "countryCode": "td"
+    },
+    {
+        "id": 9230419,
+        "name": "North Nouakchott",
+        "canonical": "North Nouakchott,Mauritania",
+        "region": "",
+        "country": "Mauritania",
+        "countryCode": "mr"
+    },
+    {
+        "id": 9230717,
+        "name": "Anosy",
+        "canonical": "Anosy,Madagascar",
+        "region": "",
+        "country": "Madagascar",
+        "countryCode": "mg"
+    },
+    {
+        "id": 9230760,
+        "name": "Nzerekore",
+        "canonical": "Nzerekore,Guinea",
+        "region": "",
+        "country": "Guinea",
+        "countryCode": "gn"
+    },
+    {
+        "id": 9230802,
+        "name": "City of Greater Geraldton",
+        "canonical": "City of Greater Geraldton,Western Australia,Australia",
+        "region": "Western Australia",
+        "country": "Australia",
+        "countryCode": "au"
+    },
+    {
+        "id": 9231316,
+        "name": "South Nouakchott",
+        "canonical": "South Nouakchott,Mauritania",
+        "region": "",
+        "country": "Mauritania",
+        "countryCode": "mr"
+    },
+    {
+        "id": 9231611,
+        "name": "Tchologo",
+        "canonical": "Tchologo,Savanes District,Cote d'Ivoire",
+        "region": "Savanes District",
+        "country": "Cote d'Ivoire",
+        "countryCode": "ci"
+    },
+    {
+        "id": 9231613,
+        "name": "Swan Hill Rural City",
+        "canonical": "Swan Hill Rural City,Victoria,Australia",
+        "region": "Victoria",
+        "country": "Australia",
+        "countryCode": "au"
+    },
+    {
+        "id": 9231638,
+        "name": "Lelemadih/Bupichupeu LLG",
+        "canonical": "Lelemadih/Bupichupeu LLG,Manus Province,Papua New Guinea",
+        "region": "Manus Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9231867,
+        "name": "Queenscliffe Borough",
+        "canonical": "Queenscliffe Borough,Victoria,Australia",
+        "region": "Victoria",
+        "country": "Australia",
+        "countryCode": "au"
+    },
+    {
+        "id": 9231906,
+        "name": "Milos",
+        "canonical": "Milos,Decentralized Administration of the Aegean,Greece",
+        "region": "Decentralized Administration of the Aegean",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 9232012,
+        "name": "The District Council of Lower Eyre Peninsula",
+        "canonical": "The District Council of Lower Eyre Peninsula,South Australia,Australia",
+        "region": "South Australia",
+        "country": "Australia",
+        "countryCode": "au"
+    },
+    {
+        "id": 9232014,
+        "name": "Derwent Valley Council",
+        "canonical": "Derwent Valley Council,Tasmania,Australia",
+        "region": "Tasmania",
+        "country": "Australia",
+        "countryCode": "au"
+    },
+    {
+        "id": 9232333,
+        "name": "Kundiawa Urban LLG",
+        "canonical": "Kundiawa Urban LLG,Chimbu Province,Papua New Guinea",
+        "region": "Chimbu Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9232379,
+        "name": "Mansa Konko",
+        "canonical": "Mansa Konko,The Gambia",
+        "region": "",
+        "country": "The Gambia",
+        "countryCode": "gm"
+    },
+    {
+        "id": 9232483,
+        "name": "Ali Sabieh",
+        "canonical": "Ali Sabieh,Djibouti",
+        "region": "",
+        "country": "Djibouti",
+        "countryCode": "dj"
+    },
+    {
+        "id": 9232902,
+        "name": "East Aitape Rural LLG",
+        "canonical": "East Aitape Rural LLG,Sandaun Province,Papua New Guinea",
+        "region": "Sandaun Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9233029,
+        "name": "Nouakchott-Ouest",
+        "canonical": "Nouakchott-Ouest,Mauritania",
+        "region": "",
+        "country": "Mauritania",
+        "countryCode": "mr"
+    },
+    {
+        "id": 9233305,
+        "name": "Townsville City",
+        "canonical": "Townsville City,Queensland,Australia",
+        "region": "Queensland",
+        "country": "Australia",
+        "countryCode": "au"
+    },
+    {
+        "id": 9233414,
+        "name": "Goroka Urban LLG",
+        "canonical": "Goroka Urban LLG,Eastern Highlands Province,Papua New Guinea",
+        "region": "Eastern Highlands Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9233503,
+        "name": "Sentral Niu Ailan Rural LLG",
+        "canonical": "Sentral Niu Ailan Rural LLG,New Ireland Province,Papua New Guinea",
+        "region": "New Ireland Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9233829,
+        "name": "Livingstone Shire",
+        "canonical": "Livingstone Shire,Queensland,Australia",
+        "region": "Queensland",
+        "country": "Australia",
+        "countryCode": "au"
+    },
+    {
+        "id": 9233868,
+        "name": "Lac",
+        "canonical": "Lac,Chad",
+        "region": "",
+        "country": "Chad",
+        "countryCode": "td"
+    },
+    {
+        "id": 9233973,
+        "name": "Quinara",
+        "canonical": "Quinara,Guinea-Bissau",
+        "region": "",
+        "country": "Guinea-Bissau",
+        "countryCode": "gw"
+    },
+    {
+        "id": 9234093,
+        "name": "Piraeus Regional Unit",
+        "canonical": "Piraeus Regional Unit,Decentralized Administration of Attica,Greece",
+        "region": "Decentralized Administration of Attica",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 9234174,
+        "name": "Svalbard",
+        "canonical": "Svalbard,Svalbard and Jan Mayen",
+        "region": "",
+        "country": "Svalbard and Jan Mayen",
+        "countryCode": "sj"
+    },
+    {
+        "id": 9234293,
+        "name": "Mumeng Rural LLG",
+        "canonical": "Mumeng Rural LLG,Morobe Province,Papua New Guinea",
+        "region": "Morobe Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9234425,
+        "name": "Saint James Windward Parish",
+        "canonical": "Saint James Windward Parish,Saint Kitts and Nevis",
+        "region": "",
+        "country": "Saint Kitts and Nevis",
+        "countryCode": "kn"
+    },
+    {
+        "id": 9234678,
+        "name": "Vagar",
+        "canonical": "Vagar,Faroe Islands",
+        "region": "",
+        "country": "Faroe Islands",
+        "countryCode": "fo"
+    },
+    {
+        "id": 9234697,
+        "name": "Saint Paul Capisterre Parish",
+        "canonical": "Saint Paul Capisterre Parish,Saint Kitts and Nevis",
+        "region": "",
+        "country": "Saint Kitts and Nevis",
+        "countryCode": "kn"
+    },
+    {
+        "id": 9234830,
+        "name": "Bialla Rural LLG",
+        "canonical": "Bialla Rural LLG,West New Britain Province,Papua New Guinea",
+        "region": "West New Britain Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9234919,
+        "name": "Analamanga",
+        "canonical": "Analamanga,Madagascar",
+        "region": "",
+        "country": "Madagascar",
+        "countryCode": "mg"
+    },
+    {
+        "id": 9234928,
+        "name": "Sydosterbotten",
+        "canonical": "Sydosterbotten,Ostrobothnia,Finland",
+        "region": "Ostrobothnia",
+        "country": "Finland",
+        "countryCode": "fi"
+    },
+    {
+        "id": 9235061,
+        "name": "Singleton Council",
+        "canonical": "Singleton Council,New South Wales,Australia",
+        "region": "New South Wales",
+        "country": "Australia",
+        "countryCode": "au"
+    },
+    {
+        "id": 9235096,
+        "name": "Wagga Wagga City Council",
+        "canonical": "Wagga Wagga City Council,New South Wales,Australia",
+        "region": "New South Wales",
+        "country": "Australia",
+        "countryCode": "au"
+    },
+    {
+        "id": 9235149,
+        "name": "Moesa District",
+        "canonical": "Moesa District,Grisons,Switzerland",
+        "region": "Grisons",
+        "country": "Switzerland",
+        "countryCode": "ch"
+    },
+    {
+        "id": 9235341,
+        "name": "San-Pedro",
+        "canonical": "San-Pedro,Bas-Sassandra District,Cote d'Ivoire",
+        "region": "Bas-Sassandra District",
+        "country": "Cote d'Ivoire",
+        "countryCode": "ci"
+    },
+    {
+        "id": 9235409,
+        "name": "Kafentina Rural LLG",
+        "canonical": "Kafentina Rural LLG,Eastern Highlands Province,Papua New Guinea",
+        "region": "Eastern Highlands Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9235556,
+        "name": "Tongatapu",
+        "canonical": "Tongatapu,Tonga",
+        "region": "",
+        "country": "Tonga",
+        "countryCode": "to"
+    },
+    {
+        "id": 9235876,
+        "name": "Janjanbureh",
+        "canonical": "Janjanbureh,The Gambia",
+        "region": "",
+        "country": "The Gambia",
+        "countryCode": "gm"
+    },
+    {
+        "id": 9236081,
+        "name": "Nimamar Rural LLG",
+        "canonical": "Nimamar Rural LLG,New Ireland Province,Papua New Guinea",
+        "region": "New Ireland Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9236310,
+        "name": "Hiri Rural LLG",
+        "canonical": "Hiri Rural LLG,Central Province,Papua New Guinea",
+        "region": "Central Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9236458,
+        "name": "Southern Downs Regional",
+        "canonical": "Southern Downs Regional,Queensland,Australia",
+        "region": "Queensland",
+        "country": "Australia",
+        "countryCode": "au"
+    },
+    {
+        "id": 9236538,
+        "name": "Dikhil",
+        "canonical": "Dikhil,Djibouti",
+        "region": "",
+        "country": "Djibouti",
+        "countryCode": "dj"
+    },
+    {
+        "id": 9236581,
+        "name": "Saint Thomas Middle Island Parish",
+        "canonical": "Saint Thomas Middle Island Parish,Saint Kitts and Nevis",
+        "region": "",
+        "country": "Saint Kitts and Nevis",
+        "countryCode": "kn"
+    },
+    {
+        "id": 9236631,
+        "name": "Kavango West Region",
+        "canonical": "Kavango West Region,Namibia",
+        "region": "",
+        "country": "Namibia",
+        "countryCode": "na"
+    },
+    {
+        "id": 9236732,
+        "name": "Rigo Central Rural LLG",
+        "canonical": "Rigo Central Rural LLG,Central Province,Papua New Guinea",
+        "region": "Central Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9237059,
+        "name": "South Athens",
+        "canonical": "South Athens,Decentralized Administration of Attica,Greece",
+        "region": "Decentralized Administration of Attica",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 9237080,
+        "name": "Songwe Region",
+        "canonical": "Songwe Region,Tanzania",
+        "region": "",
+        "country": "Tanzania",
+        "countryCode": "tz"
+    },
+    {
+        "id": 9237082,
+        "name": "Campaspe Shire",
+        "canonical": "Campaspe Shire,Victoria,Australia",
+        "region": "Victoria",
+        "country": "Australia",
+        "countryCode": "au"
+    },
+    {
+        "id": 9237221,
+        "name": "Hoskins Rural LLG",
+        "canonical": "Hoskins Rural LLG,West New Britain Province,Papua New Guinea",
+        "region": "West New Britain Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9237224,
+        "name": "Tinos",
+        "canonical": "Tinos,Decentralized Administration of the Aegean,Greece",
+        "region": "Decentralized Administration of the Aegean",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 9237502,
+        "name": "Mul Rural LLG",
+        "canonical": "Mul Rural LLG,Western Highlands Province,Papua New Guinea",
+        "region": "Western Highlands Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9237709,
+        "name": "East Gippsland Shire",
+        "canonical": "East Gippsland Shire,Victoria,Australia",
+        "region": "Victoria",
+        "country": "Australia",
+        "countryCode": "au"
+    },
+    {
+        "id": 9237913,
+        "name": "Streymoy",
+        "canonical": "Streymoy,Faroe Islands",
+        "region": "",
+        "country": "Faroe Islands",
+        "countryCode": "fo"
+    },
+    {
+        "id": 9238122,
+        "name": "Wallis",
+        "canonical": "Wallis,Wallis and Futuna",
+        "region": "",
+        "country": "Wallis and Futuna",
+        "countryCode": "wf"
+    },
+    {
+        "id": 9238203,
+        "name": "Samos Prefecture",
+        "canonical": "Samos Prefecture,Decentralized Administration of the Aegean,Greece",
+        "region": "Decentralized Administration of the Aegean",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 9238322,
+        "name": "Maprik/Wora Rural LLG",
+        "canonical": "Maprik/Wora Rural LLG,East Sepik Province,Papua New Guinea",
+        "region": "East Sepik Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9238350,
+        "name": "Kuntaur",
+        "canonical": "Kuntaur,The Gambia",
+        "region": "",
+        "country": "The Gambia",
+        "countryCode": "gm"
+    },
+    {
+        "id": 9238436,
+        "name": "Mahaica-Berbice",
+        "canonical": "Mahaica-Berbice,Guyana",
+        "region": "",
+        "country": "Guyana",
+        "countryCode": "gy"
+    },
+    {
+        "id": 9238457,
+        "name": "Tibesti",
+        "canonical": "Tibesti,Chad",
+        "region": "",
+        "country": "Chad",
+        "countryCode": "td"
+    },
+    {
+        "id": 9238599,
+        "name": "Moronou",
+        "canonical": "Moronou,Cote d'Ivoire",
+        "region": "",
+        "country": "Cote d'Ivoire",
+        "countryCode": "ci"
+    },
+    {
+        "id": 9238787,
+        "name": "Boeotia",
+        "canonical": "Boeotia,Decentralized Administration of Thessaly and Central Greece,Greece",
+        "region": "Decentralized Administration of Thessaly and Central Greece",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 9238893,
+        "name": "Latrobe City",
+        "canonical": "Latrobe City,Victoria,Australia",
+        "region": "Victoria",
+        "country": "Australia",
+        "countryCode": "au"
+    },
+    {
+        "id": 9238964,
+        "name": "Saint David",
+        "canonical": "Saint David,Saint Vincent and the Grenadines",
+        "region": "",
+        "country": "Saint Vincent and the Grenadines",
+        "countryCode": "vc"
+    },
+    {
+        "id": 9239017,
+        "name": "Thira",
+        "canonical": "Thira,Decentralized Administration of the Aegean,Greece",
+        "region": "Decentralized Administration of the Aegean",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 9239166,
+        "name": "Bafing",
+        "canonical": "Bafing,Cote d'Ivoire",
+        "region": "",
+        "country": "Cote d'Ivoire",
+        "countryCode": "ci"
+    },
+    {
+        "id": 9239365,
+        "name": "Central Coast Council",
+        "canonical": "Central Coast Council,New South Wales,Australia",
+        "region": "New South Wales",
+        "country": "Australia",
+        "countryCode": "au"
+    },
+    {
+        "id": 9239803,
+        "name": "Christ Church Nichola Town Parish",
+        "canonical": "Christ Church Nichola Town Parish,Saint Kitts and Nevis",
+        "region": "",
+        "country": "Saint Kitts and Nevis",
+        "countryCode": "kn"
+    },
+    {
+        "id": 9240021,
+        "name": "Arawa Rural LLG",
+        "canonical": "Arawa Rural LLG,Autonomous Region of Bougainville,Papua New Guinea",
+        "region": "Autonomous Region of Bougainville",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9240150,
+        "name": "City of Moreton Bay",
+        "canonical": "City of Moreton Bay,Queensland,Australia",
+        "region": "Queensland",
+        "country": "Australia",
+        "countryCode": "au"
+    },
+    {
+        "id": 9240161,
+        "name": "Pobuma LLG",
+        "canonical": "Pobuma LLG,Manus Province,Papua New Guinea",
+        "region": "Manus Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9240386,
+        "name": "Temal",
+        "canonical": "Temal,Shkoder County,Albania",
+        "region": "Shkoder County",
+        "country": "Albania",
+        "countryCode": "al"
+    },
+    {
+        "id": 9241399,
+        "name": "Ennedi-Ouest",
+        "canonical": "Ennedi-Ouest,Chad",
+        "region": "",
+        "country": "Chad",
+        "countryCode": "td"
+    },
+    {
+        "id": 9241496,
+        "name": "Star Mountains Rural LLG",
+        "canonical": "Star Mountains Rural LLG,Western Province,Papua New Guinea",
+        "region": "Western Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9241523,
+        "name": "Guera",
+        "canonical": "Guera,Chad",
+        "region": "",
+        "country": "Chad",
+        "countryCode": "td"
+    },
+    {
+        "id": 9241581,
+        "name": "North Waghi Rural LLG",
+        "canonical": "North Waghi Rural LLG,Jiwaka Province,Papua New Guinea",
+        "region": "Jiwaka Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9241766,
+        "name": "Wabag Rural LLG",
+        "canonical": "Wabag Rural LLG,Enga Province,Papua New Guinea",
+        "region": "Enga Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9241902,
+        "name": "Yaleyemba Rural LLG",
+        "canonical": "Yaleyemba Rural LLG,Milne Bay Province,Papua New Guinea",
+        "region": "Milne Bay Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9242169,
+        "name": "Lesbos Prefecture",
+        "canonical": "Lesbos Prefecture,Decentralized Administration of the Aegean,Greece",
+        "region": "Decentralized Administration of the Aegean",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 9242533,
+        "name": "West Athens Regional Unit",
+        "canonical": "West Athens Regional Unit,Decentralized Administration of Attica,Greece",
+        "region": "Decentralized Administration of Attica",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 9242806,
+        "name": "Basse",
+        "canonical": "Basse,The Gambia",
+        "region": "",
+        "country": "The Gambia",
+        "countryCode": "gm"
+    },
+    {
+        "id": 9243449,
+        "name": "Shire of Chapman Valley",
+        "canonical": "Shire of Chapman Valley,Western Australia,Australia",
+        "region": "Western Australia",
+        "country": "Australia",
+        "countryCode": "au"
+    },
+    {
+        "id": 9243633,
+        "name": "Saint Mary Cayon Parish",
+        "canonical": "Saint Mary Cayon Parish,Saint Kitts and Nevis",
+        "region": "",
+        "country": "Saint Kitts and Nevis",
+        "countryCode": "kn"
+    },
+    {
+        "id": 9243739,
+        "name": "Mackay Regional",
+        "canonical": "Mackay Regional,Queensland,Australia",
+        "region": "Queensland",
+        "country": "Australia",
+        "countryCode": "au"
+    },
+    {
+        "id": 9243868,
+        "name": "Southern Aegean",
+        "canonical": "Southern Aegean,Decentralized Administration of the Aegean,Greece",
+        "region": "Decentralized Administration of the Aegean",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 9243951,
+        "name": "Haute Matsiatra",
+        "canonical": "Haute Matsiatra,Madagascar",
+        "region": "",
+        "country": "Madagascar",
+        "countryCode": "mg"
+    },
+    {
+        "id": 9244183,
+        "name": "Kanem",
+        "canonical": "Kanem,Chad",
+        "region": "",
+        "country": "Chad",
+        "countryCode": "td"
+    },
+    {
+        "id": 9244384,
+        "name": "Salamat",
+        "canonical": "Salamat,Chad",
+        "region": "",
+        "country": "Chad",
+        "countryCode": "td"
+    },
+    {
+        "id": 9244399,
+        "name": "Principe",
+        "canonical": "Principe,Sao Tome and Principe",
+        "region": "",
+        "country": "Sao Tome and Principe",
+        "countryCode": "st"
+    },
+    {
+        "id": 9244574,
+        "name": "Sunshine Coast Regional",
+        "canonical": "Sunshine Coast Regional,Queensland,Australia",
+        "region": "Queensland",
+        "country": "Australia",
+        "countryCode": "au"
+    },
+    {
+        "id": 9244815,
+        "name": "Huon Valley Council",
+        "canonical": "Huon Valley Council,Tasmania,Australia",
+        "region": "Tasmania",
+        "country": "Australia",
+        "countryCode": "au"
+    },
+    {
+        "id": 9245129,
+        "name": "Bundi Rural LLG",
+        "canonical": "Bundi Rural LLG,Madang Province,Papua New Guinea",
+        "region": "Madang Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9245260,
+        "name": "Saint Anne Sandy Point Parish",
+        "canonical": "Saint Anne Sandy Point Parish,Saint Kitts and Nevis",
+        "region": "",
+        "country": "Saint Kitts and Nevis",
+        "countryCode": "kn"
+    },
+    {
+        "id": 9245383,
+        "name": "Sinivit Rural LLG",
+        "canonical": "Sinivit Rural LLG,East New Britain Province,Papua New Guinea",
+        "region": "East New Britain Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9245424,
+        "name": "Kerewan",
+        "canonical": "Kerewan,The Gambia",
+        "region": "",
+        "country": "The Gambia",
+        "countryCode": "gm"
+    },
+    {
+        "id": 9245842,
+        "name": "Aroma Rural LLG",
+        "canonical": "Aroma Rural LLG,Central Province,Papua New Guinea",
+        "region": "Central Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9245896,
+        "name": "Umi/Atzera Rural LLG",
+        "canonical": "Umi/Atzera Rural LLG,Morobe Province,Papua New Guinea",
+        "region": "Morobe Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9246163,
+        "name": "Logone Oriental",
+        "canonical": "Logone Oriental,Chad",
+        "region": "",
+        "country": "Chad",
+        "countryCode": "td"
+    },
+    {
+        "id": 9246166,
+        "name": "Clarence Valley Council",
+        "canonical": "Clarence Valley Council,New South Wales,Australia",
+        "region": "New South Wales",
+        "country": "Australia",
+        "countryCode": "au"
+    },
+    {
+        "id": 9246187,
+        "name": "Agneby-Tiassa",
+        "canonical": "Agneby-Tiassa,Lagunes District,Cote d'Ivoire",
+        "region": "Lagunes District",
+        "country": "Cote d'Ivoire",
+        "countryCode": "ci"
+    },
+    {
+        "id": 9246514,
+        "name": "Lahti",
+        "canonical": "Lahti,Paijat-Hame,Finland",
+        "region": "Paijat-Hame",
+        "country": "Finland",
+        "countryCode": "fi"
+    },
+    {
+        "id": 9246682,
+        "name": "Saint John Figtree Parish",
+        "canonical": "Saint John Figtree Parish,Saint Kitts and Nevis",
+        "region": "",
+        "country": "Saint Kitts and Nevis",
+        "countryCode": "kn"
+    },
+    {
+        "id": 9246747,
+        "name": "Tristan da Cunha",
+        "canonical": "Tristan da Cunha,Saint Helena, Ascension and Tristan da Cunha",
+        "region": "Saint Helena",
+        "country": " Ascension and Tristan da Cunha",
+        "countryCode": "sh"
+    },
+    {
+        "id": 9246930,
+        "name": "Moyen-Chari",
+        "canonical": "Moyen-Chari,Chad",
+        "region": "",
+        "country": "Chad",
+        "countryCode": "td"
+    },
+    {
+        "id": 9247020,
+        "name": "Porgera Rural LLG",
+        "canonical": "Porgera Rural LLG,Enga Province,Papua New Guinea",
+        "region": "Enga Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9247104,
+        "name": "Saint Paul Charlestown Parish",
+        "canonical": "Saint Paul Charlestown Parish,Saint Kitts and Nevis",
+        "region": "",
+        "country": "Saint Kitts and Nevis",
+        "countryCode": "kn"
+    },
+    {
+        "id": 9247200,
+        "name": "Kanifing",
+        "canonical": "Kanifing,The Gambia",
+        "region": "",
+        "country": "The Gambia",
+        "countryCode": "gm"
+    },
+    {
+        "id": 9247201,
+        "name": "Saint Mark Parish",
+        "canonical": "Saint Mark Parish,Dominica",
+        "region": "",
+        "country": "Dominica",
+        "countryCode": "dm"
+    },
+    {
+        "id": 9247370,
+        "name": "Ihorombe",
+        "canonical": "Ihorombe,Madagascar",
+        "region": "",
+        "country": "Madagascar",
+        "countryCode": "mg"
+    },
+    {
+        "id": 9247411,
+        "name": "Goulburn Mulwaree Council",
+        "canonical": "Goulburn Mulwaree Council,New South Wales,Australia",
+        "region": "New South Wales",
+        "country": "Australia",
+        "countryCode": "au"
+    },
+    {
+        "id": 9247417,
+        "name": "Mendi Urban LLG",
+        "canonical": "Mendi Urban LLG,Southern Highlands Province,Papua New Guinea",
+        "region": "Southern Highlands Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9247702,
+        "name": "Boeny",
+        "canonical": "Boeny,Madagascar",
+        "region": "",
+        "country": "Madagascar",
+        "countryCode": "mg"
+    },
+    {
+        "id": 9247803,
+        "name": "Higaturu Rural LLG",
+        "canonical": "Higaturu Rural LLG,Northern Province,Papua New Guinea",
+        "region": "Northern Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9247979,
+        "name": "Mayo-Kebbi Ouest",
+        "canonical": "Mayo-Kebbi Ouest,Chad",
+        "region": "",
+        "country": "Chad",
+        "countryCode": "td"
+    },
+    {
+        "id": 9248005,
+        "name": "Mosa Rural LLG",
+        "canonical": "Mosa Rural LLG,West New Britain Province,Papua New Guinea",
+        "region": "West New Britain Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9248061,
+        "name": "Sila",
+        "canonical": "Sila,Chad",
+        "region": "",
+        "country": "Chad",
+        "countryCode": "td"
+    },
+    {
+        "id": 9248084,
+        "name": "Horsham Rural City",
+        "canonical": "Horsham Rural City,Victoria,Australia",
+        "region": "Victoria",
+        "country": "Australia",
+        "countryCode": "au"
+    },
+    {
+        "id": 9248129,
+        "name": "City of Kalgoorlie-Boulder",
+        "canonical": "City of Kalgoorlie-Boulder,Western Australia,Australia",
+        "region": "Western Australia",
+        "country": "Australia",
+        "countryCode": "au"
+    },
+    {
+        "id": 9248407,
+        "name": "Poro",
+        "canonical": "Poro,Savanes District,Cote d'Ivoire",
+        "region": "Savanes District",
+        "country": "Cote d'Ivoire",
+        "countryCode": "ci"
+    },
+    {
+        "id": 9248439,
+        "name": "Kabadougou",
+        "canonical": "Kabadougou,Denguele District,Cote d'Ivoire",
+        "region": "Denguele District",
+        "country": "Cote d'Ivoire",
+        "countryCode": "ci"
+    },
+    {
+        "id": 9248488,
+        "name": "Shire of Harvey",
+        "canonical": "Shire of Harvey,Western Australia,Australia",
+        "region": "Western Australia",
+        "country": "Australia",
+        "countryCode": "au"
+    },
+    {
+        "id": 9248553,
+        "name": "Mid Murray Council",
+        "canonical": "Mid Murray Council,South Australia,Australia",
+        "region": "South Australia",
+        "country": "Australia",
+        "countryCode": "au"
+    },
+    {
+        "id": 9248638,
+        "name": "Greater Geelong City",
+        "canonical": "Greater Geelong City,Victoria,Australia",
+        "region": "Victoria",
+        "country": "Australia",
+        "countryCode": "au"
+    },
+    {
+        "id": 9248752,
+        "name": "Loh-Djiboua",
+        "canonical": "Loh-Djiboua,Goh-Djiboua District,Cote d'Ivoire",
+        "region": "Goh-Djiboua District",
+        "country": "Cote d'Ivoire",
+        "countryCode": "ci"
+    },
+    {
+        "id": 9249060,
+        "name": "Saint George Gingerland Parish",
+        "canonical": "Saint George Gingerland Parish,Saint Kitts and Nevis",
+        "region": "",
+        "country": "Saint Kitts and Nevis",
+        "countryCode": "kn"
+    },
+    {
+        "id": 9249164,
+        "name": "Town of Port Hedland",
+        "canonical": "Town of Port Hedland,Western Australia,Australia",
+        "region": "Western Australia",
+        "country": "Australia",
+        "countryCode": "au"
+    },
+    {
+        "id": 9249483,
+        "name": "Vunadidir/Toma Rural LLG",
+        "canonical": "Vunadidir/Toma Rural LLG,East New Britain Province,Papua New Guinea",
+        "region": "East New Britain Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9249545,
+        "name": "Toowoomba Regional",
+        "canonical": "Toowoomba Regional,Queensland,Australia",
+        "region": "Queensland",
+        "country": "Australia",
+        "countryCode": "au"
+    },
+    {
+        "id": 9249854,
+        "name": "Snowy Monaro Regional Council",
+        "canonical": "Snowy Monaro Regional Council,New South Wales,Australia",
+        "region": "New South Wales",
+        "country": "Australia",
+        "countryCode": "au"
+    },
+    {
+        "id": 9249890,
+        "name": "Astana",
+        "canonical": "Astana,Kazakhstan",
+        "region": "",
+        "country": "Kazakhstan",
+        "countryCode": "kz"
+    },
+    {
+        "id": 9250063,
+        "name": "Skofja Loka",
+        "canonical": "Skofja Loka,Slovenia",
+        "region": "",
+        "country": "Slovenia",
+        "countryCode": "si"
+    },
+    {
+        "id": 9250094,
+        "name": "Huhu Rural LLG",
+        "canonical": "Huhu Rural LLG,Milne Bay Province,Papua New Guinea",
+        "region": "Milne Bay Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9250102,
+        "name": "Ascension",
+        "canonical": "Ascension,Saint Helena, Ascension and Tristan da Cunha",
+        "region": "Saint Helena",
+        "country": " Ascension and Tristan da Cunha",
+        "countryCode": "sh"
+    },
+    {
+        "id": 9250688,
+        "name": "Menabe",
+        "canonical": "Menabe,Madagascar",
+        "region": "",
+        "country": "Madagascar",
+        "countryCode": "mg"
+    },
+    {
+        "id": 9251617,
+        "name": "Kokopo/Vunamami Urban LLG",
+        "canonical": "Kokopo/Vunamami Urban LLG,East New Britain Province,Papua New Guinea",
+        "region": "East New Britain Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9251687,
+        "name": "Mount Giluwe Rural LLG",
+        "canonical": "Mount Giluwe Rural LLG,Western Highlands Province,Papua New Guinea",
+        "region": "Western Highlands Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9251991,
+        "name": "Saint David Parish",
+        "canonical": "Saint David Parish,Dominica",
+        "region": "",
+        "country": "Dominica",
+        "countryCode": "dm"
+    },
+    {
+        "id": 9252179,
+        "name": "Logone Occidental",
+        "canonical": "Logone Occidental,Chad",
+        "region": "",
+        "country": "Chad",
+        "countryCode": "td"
+    },
+    {
+        "id": 9252578,
+        "name": "Nipa Rural LLG",
+        "canonical": "Nipa Rural LLG,Southern Highlands Province,Papua New Guinea",
+        "region": "Southern Highlands Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9252698,
+        "name": "Koiari Rural LLG",
+        "canonical": "Koiari Rural LLG,Central Province,Papua New Guinea",
+        "region": "Central Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9252752,
+        "name": "Vakinankaratra",
+        "canonical": "Vakinankaratra,Madagascar",
+        "region": "",
+        "country": "Madagascar",
+        "countryCode": "mg"
+    },
+    {
+        "id": 9252860,
+        "name": "Vanimo Urban LLG",
+        "canonical": "Vanimo Urban LLG,Sandaun Province,Papua New Guinea",
+        "region": "Sandaun Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9252906,
+        "name": "Dar es Salam",
+        "canonical": "Dar es Salam,Tanzania",
+        "region": "",
+        "country": "Tanzania",
+        "countryCode": "tz"
+    },
+    {
+        "id": 9253066,
+        "name": "Saint Peter Parish",
+        "canonical": "Saint Peter Parish,Montserrat",
+        "region": "",
+        "country": "Montserrat",
+        "countryCode": "ms"
+    },
+    {
+        "id": 9253152,
+        "name": "Ningerum Rural LLG",
+        "canonical": "Ningerum Rural LLG,Western Province,Papua New Guinea",
+        "region": "Western Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9253427,
+        "name": "Atsimo-Andrefana",
+        "canonical": "Atsimo-Andrefana,Madagascar",
+        "region": "",
+        "country": "Madagascar",
+        "countryCode": "mg"
+    },
+    {
+        "id": 9253556,
+        "name": "Saint Patrick Parish",
+        "canonical": "Saint Patrick Parish,Dominica",
+        "region": "",
+        "country": "Dominica",
+        "countryCode": "dm"
+    },
+    {
+        "id": 9253800,
+        "name": "Itasy",
+        "canonical": "Itasy,Madagascar",
+        "region": "",
+        "country": "Madagascar",
+        "countryCode": "mg"
+    },
+    {
+        "id": 9253892,
+        "name": "Helsinki",
+        "canonical": "Helsinki,Uusimaa,Finland",
+        "region": "Uusimaa",
+        "country": "Finland",
+        "countryCode": "fi"
+    },
+    {
+        "id": 9253895,
+        "name": "Northern Red Sea",
+        "canonical": "Northern Red Sea,Eritrea",
+        "region": "",
+        "country": "Eritrea",
+        "countryCode": "er"
+    },
+    {
+        "id": 9254282,
+        "name": "Saint Luke Parish",
+        "canonical": "Saint Luke Parish,Dominica",
+        "region": "",
+        "country": "Dominica",
+        "countryCode": "dm"
+    },
+    {
+        "id": 9254413,
+        "name": "Viamala",
+        "canonical": "Viamala,Grisons,Switzerland",
+        "region": "Grisons",
+        "country": "Switzerland",
+        "countryCode": "ch"
+    },
+    {
+        "id": 9254539,
+        "name": "Ahi Rural LLG",
+        "canonical": "Ahi Rural LLG,Morobe Province,Papua New Guinea",
+        "region": "Morobe Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9254540,
+        "name": "Kiunga Urban LLG",
+        "canonical": "Kiunga Urban LLG,Western Province,Papua New Guinea",
+        "region": "Western Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9254601,
+        "name": "Brakna",
+        "canonical": "Brakna,Mauritania",
+        "region": "",
+        "country": "Mauritania",
+        "countryCode": "mr"
+    },
+    {
+        "id": 9254624,
+        "name": "Lake Kutubu Rural LLG",
+        "canonical": "Lake Kutubu Rural LLG,Southern Highlands Province,Papua New Guinea",
+        "region": "Southern Highlands Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9254634,
+        "name": "Gadsup/Tairora Rural LLG",
+        "canonical": "Gadsup/Tairora Rural LLG,Eastern Highlands Province,Papua New Guinea",
+        "region": "Eastern Highlands Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9254869,
+        "name": "Cassowary Coast Regional",
+        "canonical": "Cassowary Coast Regional,Queensland,Australia",
+        "region": "Queensland",
+        "country": "Australia",
+        "countryCode": "au"
+    },
+    {
+        "id": 9254926,
+        "name": "Northern Isles",
+        "canonical": "Northern Isles,Faroe Islands",
+        "region": "",
+        "country": "Faroe Islands",
+        "countryCode": "fo"
+    },
+    {
+        "id": 9255147,
+        "name": "Komo Rural LLG",
+        "canonical": "Komo Rural LLG,Hela Province,Papua New Guinea",
+        "region": "Hela Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9255374,
+        "name": "Central Kerema Rural LLG",
+        "canonical": "Central Kerema Rural LLG,Gulf Province,Papua New Guinea",
+        "region": "Gulf Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9255395,
+        "name": "Saint Thomas Lowland Parish",
+        "canonical": "Saint Thomas Lowland Parish,Saint Kitts and Nevis",
+        "region": "",
+        "country": "Saint Kitts and Nevis",
+        "countryCode": "kn"
+    },
+    {
+        "id": 9255539,
+        "name": "Kindia",
+        "canonical": "Kindia,Guinea",
+        "region": "",
+        "country": "Guinea",
+        "countryCode": "gn"
+    },
+    {
+        "id": 9255651,
+        "name": "Cephalonia",
+        "canonical": "Cephalonia,Decentralized Administration of Peloponnese, Western Greece and the Ionian,Greece",
+        "region": "Decentralized Administration of Peloponnese, Western Greece and the Ionian",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 9255743,
+        "name": "Moyne Shire",
+        "canonical": "Moyne Shire,Victoria,Australia",
+        "region": "Victoria",
+        "country": "Australia",
+        "countryCode": "au"
+    },
+    {
+        "id": 9255798,
+        "name": "West Attica Regional Unit",
+        "canonical": "West Attica Regional Unit,Decentralized Administration of Attica,Greece",
+        "region": "Decentralized Administration of Attica",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 9255862,
+        "name": "Atsinanana",
+        "canonical": "Atsinanana,Madagascar",
+        "region": "",
+        "country": "Madagascar",
+        "countryCode": "mg"
+    },
+    {
+        "id": 9255891,
+        "name": "Kalymnos",
+        "canonical": "Kalymnos,Decentralized Administration of the Aegean,Greece",
+        "region": "Decentralized Administration of the Aegean",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 9256110,
+        "name": "Sark",
+        "canonical": "Sark,Guernsey",
+        "region": "",
+        "country": "Guernsey",
+        "countryCode": "gg"
+    },
+    {
+        "id": 9256273,
+        "name": "Suduroy",
+        "canonical": "Suduroy,Faroe Islands",
+        "region": "",
+        "country": "Faroe Islands",
+        "countryCode": "fo"
+    },
+    {
+        "id": 9256536,
+        "name": "Batha",
+        "canonical": "Batha,Chad",
+        "region": "",
+        "country": "Chad",
+        "countryCode": "td"
+    },
+    {
+        "id": 9256587,
+        "name": "Bamu Rural LLG",
+        "canonical": "Bamu Rural LLG,Western Province,Papua New Guinea",
+        "region": "Western Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9256675,
+        "name": "Engiadina Bassa/Val Mustair District",
+        "canonical": "Engiadina Bassa/Val Mustair District,Grisons,Switzerland",
+        "region": "Grisons",
+        "country": "Switzerland",
+        "countryCode": "ch"
+    },
+    {
+        "id": 9256829,
+        "name": "Agarabi Rural LLG",
+        "canonical": "Agarabi Rural LLG,Eastern Highlands Province,Papua New Guinea",
+        "region": "Eastern Highlands Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9256966,
+        "name": "Atsimo-Atsinanana",
+        "canonical": "Atsimo-Atsinanana,Madagascar",
+        "region": "",
+        "country": "Madagascar",
+        "countryCode": "mg"
+    },
+    {
+        "id": 9257226,
+        "name": "Kompiam Rural LLG",
+        "canonical": "Kompiam Rural LLG,Enga Province,Papua New Guinea",
+        "region": "Enga Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9257229,
+        "name": "La Me",
+        "canonical": "La Me,Lagunes District,Cote d'Ivoire",
+        "region": "Lagunes District",
+        "country": "Cote d'Ivoire",
+        "countryCode": "ci"
+    },
+    {
+        "id": 9257826,
+        "name": "Gannawarra Shire",
+        "canonical": "Gannawarra Shire,Victoria,Australia",
+        "region": "Victoria",
+        "country": "Australia",
+        "countryCode": "au"
+    },
+    {
+        "id": 9257980,
+        "name": "Middle Shabelle",
+        "canonical": "Middle Shabelle,Somalia",
+        "region": "",
+        "country": "Somalia",
+        "countryCode": "so"
+    },
+    {
+        "id": 9258466,
+        "name": "Mount Hagen Urban LLG",
+        "canonical": "Mount Hagen Urban LLG,Western Highlands Province,Papua New Guinea",
+        "region": "Western Highlands Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9258480,
+        "name": "Wadi Fira",
+        "canonical": "Wadi Fira,Chad",
+        "region": "",
+        "country": "Chad",
+        "countryCode": "td"
+    },
+    {
+        "id": 9258730,
+        "name": "Saint John Capisterre Parish",
+        "canonical": "Saint John Capisterre Parish,Saint Kitts and Nevis",
+        "region": "",
+        "country": "Saint Kitts and Nevis",
+        "countryCode": "kn"
+    },
+    {
+        "id": 9258870,
+        "name": "Popondetta Urban LLG",
+        "canonical": "Popondetta Urban LLG,Northern Province,Papua New Guinea",
+        "region": "Northern Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9259508,
+        "name": "Saint George Basseterre Parish",
+        "canonical": "Saint George Basseterre Parish,Saint Kitts and Nevis",
+        "region": "",
+        "country": "Saint Kitts and Nevis",
+        "countryCode": "kn"
+    },
+    {
+        "id": 9259763,
+        "name": "Brikama",
+        "canonical": "Brikama,The Gambia",
+        "region": "",
+        "country": "The Gambia",
+        "countryCode": "gm"
+    },
+    {
+        "id": 9259827,
+        "name": "Line Islands",
+        "canonical": "Line Islands,Kiribati",
+        "region": "",
+        "country": "Kiribati",
+        "countryCode": "ki"
+    },
+    {
+        "id": 9259844,
+        "name": "Gash Barka",
+        "canonical": "Gash Barka,Eritrea",
+        "region": "",
+        "country": "Eritrea",
+        "countryCode": "er"
+    },
+    {
+        "id": 9259848,
+        "name": "South Gippsland Shire",
+        "canonical": "South Gippsland Shire,Victoria,Australia",
+        "region": "Victoria",
+        "country": "Australia",
+        "countryCode": "au"
+    },
+    {
+        "id": 9259869,
+        "name": "Shire of Boddington",
+        "canonical": "Shire of Boddington,Western Australia,Australia",
+        "region": "Western Australia",
+        "country": "Australia",
+        "countryCode": "au"
+    },
+    {
+        "id": 9259920,
+        "name": "Ha'apai",
+        "canonical": "Ha'apai,Tonga",
+        "region": "",
+        "country": "Tonga",
+        "countryCode": "to"
+    },
+    {
+        "id": 9259960,
+        "name": "South Waghi Rural LLG",
+        "canonical": "South Waghi Rural LLG,Jiwaka Province,Papua New Guinea",
+        "region": "Jiwaka Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9260144,
+        "name": "Waiye LLG",
+        "canonical": "Waiye LLG,Chimbu Province,Papua New Guinea",
+        "region": "Chimbu Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9260166,
+        "name": "Mayo-Kebbi Est",
+        "canonical": "Mayo-Kebbi Est,Chad",
+        "region": "",
+        "country": "Chad",
+        "countryCode": "td"
+    },
+    {
+        "id": 9260358,
+        "name": "Gilbert Islands",
+        "canonical": "Gilbert Islands,Kiribati",
+        "region": "",
+        "country": "Kiribati",
+        "countryCode": "ki"
+    },
+    {
+        "id": 9260921,
+        "name": "Eysturoy",
+        "canonical": "Eysturoy,Faroe Islands",
+        "region": "",
+        "country": "Faroe Islands",
+        "countryCode": "fo"
+    },
+    {
+        "id": 9261138,
+        "name": "Madang Urban LLG",
+        "canonical": "Madang Urban LLG,Madang Province,Papua New Guinea",
+        "region": "Madang Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9261233,
+        "name": "Usino Rural LLG",
+        "canonical": "Usino Rural LLG,Madang Province,Papua New Guinea",
+        "region": "Madang Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9261379,
+        "name": "Kea-Kythnos",
+        "canonical": "Kea-Kythnos,Decentralized Administration of the Aegean,Greece",
+        "region": "Decentralized Administration of the Aegean",
+        "country": "Greece",
+        "countryCode": "gr"
+    },
+    {
+        "id": 9261403,
+        "name": "Kewabi Rural LLG",
+        "canonical": "Kewabi Rural LLG,Southern Highlands Province,Papua New Guinea",
+        "region": "Southern Highlands Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9261459,
+        "name": "Colac Otway Shire",
+        "canonical": "Colac Otway Shire,Victoria,Australia",
+        "region": "Victoria",
+        "country": "Australia",
+        "countryCode": "au"
+    },
+    {
+        "id": 9261461,
+        "name": "Lae Urban LLG",
+        "canonical": "Lae Urban LLG,Morobe Province,Papua New Guinea",
+        "region": "Morobe Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9261490,
+        "name": "Barbuda",
+        "canonical": "Barbuda,Antigua and Barbuda",
+        "region": "",
+        "country": "Antigua and Barbuda",
+        "countryCode": "ag"
+    },
+    {
+        "id": 9261535,
+        "name": "Gbokle",
+        "canonical": "Gbokle,Bas-Sassandra District,Cote d'Ivoire",
+        "region": "Bas-Sassandra District",
+        "country": "Cote d'Ivoire",
+        "countryCode": "ci"
+    },
+    {
+        "id": 9261542,
+        "name": "Bitapaka Rural LLG",
+        "canonical": "Bitapaka Rural LLG,East New Britain Province,Papua New Guinea",
+        "region": "East New Britain Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9261547,
+        "name": "Saint Helena",
+        "canonical": "Saint Helena,Saint Helena, Ascension and Tristan da Cunha",
+        "region": "Saint Helena",
+        "country": " Ascension and Tristan da Cunha",
+        "countryCode": "sh"
+    },
+    {
+        "id": 9262205,
+        "name": "Tari Urban LLG",
+        "canonical": "Tari Urban LLG,Hela Province,Papua New Guinea",
+        "region": "Hela Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9262217,
+        "name": "Daru Urban LLG",
+        "canonical": "Daru Urban LLG,Western Province,Papua New Guinea",
+        "region": "Western Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9262381,
+        "name": "Saint Joseph Parish",
+        "canonical": "Saint Joseph Parish,Dominica",
+        "region": "",
+        "country": "Dominica",
+        "countryCode": "dm"
+    },
+    {
+        "id": 9262529,
+        "name": "Inland Baining Rural LLG",
+        "canonical": "Inland Baining Rural LLG,East New Britain Province,Papua New Guinea",
+        "region": "East New Britain Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9262635,
+        "name": "Mount Hagen Rural LLG",
+        "canonical": "Mount Hagen Rural LLG,Western Highlands Province,Papua New Guinea",
+        "region": "Western Highlands Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9262839,
+        "name": "Watut Rural LLG",
+        "canonical": "Watut Rural LLG,Morobe Province,Papua New Guinea",
+        "region": "Morobe Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9263108,
+        "name": "Vava'u",
+        "canonical": "Vava'u,Tonga",
+        "region": "",
+        "country": "Tonga",
+        "countryCode": "to"
+    },
+    {
+        "id": 9263138,
+        "name": "Central Gazelle Rural LLG",
+        "canonical": "Central Gazelle Rural LLG,East New Britain Province,Papua New Guinea",
+        "region": "East New Britain Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9263321,
+        "name": "Kavango East Region",
+        "canonical": "Kavango East Region,Namibia",
+        "region": "",
+        "country": "Namibia",
+        "countryCode": "na"
+    },
+    {
+        "id": 9263382,
+        "name": "Wampar Rural LLG",
+        "canonical": "Wampar Rural LLG,Morobe Province,Papua New Guinea",
+        "region": "Morobe Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9263406,
+        "name": "Talasea Rural LLG",
+        "canonical": "Talasea Rural LLG,West New Britain Province,Papua New Guinea",
+        "region": "West New Britain Province",
+        "country": "Papua New Guinea",
+        "countryCode": "pg"
+    },
+    {
+        "id": 9263867,
+        "name": "Banjul",
+        "canonical": "Banjul,The Gambia",
+        "region": "",
+        "country": "The Gambia",
+        "countryCode": "gm"
+    },
+    {
+        "id": 9264123,
+        "name": "Analanjirofo",
+        "canonical": "Analanjirofo,Madagascar",
+        "region": "",
+        "country": "Madagascar",
+        "countryCode": "mg"
     },
     {
         "id": 20973,

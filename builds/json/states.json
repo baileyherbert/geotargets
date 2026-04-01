@@ -1878,5 +1878,325 @@
         "region": "",
         "country": "Venezuela",
         "countryCode": "ve"
+    },
+    {
+        "id": 9224072,
+        "name": "South Kordofan",
+        "canonical": "South Kordofan,Sudan",
+        "region": "",
+        "country": "Sudan",
+        "countryCode": "sd"
+    },
+    {
+        "id": 9224437,
+        "name": "Angaur",
+        "canonical": "Angaur,Palau",
+        "region": "",
+        "country": "Palau",
+        "countryCode": "pw"
+    },
+    {
+        "id": 9224569,
+        "name": "Ngiwal",
+        "canonical": "Ngiwal,Palau",
+        "region": "",
+        "country": "Palau",
+        "countryCode": "pw"
+    },
+    {
+        "id": 9224834,
+        "name": "Central Equatoria",
+        "canonical": "Central Equatoria,South Sudan",
+        "region": "",
+        "country": "South Sudan",
+        "countryCode": "ss"
+    },
+    {
+        "id": 9226001,
+        "name": "Airai",
+        "canonical": "Airai,Palau",
+        "region": "",
+        "country": "Palau",
+        "countryCode": "pw"
+    },
+    {
+        "id": 9226850,
+        "name": "Chuuk",
+        "canonical": "Chuuk,Micronesia",
+        "region": "",
+        "country": "Micronesia",
+        "countryCode": "fm"
+    },
+    {
+        "id": 9227381,
+        "name": "North Darfur",
+        "canonical": "North Darfur,Sudan",
+        "region": "",
+        "country": "Sudan",
+        "countryCode": "sd"
+    },
+    {
+        "id": 9228836,
+        "name": "Ngeremlengui",
+        "canonical": "Ngeremlengui,Palau",
+        "region": "",
+        "country": "Palau",
+        "countryCode": "pw"
+    },
+    {
+        "id": 9229393,
+        "name": "North Kurdufan",
+        "canonical": "North Kurdufan,Sudan",
+        "region": "",
+        "country": "Sudan",
+        "countryCode": "sd"
+    },
+    {
+        "id": 9229401,
+        "name": "Red Sea",
+        "canonical": "Red Sea,Sudan",
+        "region": "",
+        "country": "Sudan",
+        "countryCode": "sd"
+    },
+    {
+        "id": 9230192,
+        "name": "Ngaraard",
+        "canonical": "Ngaraard,Palau",
+        "region": "",
+        "country": "Palau",
+        "countryCode": "pw"
+    },
+    {
+        "id": 9230909,
+        "name": "Upper Nile",
+        "canonical": "Upper Nile,South Sudan",
+        "region": "",
+        "country": "South Sudan",
+        "countryCode": "ss"
+    },
+    {
+        "id": 9231010,
+        "name": "Central Darfur",
+        "canonical": "Central Darfur,Sudan",
+        "region": "",
+        "country": "Sudan",
+        "countryCode": "sd"
+    },
+    {
+        "id": 9231151,
+        "name": "Ngchesar",
+        "canonical": "Ngchesar,Palau",
+        "region": "",
+        "country": "Palau",
+        "countryCode": "pw"
+    },
+    {
+        "id": 9232006,
+        "name": "Jonglei",
+        "canonical": "Jonglei,South Sudan",
+        "region": "",
+        "country": "South Sudan",
+        "countryCode": "ss"
+    },
+    {
+        "id": 9233108,
+        "name": "Blue Nile",
+        "canonical": "Blue Nile,Sudan",
+        "region": "",
+        "country": "Sudan",
+        "countryCode": "sd"
+    },
+    {
+        "id": 9234145,
+        "name": "Khartoum",
+        "canonical": "Khartoum,Sudan",
+        "region": "",
+        "country": "Sudan",
+        "countryCode": "sd"
+    },
+    {
+        "id": 9234453,
+        "name": "Ngatpang",
+        "canonical": "Ngatpang,Palau",
+        "region": "",
+        "country": "Palau",
+        "countryCode": "pw"
+    },
+    {
+        "id": 9235332,
+        "name": "Warrap",
+        "canonical": "Warrap,South Sudan",
+        "region": "",
+        "country": "South Sudan",
+        "countryCode": "ss"
+    },
+    {
+        "id": 9236361,
+        "name": "Gedaref",
+        "canonical": "Gedaref,Sudan",
+        "region": "",
+        "country": "Sudan",
+        "countryCode": "sd"
+    },
+    {
+        "id": 9237528,
+        "name": "Peleliu",
+        "canonical": "Peleliu,Palau",
+        "region": "",
+        "country": "Palau",
+        "countryCode": "pw"
+    },
+    {
+        "id": 9238004,
+        "name": "Melekeok",
+        "canonical": "Melekeok,Palau",
+        "region": "",
+        "country": "Palau",
+        "countryCode": "pw"
+    },
+    {
+        "id": 9239291,
+        "name": "Unity",
+        "canonical": "Unity,South Sudan",
+        "region": "",
+        "country": "South Sudan",
+        "countryCode": "ss"
+    },
+    {
+        "id": 9240749,
+        "name": "Northern Bahr el Ghazal",
+        "canonical": "Northern Bahr el Ghazal,South Sudan",
+        "region": "",
+        "country": "South Sudan",
+        "countryCode": "ss"
+    },
+    {
+        "id": 9240761,
+        "name": "Ngardmau",
+        "canonical": "Ngardmau,Palau",
+        "region": "",
+        "country": "Palau",
+        "countryCode": "pw"
+    },
+    {
+        "id": 9240832,
+        "name": "Northern",
+        "canonical": "Northern,Sudan",
+        "region": "",
+        "country": "Sudan",
+        "countryCode": "sd"
+    },
+    {
+        "id": 9242124,
+        "name": "Ngarchelong",
+        "canonical": "Ngarchelong,Palau",
+        "region": "",
+        "country": "Palau",
+        "countryCode": "pw"
+    },
+    {
+        "id": 9242149,
+        "name": "Western Equatoria",
+        "canonical": "Western Equatoria,South Sudan",
+        "region": "",
+        "country": "South Sudan",
+        "countryCode": "ss"
+    },
+    {
+        "id": 9244749,
+        "name": "White Nile",
+        "canonical": "White Nile,Sudan",
+        "region": "",
+        "country": "Sudan",
+        "countryCode": "sd"
+    },
+    {
+        "id": 9245013,
+        "name": "Koror",
+        "canonical": "Koror,Palau",
+        "region": "",
+        "country": "Palau",
+        "countryCode": "pw"
+    },
+    {
+        "id": 9249073,
+        "name": "Yap",
+        "canonical": "Yap,Micronesia",
+        "region": "",
+        "country": "Micronesia",
+        "countryCode": "fm"
+    },
+    {
+        "id": 9249662,
+        "name": "Pohnpei",
+        "canonical": "Pohnpei,Micronesia",
+        "region": "",
+        "country": "Micronesia",
+        "countryCode": "fm"
+    },
+    {
+        "id": 9249962,
+        "name": "Aimeliik",
+        "canonical": "Aimeliik,Palau",
+        "region": "",
+        "country": "Palau",
+        "countryCode": "pw"
+    },
+    {
+        "id": 9251693,
+        "name": "Al Jazirah",
+        "canonical": "Al Jazirah,Sudan",
+        "region": "",
+        "country": "Sudan",
+        "countryCode": "sd"
+    },
+    {
+        "id": 9252120,
+        "name": "River Nile",
+        "canonical": "River Nile,Sudan",
+        "region": "",
+        "country": "Sudan",
+        "countryCode": "sd"
+    },
+    {
+        "id": 9253845,
+        "name": "Western Bahr el Ghazal",
+        "canonical": "Western Bahr el Ghazal,South Sudan",
+        "region": "",
+        "country": "South Sudan",
+        "countryCode": "ss"
+    },
+    {
+        "id": 9254972,
+        "name": "Eastern Equatoria",
+        "canonical": "Eastern Equatoria,South Sudan",
+        "region": "",
+        "country": "South Sudan",
+        "countryCode": "ss"
+    },
+    {
+        "id": 9258101,
+        "name": "South Darfur",
+        "canonical": "South Darfur,Sudan",
+        "region": "",
+        "country": "Sudan",
+        "countryCode": "sd"
+    },
+    {
+        "id": 9259457,
+        "name": "West Kordofan",
+        "canonical": "West Kordofan,Sudan",
+        "region": "",
+        "country": "Sudan",
+        "countryCode": "sd"
+    },
+    {
+        "id": 9263104,
+        "name": "Lakes",
+        "canonical": "Lakes,South Sudan",
+        "region": "",
+        "country": "South Sudan",
+        "countryCode": "ss"
     }
 ]

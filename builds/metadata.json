@@ -1,13 +1,13 @@
 {
-	"date": "2026-03-23",
-	"source": "https://developers.google.com/static/google-ads/api/data/geo/geotargets-2026-03-23.csv.zip",
+	"date": "2026-03-31",
+	"source": "https://developers.google.com/static/google-ads/api/data/geo/geotargets-2026-03-31.csv.zip",
 	"counts": {
-		"cities": 49766,
+		"cities": 65056,
 		"countries": 219,
-		"counties": 3476,
-		"postal_codes": 130426,
-		"regions": 955,
-		"states": 235
+		"counties": 3706,
+		"postal_codes": 132824,
+		"regions": 1217,
+		"states": 275
 	},
 	"formats": {
 		"csv": {
