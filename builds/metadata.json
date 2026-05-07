@@ -1,8 +1,8 @@
 {
-	"date": "2026-03-31",
-	"source": "https://developers.google.com/static/google-ads/api/data/geo/geotargets-2026-03-31.csv.zip",
+	"date": "2026-05-05",
+	"source": "https://developers.google.com/static/google-ads/api/data/geo/geotargets-2026-05-05.csv.zip",
 	"counts": {
-		"cities": 65056,
+		"cities": 65050,
 		"countries": 219,
 		"counties": 3706,
 		"postal_codes": 132824,

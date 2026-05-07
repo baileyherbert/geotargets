@@ -866,8 +866,8 @@
     {
         "id": 20391,
         "name": "Lesbos",
-        "canonical": "Lesbos,Decentralized Administration of the Aegean,Greece",
-        "region": "Decentralized Administration of the Aegean",
+        "canonical": "Lesbos,Lesbos,Decentralized Administration of the Aegean,Greece",
+        "region": "Lesbos,Decentralized Administration of the Aegean",
         "country": "Greece",
         "countryCode": "gr"
     },
@@ -5374,8 +5374,8 @@
     },
     {
         "id": 9070440,
-        "name": "Chuy Region",
-        "canonical": "Chuy Region,Kyrgyzstan",
+        "name": "Chuy Province",
+        "canonical": "Chuy Province,Kyrgyzstan",
         "region": "",
         "country": "Kyrgyzstan",
         "countryCode": "kg"
@@ -8566,8 +8566,8 @@
     },
     {
         "id": 9242169,
-        "name": "Lesbos Prefecture",
-        "canonical": "Lesbos Prefecture,Decentralized Administration of the Aegean,Greece",
+        "name": "Lesbos",
+        "canonical": "Lesbos,Decentralized Administration of the Aegean,Greece",
         "region": "Decentralized Administration of the Aegean",
         "country": "Greece",
         "countryCode": "gr"
