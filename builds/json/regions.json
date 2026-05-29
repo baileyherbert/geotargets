@@ -7229,70 +7229,6 @@
         "countryCode": "eg"
     },
     {
-        "id": 9112526,
-        "name": "Mount Baw Baw Alpine Resort (Unincorporated)",
-        "canonical": "Mount Baw Baw Alpine Resort (Unincorporated),Victoria,Australia",
-        "region": "Victoria",
-        "country": "Australia",
-        "countryCode": "au"
-    },
-    {
-        "id": 9112558,
-        "name": "Un-Incorporated (Nhulunbuy) Area",
-        "canonical": "Un-Incorporated (Nhulunbuy) Area,Northern Territory,Australia",
-        "region": "Northern Territory",
-        "country": "Australia",
-        "countryCode": "au"
-    },
-    {
-        "id": 9112688,
-        "name": "Northern Territory Rates Act Area",
-        "canonical": "Northern Territory Rates Act Area,Northern Territory,Australia",
-        "region": "Northern Territory",
-        "country": "Australia",
-        "countryCode": "au"
-    },
-    {
-        "id": 9112727,
-        "name": "Lake Mountain Alpine Resort (Unincorporated)",
-        "canonical": "Lake Mountain Alpine Resort (Unincorporated),Victoria,Australia",
-        "region": "Victoria",
-        "country": "Australia",
-        "countryCode": "au"
-    },
-    {
-        "id": 9112778,
-        "name": "Mount Stirling Alpine Resort (Unincorporated)",
-        "canonical": "Mount Stirling Alpine Resort (Unincorporated),Victoria,Australia",
-        "region": "Victoria",
-        "country": "Australia",
-        "countryCode": "au"
-    },
-    {
-        "id": 9112795,
-        "name": "Un-Incorporated (Yulara) Area",
-        "canonical": "Un-Incorporated (Yulara) Area,Northern Territory,Australia",
-        "region": "Northern Territory",
-        "country": "Australia",
-        "countryCode": "au"
-    },
-    {
-        "id": 9112833,
-        "name": "Falls Creek Alpine Resort (Unincorporated)",
-        "canonical": "Falls Creek Alpine Resort (Unincorporated),Victoria,Australia",
-        "region": "Victoria",
-        "country": "Australia",
-        "countryCode": "au"
-    },
-    {
-        "id": 9112835,
-        "name": "Un-Incorporated (Elrundie) Area",
-        "canonical": "Un-Incorporated (Elrundie) Area,Northern Territory,Australia",
-        "region": "Northern Territory",
-        "country": "Australia",
-        "countryCode": "au"
-    },
-    {
         "id": 9189140,
         "name": "Lima Province",
         "canonical": "Lima Province,Peru",
@@ -7613,14 +7549,6 @@
         "countryCode": "so"
     },
     {
-        "id": 9223134,
-        "name": "Golden Plains Shire",
-        "canonical": "Golden Plains Shire,Victoria,Australia",
-        "region": "Victoria",
-        "country": "Australia",
-        "countryCode": "au"
-    },
-    {
         "id": 9223384,
         "name": "Diana",
         "canonical": "Diana,Madagascar",
@@ -7669,14 +7597,6 @@
         "countryCode": "mg"
     },
     {
-        "id": 9225152,
-        "name": "Macedon Ranges Shire",
-        "canonical": "Macedon Ranges Shire,Victoria,Australia",
-        "region": "Victoria",
-        "country": "Australia",
-        "countryCode": "au"
-    },
-    {
         "id": 9225328,
         "name": "Wau Rural LLG",
         "canonical": "Wau Rural LLG,Morobe Province,Papua New Guinea",
@@ -7717,14 +7637,6 @@
         "countryCode": "td"
     },
     {
-        "id": 9226166,
-        "name": "Rockhampton Regional",
-        "canonical": "Rockhampton Regional,Queensland,Australia",
-        "region": "Queensland",
-        "country": "Australia",
-        "countryCode": "au"
-    },
-    {
         "id": 9226461,
         "name": "Kaustinen",
         "canonical": "Kaustinen,Central Ostrobothnia,Finland",
@@ -7763,14 +7675,6 @@
         "region": "New Ireland Province",
         "country": "Papua New Guinea",
         "countryCode": "pg"
-    },
-    {
-        "id": 9227024,
-        "name": "Tamworth Regional Council",
-        "canonical": "Tamworth Regional Council,New South Wales,Australia",
-        "region": "New South Wales",
-        "country": "Australia",
-        "countryCode": "au"
     },
     {
         "id": 9227277,
@@ -7829,14 +7733,6 @@
         "countryCode": "ci"
     },
     {
-        "id": 9228996,
-        "name": "Tablelands Regional",
-        "canonical": "Tablelands Regional,Queensland,Australia",
-        "region": "Queensland",
-        "country": "Australia",
-        "countryCode": "au"
-    },
-    {
         "id": 9229049,
         "name": "Tikana Rural LLG",
         "canonical": "Tikana Rural LLG,New Ireland Province,Papua New Guinea",
@@ -7869,22 +7765,6 @@
         "countryCode": "il"
     },
     {
-        "id": 9229649,
-        "name": "Oberon Council",
-        "canonical": "Oberon Council,New South Wales,Australia",
-        "region": "New South Wales",
-        "country": "Australia",
-        "countryCode": "au"
-    },
-    {
-        "id": 9229797,
-        "name": "Kempsey Shire",
-        "canonical": "Kempsey Shire,New South Wales,Australia",
-        "region": "New South Wales",
-        "country": "Australia",
-        "countryCode": "au"
-    },
-    {
         "id": 9229948,
         "name": "Sofia",
         "canonical": "Sofia,Madagascar",
@@ -7909,28 +7789,12 @@
         "countryCode": "kn"
     },
     {
-        "id": 9230311,
-        "name": "Lockyer Valley Regional",
-        "canonical": "Lockyer Valley Regional,Queensland,Australia",
-        "region": "Queensland",
-        "country": "Australia",
-        "countryCode": "au"
-    },
-    {
         "id": 9230313,
         "name": "Gahuku Rural LLG",
         "canonical": "Gahuku Rural LLG,Eastern Highlands Province,Papua New Guinea",
         "region": "Eastern Highlands Province",
         "country": "Papua New Guinea",
         "countryCode": "pg"
-    },
-    {
-        "id": 9230349,
-        "name": "Cairns Regional",
-        "canonical": "Cairns Regional,Queensland,Australia",
-        "region": "Queensland",
-        "country": "Australia",
-        "countryCode": "au"
     },
     {
         "id": 9230418,
@@ -7965,14 +7829,6 @@
         "countryCode": "gn"
     },
     {
-        "id": 9230802,
-        "name": "City of Greater Geraldton",
-        "canonical": "City of Greater Geraldton,Western Australia,Australia",
-        "region": "Western Australia",
-        "country": "Australia",
-        "countryCode": "au"
-    },
-    {
         "id": 9231316,
         "name": "South Nouakchott",
         "canonical": "South Nouakchott,Mauritania",
@@ -7989,14 +7845,6 @@
         "countryCode": "ci"
     },
     {
-        "id": 9231613,
-        "name": "Swan Hill Rural City",
-        "canonical": "Swan Hill Rural City,Victoria,Australia",
-        "region": "Victoria",
-        "country": "Australia",
-        "countryCode": "au"
-    },
-    {
         "id": 9231638,
         "name": "Lelemadih/Bupichupeu LLG",
         "canonical": "Lelemadih/Bupichupeu LLG,Manus Province,Papua New Guinea",
@@ -8005,36 +7853,12 @@
         "countryCode": "pg"
     },
     {
-        "id": 9231867,
-        "name": "Queenscliffe Borough",
-        "canonical": "Queenscliffe Borough,Victoria,Australia",
-        "region": "Victoria",
-        "country": "Australia",
-        "countryCode": "au"
-    },
-    {
         "id": 9231906,
         "name": "Milos",
         "canonical": "Milos,Decentralized Administration of the Aegean,Greece",
         "region": "Decentralized Administration of the Aegean",
         "country": "Greece",
         "countryCode": "gr"
-    },
-    {
-        "id": 9232012,
-        "name": "The District Council of Lower Eyre Peninsula",
-        "canonical": "The District Council of Lower Eyre Peninsula,South Australia,Australia",
-        "region": "South Australia",
-        "country": "Australia",
-        "countryCode": "au"
-    },
-    {
-        "id": 9232014,
-        "name": "Derwent Valley Council",
-        "canonical": "Derwent Valley Council,Tasmania,Australia",
-        "region": "Tasmania",
-        "country": "Australia",
-        "countryCode": "au"
     },
     {
         "id": 9232333,
@@ -8077,14 +7901,6 @@
         "countryCode": "mr"
     },
     {
-        "id": 9233305,
-        "name": "Townsville City",
-        "canonical": "Townsville City,Queensland,Australia",
-        "region": "Queensland",
-        "country": "Australia",
-        "countryCode": "au"
-    },
-    {
         "id": 9233414,
         "name": "Goroka Urban LLG",
         "canonical": "Goroka Urban LLG,Eastern Highlands Province,Papua New Guinea",
@@ -8099,14 +7915,6 @@
         "region": "New Ireland Province",
         "country": "Papua New Guinea",
         "countryCode": "pg"
-    },
-    {
-        "id": 9233829,
-        "name": "Livingstone Shire",
-        "canonical": "Livingstone Shire,Queensland,Australia",
-        "region": "Queensland",
-        "country": "Australia",
-        "countryCode": "au"
     },
     {
         "id": 9233868,
@@ -8197,22 +8005,6 @@
         "countryCode": "fi"
     },
     {
-        "id": 9235061,
-        "name": "Singleton Council",
-        "canonical": "Singleton Council,New South Wales,Australia",
-        "region": "New South Wales",
-        "country": "Australia",
-        "countryCode": "au"
-    },
-    {
-        "id": 9235096,
-        "name": "Wagga Wagga City Council",
-        "canonical": "Wagga Wagga City Council,New South Wales,Australia",
-        "region": "New South Wales",
-        "country": "Australia",
-        "countryCode": "au"
-    },
-    {
         "id": 9235149,
         "name": "Moesa District",
         "canonical": "Moesa District,Grisons,Switzerland",
@@ -8269,14 +8061,6 @@
         "countryCode": "pg"
     },
     {
-        "id": 9236458,
-        "name": "Southern Downs Regional",
-        "canonical": "Southern Downs Regional,Queensland,Australia",
-        "region": "Queensland",
-        "country": "Australia",
-        "countryCode": "au"
-    },
-    {
         "id": 9236538,
         "name": "Dikhil",
         "canonical": "Dikhil,Djibouti",
@@ -8325,14 +8109,6 @@
         "countryCode": "tz"
     },
     {
-        "id": 9237082,
-        "name": "Campaspe Shire",
-        "canonical": "Campaspe Shire,Victoria,Australia",
-        "region": "Victoria",
-        "country": "Australia",
-        "countryCode": "au"
-    },
-    {
         "id": 9237221,
         "name": "Hoskins Rural LLG",
         "canonical": "Hoskins Rural LLG,West New Britain Province,Papua New Guinea",
@@ -8355,14 +8131,6 @@
         "region": "Western Highlands Province",
         "country": "Papua New Guinea",
         "countryCode": "pg"
-    },
-    {
-        "id": 9237709,
-        "name": "East Gippsland Shire",
-        "canonical": "East Gippsland Shire,Victoria,Australia",
-        "region": "Victoria",
-        "country": "Australia",
-        "countryCode": "au"
     },
     {
         "id": 9237913,
@@ -8437,14 +8205,6 @@
         "countryCode": "gr"
     },
     {
-        "id": 9238893,
-        "name": "Latrobe City",
-        "canonical": "Latrobe City,Victoria,Australia",
-        "region": "Victoria",
-        "country": "Australia",
-        "countryCode": "au"
-    },
-    {
         "id": 9238964,
         "name": "Saint David",
         "canonical": "Saint David,Saint Vincent and the Grenadines",
@@ -8469,14 +8229,6 @@
         "countryCode": "ci"
     },
     {
-        "id": 9239365,
-        "name": "Central Coast Council",
-        "canonical": "Central Coast Council,New South Wales,Australia",
-        "region": "New South Wales",
-        "country": "Australia",
-        "countryCode": "au"
-    },
-    {
         "id": 9239803,
         "name": "Christ Church Nichola Town Parish",
         "canonical": "Christ Church Nichola Town Parish,Saint Kitts and Nevis",
@@ -8491,14 +8243,6 @@
         "region": "Autonomous Region of Bougainville",
         "country": "Papua New Guinea",
         "countryCode": "pg"
-    },
-    {
-        "id": 9240150,
-        "name": "City of Moreton Bay",
-        "canonical": "City of Moreton Bay,Queensland,Australia",
-        "region": "Queensland",
-        "country": "Australia",
-        "countryCode": "au"
     },
     {
         "id": 9240161,
@@ -8589,28 +8333,12 @@
         "countryCode": "gm"
     },
     {
-        "id": 9243449,
-        "name": "Shire of Chapman Valley",
-        "canonical": "Shire of Chapman Valley,Western Australia,Australia",
-        "region": "Western Australia",
-        "country": "Australia",
-        "countryCode": "au"
-    },
-    {
         "id": 9243633,
         "name": "Saint Mary Cayon Parish",
         "canonical": "Saint Mary Cayon Parish,Saint Kitts and Nevis",
         "region": "",
         "country": "Saint Kitts and Nevis",
         "countryCode": "kn"
-    },
-    {
-        "id": 9243739,
-        "name": "Mackay Regional",
-        "canonical": "Mackay Regional,Queensland,Australia",
-        "region": "Queensland",
-        "country": "Australia",
-        "countryCode": "au"
     },
     {
         "id": 9243868,
@@ -8651,22 +8379,6 @@
         "region": "",
         "country": "Sao Tome and Principe",
         "countryCode": "st"
-    },
-    {
-        "id": 9244574,
-        "name": "Sunshine Coast Regional",
-        "canonical": "Sunshine Coast Regional,Queensland,Australia",
-        "region": "Queensland",
-        "country": "Australia",
-        "countryCode": "au"
-    },
-    {
-        "id": 9244815,
-        "name": "Huon Valley Council",
-        "canonical": "Huon Valley Council,Tasmania,Australia",
-        "region": "Tasmania",
-        "country": "Australia",
-        "countryCode": "au"
     },
     {
         "id": 9245129,
@@ -8723,14 +8435,6 @@
         "region": "",
         "country": "Chad",
         "countryCode": "td"
-    },
-    {
-        "id": 9246166,
-        "name": "Clarence Valley Council",
-        "canonical": "Clarence Valley Council,New South Wales,Australia",
-        "region": "New South Wales",
-        "country": "Australia",
-        "countryCode": "au"
     },
     {
         "id": 9246187,
@@ -8813,14 +8517,6 @@
         "countryCode": "mg"
     },
     {
-        "id": 9247411,
-        "name": "Goulburn Mulwaree Council",
-        "canonical": "Goulburn Mulwaree Council,New South Wales,Australia",
-        "region": "New South Wales",
-        "country": "Australia",
-        "countryCode": "au"
-    },
-    {
         "id": 9247417,
         "name": "Mendi Urban LLG",
         "canonical": "Mendi Urban LLG,Southern Highlands Province,Papua New Guinea",
@@ -8869,22 +8565,6 @@
         "countryCode": "td"
     },
     {
-        "id": 9248084,
-        "name": "Horsham Rural City",
-        "canonical": "Horsham Rural City,Victoria,Australia",
-        "region": "Victoria",
-        "country": "Australia",
-        "countryCode": "au"
-    },
-    {
-        "id": 9248129,
-        "name": "City of Kalgoorlie-Boulder",
-        "canonical": "City of Kalgoorlie-Boulder,Western Australia,Australia",
-        "region": "Western Australia",
-        "country": "Australia",
-        "countryCode": "au"
-    },
-    {
         "id": 9248407,
         "name": "Poro",
         "canonical": "Poro,Savanes District,Cote d'Ivoire",
@@ -8899,30 +8579,6 @@
         "region": "Denguele District",
         "country": "Cote d'Ivoire",
         "countryCode": "ci"
-    },
-    {
-        "id": 9248488,
-        "name": "Shire of Harvey",
-        "canonical": "Shire of Harvey,Western Australia,Australia",
-        "region": "Western Australia",
-        "country": "Australia",
-        "countryCode": "au"
-    },
-    {
-        "id": 9248553,
-        "name": "Mid Murray Council",
-        "canonical": "Mid Murray Council,South Australia,Australia",
-        "region": "South Australia",
-        "country": "Australia",
-        "countryCode": "au"
-    },
-    {
-        "id": 9248638,
-        "name": "Greater Geelong City",
-        "canonical": "Greater Geelong City,Victoria,Australia",
-        "region": "Victoria",
-        "country": "Australia",
-        "countryCode": "au"
     },
     {
         "id": 9248752,
@@ -8941,36 +8597,12 @@
         "countryCode": "kn"
     },
     {
-        "id": 9249164,
-        "name": "Town of Port Hedland",
-        "canonical": "Town of Port Hedland,Western Australia,Australia",
-        "region": "Western Australia",
-        "country": "Australia",
-        "countryCode": "au"
-    },
-    {
         "id": 9249483,
         "name": "Vunadidir/Toma Rural LLG",
         "canonical": "Vunadidir/Toma Rural LLG,East New Britain Province,Papua New Guinea",
         "region": "East New Britain Province",
         "country": "Papua New Guinea",
         "countryCode": "pg"
-    },
-    {
-        "id": 9249545,
-        "name": "Toowoomba Regional",
-        "canonical": "Toowoomba Regional,Queensland,Australia",
-        "region": "Queensland",
-        "country": "Australia",
-        "countryCode": "au"
-    },
-    {
-        "id": 9249854,
-        "name": "Snowy Monaro Regional Council",
-        "canonical": "Snowy Monaro Regional Council,New South Wales,Australia",
-        "region": "New South Wales",
-        "country": "Australia",
-        "countryCode": "au"
     },
     {
         "id": 9249890,
@@ -9197,14 +8829,6 @@
         "countryCode": "pg"
     },
     {
-        "id": 9254869,
-        "name": "Cassowary Coast Regional",
-        "canonical": "Cassowary Coast Regional,Queensland,Australia",
-        "region": "Queensland",
-        "country": "Australia",
-        "countryCode": "au"
-    },
-    {
         "id": 9254926,
         "name": "Northern Isles",
         "canonical": "Northern Isles,Faroe Islands",
@@ -9251,14 +8875,6 @@
         "region": "Decentralized Administration of Peloponnese, Western Greece and the Ionian",
         "country": "Greece",
         "countryCode": "gr"
-    },
-    {
-        "id": 9255743,
-        "name": "Moyne Shire",
-        "canonical": "Moyne Shire,Victoria,Australia",
-        "region": "Victoria",
-        "country": "Australia",
-        "countryCode": "au"
     },
     {
         "id": 9255798,
@@ -9357,14 +8973,6 @@
         "countryCode": "ci"
     },
     {
-        "id": 9257826,
-        "name": "Gannawarra Shire",
-        "canonical": "Gannawarra Shire,Victoria,Australia",
-        "region": "Victoria",
-        "country": "Australia",
-        "countryCode": "au"
-    },
-    {
         "id": 9257980,
         "name": "Middle Shabelle",
         "canonical": "Middle Shabelle,Somalia",
@@ -9435,22 +9043,6 @@
         "region": "",
         "country": "Eritrea",
         "countryCode": "er"
-    },
-    {
-        "id": 9259848,
-        "name": "South Gippsland Shire",
-        "canonical": "South Gippsland Shire,Victoria,Australia",
-        "region": "Victoria",
-        "country": "Australia",
-        "countryCode": "au"
-    },
-    {
-        "id": 9259869,
-        "name": "Shire of Boddington",
-        "canonical": "Shire of Boddington,Western Australia,Australia",
-        "region": "Western Australia",
-        "country": "Australia",
-        "countryCode": "au"
     },
     {
         "id": 9259920,
@@ -9531,14 +9123,6 @@
         "region": "Southern Highlands Province",
         "country": "Papua New Guinea",
         "countryCode": "pg"
-    },
-    {
-        "id": 9261459,
-        "name": "Colac Otway Shire",
-        "canonical": "Colac Otway Shire,Victoria,Australia",
-        "region": "Victoria",
-        "country": "Australia",
-        "countryCode": "au"
     },
     {
         "id": 9261461,
