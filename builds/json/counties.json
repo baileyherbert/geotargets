@@ -27330,8 +27330,8 @@
     {
         "id": 9198200,
         "name": "Stoke-on-Trent",
-        "canonical": "Stoke-on-Trent,England,United Kingdom",
-        "region": "England",
+        "canonical": "Stoke-on-Trent,Stoke-on-Trent,England,United Kingdom",
+        "region": "Stoke-on-Trent,England",
         "country": "United Kingdom",
         "countryCode": "gb"
     },
@@ -27770,8 +27770,8 @@
     {
         "id": 9224815,
         "name": "Mukono",
-        "canonical": "Mukono,Central Region,Uganda",
-        "region": "Central Region",
+        "canonical": "Mukono,Mukono,Central Region,Uganda",
+        "region": "Mukono,Central Region",
         "country": "Uganda",
         "countryCode": "ug"
     },
