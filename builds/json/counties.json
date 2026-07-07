@@ -29586,17 +29586,15 @@
     {
         "id": 20774,
         "name": "Hedmark",
-        "canonical": "Hedmark,Innlandet,Norway",
-        "region": "Innlandet",
-        "country": "Norway",
+        "canonical": "Hedmark",
+        "country": "Hedmark",
         "countryCode": "no"
     },
     {
         "id": 20775,
         "name": "Oppland",
-        "canonical": "Oppland,Norway",
-        "region": "",
-        "country": "Norway",
+        "canonical": "Oppland",
+        "country": "Oppland",
         "countryCode": "no"
     },
     {
@@ -29618,33 +29616,29 @@
     {
         "id": 20782,
         "name": "Hordaland",
-        "canonical": "Hordaland,Vestland,Norway",
-        "region": "Vestland",
-        "country": "Norway",
+        "canonical": "Hordaland",
+        "country": "Hordaland",
         "countryCode": "no"
     },
     {
         "id": 20783,
         "name": "Sogn og Fjordane",
-        "canonical": "Sogn og Fjordane,Vestland,Norway",
-        "region": "Vestland",
-        "country": "Norway",
+        "canonical": "Sogn og Fjordane",
+        "country": "Sogn og Fjordane",
         "countryCode": "no"
     },
     {
         "id": 20785,
         "name": "Sor-Trondelag",
-        "canonical": "Sor-Trondelag,Trondelag,Norway",
-        "region": "Trondelag",
-        "country": "Norway",
+        "canonical": "Sor-Trondelag",
+        "country": "Sor-Trondelag",
         "countryCode": "no"
     },
     {
         "id": 20786,
         "name": "Nord-Trondelag",
-        "canonical": "Nord-Trondelag,Trondelag,Norway",
-        "region": "Trondelag",
-        "country": "Norway",
+        "canonical": "Nord-Trondelag",
+        "country": "Nord-Trondelag",
         "countryCode": "no"
     }
 ]
