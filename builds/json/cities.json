@@ -10858,8 +10858,8 @@
     {
         "id": 1002167,
         "name": "Atikokan",
-        "canonical": "Atikokan,Ontario,Canada",
-        "region": "Ontario",
+        "canonical": "Atikokan,Atikokan,Ontario,Canada",
+        "region": "Atikokan,Ontario",
         "country": "Canada",
         "countryCode": "ca"
     },
@@ -11114,8 +11114,8 @@
     {
         "id": 1002210,
         "name": "Chapleau",
-        "canonical": "Chapleau,Ontario,Canada",
-        "region": "Ontario",
+        "canonical": "Chapleau,Chapleau,Ontario,Canada",
+        "region": "Chapleau,Ontario",
         "country": "Canada",
         "countryCode": "ca"
     },
@@ -11298,8 +11298,8 @@
     {
         "id": 1002244,
         "name": "Dubreuilville",
-        "canonical": "Dubreuilville,Ontario,Canada",
-        "region": "Ontario",
+        "canonical": "Dubreuilville,Dubreuilville,Ontario,Canada",
+        "region": "Dubreuilville,Ontario",
         "country": "Canada",
         "countryCode": "ca"
     },
@@ -11394,8 +11394,8 @@
     {
         "id": 1002258,
         "name": "Espanola",
-        "canonical": "Espanola,Ontario,Canada",
-        "region": "Ontario",
+        "canonical": "Espanola,Espanola,Ontario,Canada",
+        "region": "Espanola,Ontario",
         "country": "Canada",
         "countryCode": "ca"
     },
@@ -11786,8 +11786,8 @@
     {
         "id": 1002328,
         "name": "Manitouwadge",
-        "canonical": "Manitouwadge,Ontario,Canada",
-        "region": "Ontario",
+        "canonical": "Manitouwadge,Manitouwadge,Ontario,Canada",
+        "region": "Manitouwadge,Ontario",
         "country": "Canada",
         "countryCode": "ca"
     },
@@ -12026,8 +12026,8 @@
     {
         "id": 1002364,
         "name": "Nipigon",
-        "canonical": "Nipigon,Ontario,Canada",
-        "region": "Ontario",
+        "canonical": "Nipigon,Nipigon,Ontario,Canada",
+        "region": "Nipigon,Ontario",
         "country": "Canada",
         "countryCode": "ca"
     },
@@ -12058,8 +12058,8 @@
     {
         "id": 1002370,
         "name": "Norwich",
-        "canonical": "Norwich,Ontario,Canada",
-        "region": "Ontario",
+        "canonical": "Norwich,Norwich,Ontario,Canada",
+        "region": "Norwich,Ontario",
         "country": "Canada",
         "countryCode": "ca"
     },
@@ -12202,8 +12202,8 @@
     {
         "id": 1002393,
         "name": "Port Hope",
-        "canonical": "Port Hope,Ontario,Canada",
-        "region": "Ontario",
+        "canonical": "Port Hope,Port Hope,Ontario,Canada",
+        "region": "Port Hope,Ontario",
         "country": "Canada",
         "countryCode": "ca"
     },
@@ -12482,8 +12482,8 @@
     {
         "id": 1002443,
         "name": "Terrace Bay",
-        "canonical": "Terrace Bay,Ontario,Canada",
-        "region": "Ontario",
+        "canonical": "Terrace Bay,Terrace Bay,Ontario,Canada",
+        "region": "Terrace Bay,Ontario",
         "country": "Canada",
         "countryCode": "ca"
     },
@@ -12594,8 +12594,8 @@
     {
         "id": 1002465,
         "name": "Wawa",
-        "canonical": "Wawa,Ontario,Canada",
-        "region": "Ontario",
+        "canonical": "Wawa,Wawa,Ontario,Canada",
+        "region": "Wawa,Ontario",
         "country": "Canada",
         "countryCode": "ca"
     },
@@ -12738,8 +12738,8 @@
     {
         "id": 1002489,
         "name": "Amos",
-        "canonical": "Amos,Amos,Quebec,Canada",
-        "region": "Amos,Quebec",
+        "canonical": "Amos,Quebec,Canada",
+        "region": "Quebec",
         "country": "Canada",
         "countryCode": "ca"
     },
@@ -188314,8 +188314,8 @@
     {
         "id": 1027455,
         "name": "Springfield",
-        "canonical": "Springfield,Vermont,United States",
-        "region": "Vermont",
+        "canonical": "Springfield,Springfield,Vermont,United States",
+        "region": "Springfield,Vermont",
         "country": "United States",
         "countryCode": "us"
     },
@@ -222481,9 +222481,9 @@
     },
     {
         "id": 9040195,
-        "name": "Kataka",
-        "canonical": "Kataka,Odisha,India",
-        "region": "Odisha",
+        "name": "Cuttack",
+        "canonical": "Cuttack,Cuttack,Odisha,India",
+        "region": "Cuttack,Odisha",
         "country": "India",
         "countryCode": "in"
     },
@@ -224386,8 +224386,8 @@
     {
         "id": 9041016,
         "name": "Del Viso",
-        "canonical": "Del Viso,Jose C. Paz,Buenos Aires Province,Argentina",
-        "region": "Jose C. Paz,Buenos Aires Province",
+        "canonical": "Del Viso,Buenos Aires Province,Argentina",
+        "region": "Buenos Aires Province",
         "country": "Argentina",
         "countryCode": "ar"
     },
@@ -248305,8 +248305,8 @@
     },
     {
         "id": 9050505,
-        "name": "Karaikudi",
-        "canonical": "Karaikudi,Tamil Nadu,India",
+        "name": "Karaikkudi (M.Corp)",
+        "canonical": "Karaikkudi (M.Corp),Tamil Nadu,India",
         "region": "Tamil Nadu",
         "country": "India",
         "countryCode": "in"
@@ -308482,8 +308482,8 @@
     {
         "id": 9185624,
         "name": "Pratappur",
-        "canonical": "Pratappur,Chhatrapati Sambhajinagar Division,Maharashtra,India",
-        "region": "Chhatrapati Sambhajinagar Division,Maharashtra",
+        "canonical": "Pratappur,Aurangabad Division,Maharashtra,India",
+        "region": "Aurangabad Division,Maharashtra",
         "country": "India",
         "countryCode": "in"
     },
@@ -309914,8 +309914,8 @@
     {
         "id": 9185803,
         "name": "Gandhinagar",
-        "canonical": "Gandhinagar,Chhatrapati Sambhajinagar Division,Maharashtra,India",
-        "region": "Chhatrapati Sambhajinagar Division,Maharashtra",
+        "canonical": "Gandhinagar,Aurangabad Division,Maharashtra,India",
+        "region": "Aurangabad Division,Maharashtra",
         "country": "India",
         "countryCode": "in"
     },
@@ -311114,8 +311114,8 @@
     {
         "id": 9185953,
         "name": "Dhar",
-        "canonical": "Dhar,Chhatrapati Sambhajinagar Division,Maharashtra,India",
-        "region": "Chhatrapati Sambhajinagar Division,Maharashtra",
+        "canonical": "Dhar,Aurangabad Division,Maharashtra,India",
+        "region": "Aurangabad Division,Maharashtra",
         "country": "India",
         "countryCode": "in"
     },
@@ -311170,8 +311170,8 @@
     {
         "id": 9185960,
         "name": "Kotma",
-        "canonical": "Kotma,Madhya Pradesh,India",
-        "region": "Madhya Pradesh",
+        "canonical": "Kotma,Kotma,Madhya Pradesh,India",
+        "region": "Kotma,Madhya Pradesh",
         "country": "India",
         "countryCode": "in"
     },
@@ -312106,16 +312106,16 @@
     {
         "id": 9186077,
         "name": "Karanja",
-        "canonical": "Karanja,Chhatrapati Sambhajinagar Division,Maharashtra,India",
-        "region": "Chhatrapati Sambhajinagar Division,Maharashtra",
+        "canonical": "Karanja,Aurangabad Division,Maharashtra,India",
+        "region": "Aurangabad Division,Maharashtra",
         "country": "India",
         "countryCode": "in"
     },
     {
         "id": 9186078,
         "name": "Amalner",
-        "canonical": "Amalner,Chhatrapati Sambhajinagar Division,Maharashtra,India",
-        "region": "Chhatrapati Sambhajinagar Division,Maharashtra",
+        "canonical": "Amalner,Aurangabad Division,Maharashtra,India",
+        "region": "Aurangabad Division,Maharashtra",
         "country": "India",
         "countryCode": "in"
     },
@@ -312186,8 +312186,8 @@
     {
         "id": 9186087,
         "name": "Narsapur",
-        "canonical": "Narsapur,Chhatrapati Sambhajinagar Division,Maharashtra,India",
-        "region": "Chhatrapati Sambhajinagar Division,Maharashtra",
+        "canonical": "Narsapur,Aurangabad Division,Maharashtra,India",
+        "region": "Aurangabad Division,Maharashtra",
         "country": "India",
         "countryCode": "in"
     },
@@ -312762,8 +312762,8 @@
     {
         "id": 9186159,
         "name": "Achalpur",
-        "canonical": "Achalpur,Maharashtra,India",
-        "region": "Maharashtra",
+        "canonical": "Achalpur,Achalpur,Maharashtra,India",
+        "region": "Achalpur,Maharashtra",
         "country": "India",
         "countryCode": "in"
     },
@@ -342754,8 +342754,8 @@
     {
         "id": 9197325,
         "name": "McCalla",
-        "canonical": "McCalla,Alabama,United States",
-        "region": "Alabama",
+        "canonical": "McCalla,Tuscaloosa County,Alabama,United States",
+        "region": "Tuscaloosa County,Alabama",
         "country": "United States",
         "countryCode": "us"
     },
@@ -361794,8 +361794,8 @@
     {
         "id": 9213424,
         "name": "Norbury",
-        "canonical": "Norbury,England,United Kingdom",
-        "region": "England",
+        "canonical": "Norbury,Cheshire East,England,United Kingdom",
+        "region": "Cheshire East,England",
         "country": "United Kingdom",
         "countryCode": "gb"
     },
@@ -392522,8 +392522,8 @@
     {
         "id": 9225298,
         "name": "Uxbridge",
-        "canonical": "Uxbridge,Ontario,Canada",
-        "region": "Ontario",
+        "canonical": "Uxbridge,Uxbridge,Ontario,Canada",
+        "region": "Uxbridge,Ontario",
         "country": "Canada",
         "countryCode": "ca"
     },
@@ -513433,9 +513433,9 @@
     },
     {
         "id": 9298826,
-        "name": "Sattur",
-        "canonical": "Sattur,Sattur,Tamil Nadu,India",
-        "region": "Sattur,Tamil Nadu",
+        "name": "Saathur",
+        "canonical": "Saathur,Tamil Nadu,India",
+        "region": "Tamil Nadu",
         "country": "India",
         "countryCode": "in"
     },
@@ -513674,8 +513674,8 @@
     {
         "id": 9298871,
         "name": "Ullal",
-        "canonical": "Ullal,Karnataka,India",
-        "region": "Karnataka",
+        "canonical": "Ullal,Mysore Division,Karnataka,India",
+        "region": "Mysore Division,Karnataka",
         "country": "India",
         "countryCode": "in"
     },
@@ -515705,9 +515705,9 @@
     },
     {
         "id": 9299194,
-        "name": "Gummidipoondi",
-        "canonical": "Gummidipoondi,Tamil Nadu,India",
-        "region": "Tamil Nadu",
+        "name": "Gummidipundi",
+        "canonical": "Gummidipundi,Gummidipundi,Tamil Nadu,India",
+        "region": "Gummidipundi,Tamil Nadu",
         "country": "India",
         "countryCode": "in"
     },
@@ -515777,8 +515777,8 @@
     },
     {
         "id": 9299203,
-        "name": "Navalur",
-        "canonical": "Navalur,Tamil Nadu,India",
+        "name": "Navallur",
+        "canonical": "Navallur,Tamil Nadu,India",
         "region": "Tamil Nadu",
         "country": "India",
         "countryCode": "in"
@@ -517961,9 +517961,9 @@
     },
     {
         "id": 9299491,
-        "name": "Kangeyam",
-        "canonical": "Kangeyam,Tamil Nadu,India",
-        "region": "Tamil Nadu",
+        "name": "Kangayam",
+        "canonical": "Kangayam,Kangayam,Tamil Nadu,India",
+        "region": "Kangayam,Tamil Nadu",
         "country": "India",
         "countryCode": "in"
     },
@@ -518185,8 +518185,8 @@
     },
     {
         "id": 9299521,
-        "name": "Tirupathur",
-        "canonical": "Tirupathur,Tamil Nadu,India",
+        "name": "Thiruppathur",
+        "canonical": "Thiruppathur,Tamil Nadu,India",
         "region": "Tamil Nadu",
         "country": "India",
         "countryCode": "in"
@@ -518585,8 +518585,8 @@
     },
     {
         "id": 9299575,
-        "name": "Kodigenahalli",
-        "canonical": "Kodigenahalli,Karnataka,India",
+        "name": "Kadiganahalli",
+        "canonical": "Kadiganahalli,Karnataka,India",
         "region": "Karnataka",
         "country": "India",
         "countryCode": "in"
@@ -518786,8 +518786,8 @@
     {
         "id": 9299602,
         "name": "Sompura",
-        "canonical": "Sompura,ಬೆಂಗಳೂರು ಸೌತ್,Karnataka,India",
-        "region": "ಬೆಂಗಳೂರು ಸೌತ್,Karnataka",
+        "canonical": "Sompura,Bengaluru South District,Karnataka,India",
+        "region": "Bengaluru South District,Karnataka",
         "country": "India",
         "countryCode": "in"
     },
@@ -519322,8 +519322,8 @@
     {
         "id": 9299719,
         "name": "Miraj",
-        "canonical": "Miraj,Maharashtra,India",
-        "region": "Maharashtra",
+        "canonical": "Miraj,Miraj,Maharashtra,India",
+        "region": "Miraj,Maharashtra",
         "country": "India",
         "countryCode": "in"
     },
@@ -519857,8 +519857,8 @@
     },
     {
         "id": 9299823,
-        "name": "Padappai",
-        "canonical": "Padappai,Tamil Nadu,India",
+        "name": "Padapai",
+        "canonical": "Padapai,Tamil Nadu,India",
         "region": "Tamil Nadu",
         "country": "India",
         "countryCode": "in"
@@ -520186,8 +520186,8 @@
     {
         "id": 9299890,
         "name": "Pandharpur",
-        "canonical": "Pandharpur,Chhatrapati Sambhajinagar Division,Maharashtra,India",
-        "region": "Chhatrapati Sambhajinagar Division,Maharashtra",
+        "canonical": "Pandharpur,Aurangabad Division,Maharashtra,India",
+        "region": "Aurangabad Division,Maharashtra",
         "country": "India",
         "countryCode": "in"
     },
@@ -520961,8 +520961,8 @@
     },
     {
         "id": 9300045,
-        "name": "Sangagiri",
-        "canonical": "Sangagiri,Tamil Nadu,India",
+        "name": "sathyanagar",
+        "canonical": "sathyanagar,Tamil Nadu,India",
         "region": "Tamil Nadu",
         "country": "India",
         "countryCode": "in"

@@ -559986,8 +559986,8 @@
     {
         "id": 9133532,
         "name": "36914",
-        "canonical": "36914,Guanajuato,Mexico",
-        "region": "Guanajuato",
+        "canonical": "36914,Santa Ana Pacueco,Guanajuato,Mexico",
+        "region": "Santa Ana Pacueco,Guanajuato",
         "country": "Mexico",
         "countryCode": "mx"
     },
@@ -563826,8 +563826,8 @@
     {
         "id": 9134012,
         "name": "27400",
-        "canonical": "27400,Coahuila,Mexico",
-        "region": "Coahuila",
+        "canonical": "27400,Torreon,Coahuila,Mexico",
+        "region": "Torreon,Coahuila",
         "country": "Mexico",
         "countryCode": "mx"
     },
@@ -585490,8 +585490,8 @@
     {
         "id": 9136720,
         "name": "68405",
-        "canonical": "68405,Oaxaca,Mexico",
-        "region": "Oaxaca",
+        "canonical": "68405,Loma Bonita,Oaxaca,Mexico",
+        "region": "Loma Bonita,Oaxaca",
         "country": "Mexico",
         "countryCode": "mx"
     },
@@ -597282,8 +597282,8 @@
     {
         "id": 9138194,
         "name": "68402",
-        "canonical": "68402,Loma Bonita,Oaxaca,Mexico",
-        "region": "Loma Bonita,Oaxaca",
+        "canonical": "68402,Oaxaca,Mexico",
+        "region": "Oaxaca",
         "country": "Mexico",
         "countryCode": "mx"
     },
@@ -603314,8 +603314,8 @@
     {
         "id": 9138948,
         "name": "61266",
-        "canonical": "61266,Michoacan,Mexico",
-        "region": "Michoacan",
+        "canonical": "61266,Maravatio,Michoacan,Mexico",
+        "region": "Maravatio,Michoacan",
         "country": "Mexico",
         "countryCode": "mx"
     },
@@ -637138,8 +637138,8 @@
     {
         "id": 9143176,
         "name": "90255",
-        "canonical": "90255,Tlaxcala,Mexico",
-        "region": "Tlaxcala",
+        "canonical": "90255,Tlaxco,Tlaxcala,Mexico",
+        "region": "Tlaxco,Tlaxcala",
         "country": "Mexico",
         "countryCode": "mx"
     },
@@ -703378,8 +703378,8 @@
     {
         "id": 9151456,
         "name": "855108",
-        "canonical": "855108,Bihar,India",
-        "region": "Bihar",
+        "canonical": "855108,Kishanganj,Bihar,India",
+        "region": "Kishanganj,Bihar",
         "country": "India",
         "countryCode": "in"
     },
@@ -994426,8 +994426,8 @@
     {
         "id": 9218828,
         "name": "38039",
-        "canonical": "38039,Trentino-South Tyrol,Italy",
-        "region": "Trentino-South Tyrol",
+        "canonical": "38039,Trentino-Alto Adige/Sudtirol,Italy",
+        "region": "Trentino-Alto Adige/Sudtirol",
         "country": "Italy",
         "countryCode": "it"
     },
